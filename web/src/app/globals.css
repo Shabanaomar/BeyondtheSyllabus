@@ -1,29 +1,136 @@
 @import "tailwindcss";
+@import "@fontsource-variable/bricolage-grotesque";
+@import "@fontsource/atkinson-hyperlegible/400.css";
+@import "@fontsource/atkinson-hyperlegible/700.css";
 
 /*
- * Placeholder tokens only. The real palette, type scale, radii and spacing are
- * chosen in Phase 2 (two visual directions, founder picks one) and documented
- * in web/design/README.md.
+ * Beyond the Syllabus design tokens: direction B, "Calm planner" (chosen 2026-10-14).
+ * Every color is a token; components never use literal colors. Documented in web/design/README.md.
+ * Fonts are bundled from npm (no request to Google at runtime or build time).
  */
 :root {
-  --background: #ffffff;
-  --foreground: #1a1a1a;
-}
-
-@theme inline {
-  --color-background: var(--background);
-  --color-foreground: var(--foreground);
+  --bg: #f2f1f7;
+  --surface: #ffffff;
+  --surface-soft: #f7f6fb;
+  --ink: #261f3b;
+  --muted: #5b5470;
+  --line: #e4e1ef;
+  --accent: #1f6f5c;
+  --accent-hover: #185a4a;
+  --on-accent: #ffffff;
+  --accent-soft: #d7efe7;
+  --on-accent-soft: #134a3d;
+  --warm-soft: #fde6cf;
+  --on-warm-soft: #6b3a0a;
+  --lilac-soft: #e4e1ef;
+  --on-lilac-soft: #3b3355;
+  --critical: #b3261e;
+  --critical-soft: #fbe3e1;
+  --focus: #2f8f78;
 }
 
 @media (prefers-color-scheme: dark) {
-  :root {
-    --background: #121212;
-    --foreground: #ececec;
+  :root:not([data-theme="light"]) {
+    --bg: #16131f;
+    --surface: #211d2e;
+    --surface-soft: #2a2539;
+    --ink: #edeaf5;
+    --muted: #b4adc8;
+    --line: #3a3450;
+    --accent: #5cc8a8;
+    --accent-hover: #7dd6bb;
+    --on-accent: #0b2a22;
+    --accent-soft: #1e3a33;
+    --on-accent-soft: #bdeedc;
+    --warm-soft: #3b2a17;
+    --on-warm-soft: #f6c99a;
+    --lilac-soft: #322c45;
+    --on-lilac-soft: #d9d3ec;
+    --critical: #ff8a80;
+    --critical-soft: #3d1d1b;
+    --focus: #8fd3bf;
+    color-scheme: dark;
   }
 }
 
+:root[data-theme="dark"] {
+  --bg: #16131f;
+  --surface: #211d2e;
+  --surface-soft: #2a2539;
+  --ink: #edeaf5;
+  --muted: #b4adc8;
+  --line: #3a3450;
+  --accent: #5cc8a8;
+  --accent-hover: #7dd6bb;
+  --on-accent: #0b2a22;
+  --accent-soft: #1e3a33;
+  --on-accent-soft: #bdeedc;
+  --warm-soft: #3b2a17;
+  --on-warm-soft: #f6c99a;
+  --lilac-soft: #322c45;
+  --on-lilac-soft: #d9d3ec;
+  --critical: #ff8a80;
+  --critical-soft: #3d1d1b;
+  --focus: #8fd3bf;
+  color-scheme: dark;
+}
+
+@theme inline {
+  --color-bg: var(--bg);
+  --color-surface: var(--surface);
+  --color-surface-soft: var(--surface-soft);
+  --color-ink: var(--ink);
+  --color-muted: var(--muted);
+  --color-line: var(--line);
+  --color-accent: var(--accent);
+  --color-accent-hover: var(--accent-hover);
+  --color-on-accent: var(--on-accent);
+  --color-accent-soft: var(--accent-soft);
+  --color-on-accent-soft: var(--on-accent-soft);
+  --color-warm-soft: var(--warm-soft);
+  --color-on-warm-soft: var(--on-warm-soft);
+  --color-lilac-soft: var(--lilac-soft);
+  --color-on-lilac-soft: var(--on-lilac-soft);
+  --color-critical: var(--critical);
+  --color-critical-soft: var(--critical-soft);
+  --color-focus: var(--focus);
+
+  --font-display: "Bricolage Grotesque Variable", "Segoe UI", system-ui, sans-serif;
+  --font-sans: "Atkinson Hyperlegible", "Segoe UI", system-ui, sans-serif;
+
+  --radius-card: 18px;
+  --radius-inner: 12px;
+}
+
+html {
+  background: var(--bg);
+}
+
 body {
-  background: var(--background);
-  color: var(--foreground);
-  font-family: system-ui, sans-serif;
+  background: var(--bg);
+  color: var(--ink);
+  font-family: var(--font-sans);
+  font-size: 16px;
+  line-height: 1.5;
+}
+
+h1,
+h2,
+h3 {
+  font-family: var(--font-display);
+  text-wrap: balance;
+}
+
+:focus-visible {
+  outline: 3px solid var(--focus);
+  outline-offset: 2px;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.01ms !important;
+    transition-duration: 0.01ms !important;
+  }
 }
