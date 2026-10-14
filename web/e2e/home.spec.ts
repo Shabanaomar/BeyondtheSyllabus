@@ -5,7 +5,7 @@ import { expectNoSeriousA11yIssues } from "./a11y";
 test("landing page explains the product and links to the sample plan", async ({ page }) => {
   await page.goto("/");
   await expect(
-    page.getByRole("heading", { level: 1, name: /Plan your degree around your job/ }),
+    page.getByRole("heading", { level: 1, name: /Plan your degree around your goals/ }),
   ).toBeVisible();
   await expect(page.getByRole("heading", { name: "How it works" })).toBeVisible();
   await expect(page.getByText("We never ask for your school password.")).toBeVisible();
