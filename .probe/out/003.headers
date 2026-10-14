@@ -1,24 +1,24 @@
-HTTP/1.1 301 Moved Permanently
-Server: nginx/1.30.5
-Date: Wed, 14 Oct 2026 03:18:38 GMT
-Content-Type: text/html
-Content-Length: 169
-Connection: keep-alive
-Location: https://www.fresnostate.edu/registrar/registration/planyourschedule.html
-
-HTTP/2 301 
-date: Wed, 14 Oct 2026 03:18:38 GMT
-content-type: text/html; charset=iso-8859-1
-content-length: 342
-location: https://studentaffairs.fresnostate.edu/registrar/index.html/registration/planyourschedule.html
-server: Apache/2.4.68 (Amazon Linux) OpenSSL/3.5.8
-cache-control: max-age=120
-expires: Wed, 14 Oct 2026 03:20:38 GMT
-
 HTTP/2 200 
-date: Wed, 14 Oct 2026 03:18:38 GMT
-content-type: text/html; charset=UTF-8
-server: Apache/2.4.68 (Amazon Linux) OpenSSL/3.5.8
-cache-control: max-age=120
-expires: Wed, 14 Oct 2026 03:20:38 GMT
+content-type: text/calendar; charset=utf-8
+cache-control: no-cache, no-store, max-age=0, must-revalidate
+pragma: no-cache
+expires: Mon, 01 Jan 1990 00:00:00 GMT
+date: Wed, 14 Oct 2026 03:36:35 GMT
+p3p: CP="This is not a P3P policy! See g.co/p3phelp for more info."
+strict-transport-security: max-age=31536000; includeSubDomains; preload
+cross-origin-embedder-policy-report-only: require-corp; report-to="calendar_coop_coep"
+cross-origin-opener-policy-report-only: same-origin-allow-popups; report-to="calendar_coop_coep"
+content-security-policy: require-trusted-types-for 'script';report-uri /calendar/cspreport
+report-to: {"group":"calendar_coop_coep","max_age":2592000,"endpoints":[{"url":"https://csp.withgoogle.com/csp/report-to/calendar"}]}
+reporting-endpoints: default="/calendar/web-reports?bl=calendar.web_20261009.06_p0&context=eJwVy3dQFGYCBXCa31v6LguiIAtLXxDYwu5SFnIcKhij5iwRRUWKAUUjJGIjWKLeaaIkGhXPcpaLx8BYokHNWJIYTSyoCBYUgl1QV9GVVYiA3Msfv3kz781zuum5aEGl3Uq6XVpp10pyT7Odob_ZLoMmUk1zikM9Of2R4hBGehpD1wcMdXhAE986i6m0Y6uL-I4Ob3MRx8gx311kX5WLrWO9xT46WeItfqWYbQoxkqotCnGAWslMWz_2Fzvp6phAcZP6WsLE3cUm0UrDLyeLTNpbnCpqqO3zIeIFlUQNFaaiNJFCB76-L2qoPapVWEnT3ioM9PBom3hCTScfizvUkPZENFGZxiyWU3uBWYQebRfVy1-K53dfCkywCNsMi3DbbBFjD1rE_bMW0Ub_arGItbTI4ZWA6pVwpzsfvBIP9r0S4z07hNa7Q5ippdQq6qusopHSzVYRH_1avEdpNJLGUybl0gwqpvm0hFbS7-dfi4s0o_21mEPzqYxW0lf0Lf2bdlElHaDD1PT2tbhDu6Z2iiJrp3BGl_D16xJNmd3ipwXd4jR5rO0WA-hSQ69oIHvNO5EW0ydGkjW5T_RQ5G99wqahT1z2ssENmrHCBp9QtJMtdOQz1RZnf7dFT68tVifYoZx8L9hBSREO9tCS0tUBP3_rgN_I-ZQDZGSsc8AQKjT0w4ND_WCm4xqB0_ToIwEzlRwSWESTSoEsmiuXYBH1kp2nBOfSJbhEGxZLYKiRYFePBJVUlu6IFZQ_0xGz6fEtR7TT7reOqKTPJjthIQ0qdYKSOk46oYvy2pxQSLVUTxsec4czVDQq1Bmuo5whp1UbnFFOI886YzxdrHVGPU3udEYuhepcMJhWx7rAd5YLjHNcYKLQPvYUSwnUkO6KRjrW6ArXEDfIKSbUDVP-6wa3V27wpFSZO4ZT8lh3DKUfct3R7SXFnwFS9NGR0VJUZ0jRXiSFleYulWIhue6RIv6SFOWNUmwka4wMqzUyfEOLxsiwlFJzZEinQ7tkOEozV3rg-hoPNFHR1x4ooVOj5ThPV0rlGFcpx0SyOSfHOXjiCk0u8UQ2te_1hJX213qihqT-XvAihdILRyq80N3UH7bN_bE91Ru7qd9db7hS9v4B-JhyHg5AAeXPHoj1xwbC-e1AvPehD1IolcKn-yCKIip8oKWg_eyo8I0Piqms1we76VmuLyyUPssXI6lzqy-29_nCGDUISXT_y0Foo6nmQcilYd5-OB7kh19IscwPwX-RK6ChB14K7I1W4CCtUyuwibqol9ZNUyDrngJ5FNmjQGa-P6ZR4XF_SOr84Ur_cAhABs0IDMAcmk9l5H0lAKufB6CcvpArsYrsg5UAPRmsxAvapVbifzRqqRJB25VQkf9BJcKoKjoQ35NvaiCUNHBTIKa3BWImJW8OQvO7INyjzzyC8Wh0ML7JD8ZGmvdpMMqoZWcwjl4Nxgmy-TkEW34JwQ563hCC17TqXQjW0iSEIovmRoRiHikfhuJNYRi2FIdhB-Wow1FATw-FI7wlHBrqexgOh0fhOOKowgk6QxeogW7SRZ0K9VRuUmEjZSarkE3PilWwkEuJCjLatEKFrdS2hhvdWqfCbdrwnQrbyO6CChKa0qhCDk2yqpBFrm9V8CCrTwS66UFxBGqXRaCBmukexd-NQDKN6ozAOFrfE4EttMwQiacpkXhBF2ZHoo6KNkaihKZpBsM7LQrn6TLFlUchmYbRB5RDBVRE82gxraD621EYHBkNLR1-Ho1gxGC2JAZG_xgkU6c2Bj30zx9isP7valTQmzw1umnYcjVGkH27GhLS2WqQQJpgDQx0w6hBC43L12DOJg3mUesWDcxUUa_BDsp7okEhne7U4Bzd7OWH5kVrUUZ1Oi2u0ctYLbrIZNQilWwTtRA0K12LYrK_oYUjLaT4Ji2SadQfWvz5VIt39NFgHTJpSpwOebS8UIcqmntAh4V0wqLDKRqRHAu_zbEIpK7uWNj0xGK8qx6Z1O6mh5Xc3PXwpDGz9JhEe_6jx40qPdYc0eP9c3qMptQmPdLpjrcBrfR9sQF-ewwIogm1BkyhFFsjhtECJyPKSBlhRBiZhxvxkuaOMaKUFGONCKbr1UY005kaI86T749GBFBDQBwaKSgkDmFhcYgiqSYOXmQfG4cThjj8Sk6JcZDRzKlxKCLJozhUdvAzIR5RpFsSjwQ68zIeF-iZPgEdtCAzAUvo8y8TsIxyGxJQTPPJ7hZ7WkFjUxKRQXtmJ-JMVSJq6WF1Ip7SiP2JMJxPxAyZCe3UQU5-JvxkMGFxsgl1FSZco7_tNGEoraoyoZxc9pkgo4BrJoSQZ4sJA6lLlwSb2CQUJDHHJ6Ef1RUmYc3aJCSaMvBhWgYm_KUgA1OoeUEG7tLhigzIj2fAl9YHTsSQ6onYnzcJHi6S05bjN4T0x7VtR-0DfXOzZ03_JC_70-j503OytGqtQaNWx0erDVlF6v8DEHdXQA"
+document-policy: include-js-call-stacks-in-crash-reports
+server: ESF
+x-xss-protection: 0
+x-frame-options: SAMEORIGIN
+x-content-type-options: nosniff
+set-cookie: NID=CuYBCAESmAEBOxGDSAtA2n3Uag5U8h3N4fT2_rR6UBZsOkdyr5ln1pLww7wkGj-qsh-qPcPRmsV68ydCCsfrmSzPx7COvBVsmY6azXP3W63en0836sOfQxZdQf-EKOaTZBUpxS95YcFq0yA9yjRz_ShE-O32Ktb7XOuNFKEQR1a_G0udhvs9iBWqk0HtDMYzfNi5-eDeYaK4uUg4nw6g4ygBMkUB0qwHz1lCb8NZBGH5I8qMte1AfbxDT4iD2qH9WXoB024u9zLupDHN0kzwBvtkKnLfsKrJe7r6-8uO3ZOT6s23qiZWUQE; expires=Thu, 15-Apr-2027 03:36:35 GMT; path=/; domain=.google.com; HttpOnly
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+accept-ranges: none
+vary: Accept-Encoding
+x-l2-request-path: l2-managed-14
 

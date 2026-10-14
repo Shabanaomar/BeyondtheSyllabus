@@ -1,23 +1,16 @@
-HTTP/2 200 
-date: Wed, 14 Oct 2026 03:22:49 GMT
-content-type: text/plain; charset=utf-8
-server: cloudflare
-vary: Accept-Encoding
-vary: Accept-Encoding
-x-frame-options: SAMEORIGIN
-access-control-allow-origin: https://www.berkeley.edu
-x-robots-tag: noindex, follow
-link: <https://www.berkeley.edu/wp-json/>; rel="https://api.w.org/"
-x-powered-by: WP Engine
-x-cacheable: CacheAlways: forever
-cache-control: max-age=14400, must-revalidate
-x-cache: HIT: 1
-last-modified: Wed, 14 Oct 2026 03:18:25 GMT
-set-cookie: __cf_bm=KngKyj_BU8RolFx0o_sXpmX1HMjnrdxA44qi3Nf__Cg-1791948169.7289-1.0.1.1-VGPzxcVjAVxTqZ4BJq54U5oITDcUSjnCyC37cvNbFM4DgtT9ViZymAbeZ.OMrxSfT_aYiW5v6C0AUrq4beb3Atag.xQgWpbczgItlQ2CDIc7aQ.8uaEQKntwMVRMNhz_; HttpOnly; SameSite=None; Secure; Path=/; Domain=www.berkeley.edu; Expires=Wed, 14 Oct 2026 03:52:49 GMT
-referrer-policy: strict-origin-when-cross-origin
-x-permitted-cross-domain-policies: none
-cf-cache-status: HIT
-age: 459
-cf-ray: a4a3763ccfdc4800-LAX
-alt-svc: h3=":443"; ma=86400
+HTTP/1.1 200 OK
+Server: nginx/1.10.3
+Date: Wed, 14 Oct 2026 03:36:51 GMT
+Content-Type: text/html; charset=utf-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+X-Frame-Options: SAMEORIGIN
+X-XSS-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+ETag: W/"34ed7462c911bd938516d8a3181dab1a"
+Cache-Control: max-age=0, private, must-revalidate
+Set-Cookie: _hkn-rails_session=ZUZtSHNLamZGQit1amgyeTZiWXVCMXRxTjJyblBsSTFjTzc2SVVxYjFCZ2F2by9weUc5aWE3cHFYajJYOFN5a3hycVZuYzg4d1hoMGszdjZaTHptaFRoOUZKWTF4bWZLdm1hcFpwcUUxNnlKQkNXV2ZPOU5ESG1FLzVwOE1nTDc3RHRGTnZLcVFKdDhGUG5NQkdTOGx5NW54RVd5Uks4YkxPdkliMU1PeWJ2bmRldGFNZWRsRlhGZi82WkJWRElQLS1jZDNva0RUbXg3Q0QzTTFiVE40bWtBPT0%3D--347ff6d8aa172838da6d9d1dbb68f80b2e6d1de7; path=/; HttpOnly
+X-Request-Id: e34e67f9-32f3-48fd-b7af-e6c9f27f2fe3
+X-Runtime: 0.158364
+Strict-Transport-Security: max-age=31536000
 

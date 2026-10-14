@@ -2,32 +2,35 @@
    <head>
       <meta charset="UTF-8">
       <meta http-equiv="x-ua-compatible" content="ie=edge">
-      <title>Current Academic Year - Division of Academic Affairs</title>
-      <link rel="canonical" href="https://academics.fresnostate.edu/about/calendars/current.html">
+      <title>Civil Engineering Programs - Civil Engineering
+</title>
+      <link rel="canonical" href="https://engineering.fresnostate.edu/civil/programs/index.html">
       <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-      <meta name="keywords" content="Fresno State, Academics Affairs, Academics Calendar, Calendar, Holidays, Instruction Days   ">
-      <meta name="description" content="Current Academic Year">
+      <meta name="keywords" content="engineering,civil engineering,ph,science,department,graduate,master,programs,bachelor,degree">
+      <meta name="description" content="Civil Engineering Programs">
       <!-- Google Tag Manager -->
 <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
 new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
 j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
-})(window,document,'script','dataLayer','GTM-WFSCKH4');</script>
+})(window,document,'script','dataLayer','GTM-PG9LGX7');</script>
 <!-- End Google Tag Manager -->
 <!-- this is the headcode include -->
 <!-- Required meta tags -->
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 <meta name="robots" content="index,follow">
 <meta name="googlebot" content="index,follow">
-<meta property="og:url" content="//academics.fresnostate.edu"> 
+<meta property="og:url" content="https://engineering.fresnostate.edu"> 
 <meta property="og:type" content="website"> 
-<meta property="og:title" content="Division of Academic Affairs"> 
-<meta property="og:description" content="Providing the leadership and commitment for academic excellence through student success, faculty/staff excellence and service to the community."> 
+<meta property="og:title" content="Lyles College of Engineering"> 
+<meta property="og:description" content="We are dedicated to providing a quality engineering and construction management education to all students and to serving students from groups that historically have not participated in university education."> 
 
 <!-- Bootstrap CSS -->
 <link rel="stylesheet" href="https://omniresources.fresnostate.edu/css/bootstrap.css">
 <link rel="stylesheet" href="https://omniresources.fresnostate.edu/css/bootstrap-grid.min.css">
 <link rel="stylesheet" href="https://omniresources.fresnostate.edu/css/bootstrap-reboot.min.css">
+
+<link rel="icon" type="image/x-icon" href="https://omniresources.fresnostate.edu/images/favicon/favicon.ico" />
 
 <!-- Fresno State CSS -->
 <link rel="stylesheet" href="https://omniresources.fresnostate.edu/css/styles-fa.css">
@@ -41,11 +44,10 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <![endif]-->
 <!-- Font Awescome CDN -->
 <script src="https://kit.fontawesome.com/3ff4806c53.js" crossorigin="anonymous"></script>
-<link rel="stylesheet" href="https://kremen.fresnostate.edu/_resources/css/oustyles.css" />
-      
-      </head>
+<link rel="stylesheet" href="/_resources/css/oustyles.css" />
+</head>
    <body><!-- Google Tag Manager (noscript) -->
-<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WFSCKH4"
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-PG9LGX7"
 height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <!-- End Google Tag Manager (noscript) -->  <!-- skip-to -->
     <a class="sr-only sr-only-focusable" href="#main-content">Skip to main content</a>
@@ -206,24 +208,22 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 		<div class="row">
 			<div class="col">
 				<ul class="nav justify-content-center nav-fill">
-					<li class="nav-item"><a class="nav-link" href="/index.html"><span class="fas fa-home"></span><span class="sr-only">Home</span></a></li>
+					<li class="nav-item"><a class="nav-link" href="/civil/index.html"><span class="fas fa-home"></span><span class="sr-only">Home</span></a></li>				
+								
 					
 					<li class="nav-item dropdown">
-						<a class="nav-link dropdown-toggle" href="#" id="about"
+						<a class="nav-link dropdown-toggle" href="#" id="academic-programs"
 						   data-toggle="dropdown" aria-haspopup="true"
-						   aria-expanded="false">About</a>
-						<ul class="dropdown-menu" aria-labelledby="about">
+						   aria-expanded="false">Academic Programs</a>
+						<ul class="dropdown-menu" aria-labelledby="academic-programs">
 							<li>
 								<div class="sub-menu">
 									<div class="container">
 										<div class="row">
 											<div class="col">
 												<ul class="list-unstyled">
-													<li class="nav-item"><a class="dropdown-item" href="/about/calendars/index.html">Calendars</a></li>
-													<li class="nav-item"><a class="dropdown-item" href="/provosts-awards/index.html">Provost's Awards</a></li>
-													<li class="nav-item"><a class="dropdown-item" href="/provosts-initiatives/index.html">Provost's Initiatives</a></li>
-													<li class="nav-item"><a class="dropdown-item" href="/about/gi2025.html">Graduation Initiative 2025</a></li>
-													<li class="nav-item"><a class="dropdown-item" href="/about/quick-facts.html">Quick Facts</a></li>
+													<li class="nav-item"><a class="dropdown-item" href="/civil/programs/undergraduate.html">Undergraduate</a></li> 
+													<li class="nav-item"><a class="dropdown-item" href="/civil/programs/graduate.html">Graduate</a></li> 
 												</ul>
 											</div>
 										</div>
@@ -233,29 +233,20 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 						</ul>
 					</li>
 					
-									
-					<li class="nav-item">
-						<a class="nav-link" href="/offices/index.html" id="academic_offices">Academic Offices</a>
-					</li>
-									
-					
 					<li class="nav-item dropdown">
-						<a class="nav-link dropdown-toggle" href="#" id="degrees_programs"
+						<a class="nav-link dropdown-toggle" href="#" id="fac-staff"
 						   data-toggle="dropdown" aria-haspopup="true"
-						   aria-expanded="false">Degrees, Programs and Centers</a>
-						<ul class="dropdown-menu" aria-labelledby="degrees_programs">
+						   aria-expanded="false">Faculty and Staff</a>
+						<ul class="dropdown-menu" aria-labelledby="fac-staff">
 							<li>
 								<div class="sub-menu">
 									<div class="container">
 										<div class="row">
 											<div class="col">
 												<ul class="list-unstyled">
-													<li class="nav-item"><a class="dropdown-item" href="/degrees-programs/index.html">Academic Degrees and Programs</a></li>
-													<li class="nav-item"><a class="dropdown-item" href="/degrees-programs/centers-inst.html">Centers and Institutes</a></li>
-													<li class="nav-item"><a class="dropdown-item" href="/degrees-programs/projects-initiatives.html">Projects and Initiatives</a></li>
-													<li class="nav-item"><a class="dropdown-item" href="/degrees-programs/intersession-summer.html">Intersession and Summer Session</a></li>
-													<li class="nav-item"><a class="dropdown-item" href="/degrees-programs/licensure-certification.html">Professional Licensure and Certification</a></li>
-													<li class="nav-item"><a class="dropdown-item" href="/degrees-programs/start-program.html">Start Program</a></li>
+													<li class="nav-item"><a class="dropdown-item" href="/about/directory/civil/index.html">Faculty Directory</a></li>
+													<li class="nav-item"><a class="dropdown-item" href="/civil/faculty-staff/index.html">Staff Directory</a></li>
+
 												</ul>
 											</div>
 										</div>
@@ -263,15 +254,26 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 								</div>
 							</li>
 						</ul>
+					</li>		
+					
+					<li class="nav-item">
+						<a class="nav-link" href="/civil/research-centers-and-lab.html" id="labs">Labs</a>
 					</li>
 					
 					<li class="nav-item">
-						<a class="nav-link" href="/about/accreditation.html" id="accreditation">Accreditation</a>
+						<a class="nav-link" href="/civil/accreditation.html" id="accreditation">Accreditation</a>
 					</li>
 					
 					<li class="nav-item">
-						<a class="nav-link" href="/about/contact.html" id="contact">Contact Us</a>
+						<a class="nav-link" href="/civil/advisory.html" id="advisory_board">Advisory Board</a>
 					</li>
+					
+						
+					
+					<li class="nav-item">
+						<a class="nav-link" href="/giving/index.html" id="give">Give</a>
+					</li>	
+					
 					
 				</ul>
 			</div>
@@ -308,7 +310,8 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                <div class="container">
                   <div class="row">
                      <div class="col">
-                        <p class="h1">Division of Academic Affairs</p>
+                        <p class="h1">Civil Engineering
+</p>
                      </div>
                   </div>
                </div>
@@ -319,250 +322,78 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                      <nav aria-label="breadcrumb">
                         <ol class="breadcrumb">
                            <li class="breadcrumb-item"><span class="fas fa-home"></span>&nbsp;
-                              					<a href="https://academics.fresnostate.edu/">Division of Academic Affairs</a></li>
-                           <li class="breadcrumb-item"><a href="https://academics.fresnostate.edu/about/">About</a></li>
-                           <li class="breadcrumb-item"><a href="https://academics.fresnostate.edu/about/calendars/">Calendars</a></li>
-                           <li class="breadcrumb-item active">Current Academic Year</li>
+                              					<a href="https://engineering.fresnostate.edu/">
+                                 		Lyles College of Engineering
+                                 	</a></li>
+                           <li class="breadcrumb-item"><a href="https://engineering.fresnostate.edu/civil/">Civil</a></li>
+                           <li class="breadcrumb-item"><a href="https://engineering.fresnostate.edu/civil/programs/">Civil Engineering Programs</a></li>
+                           <li class="breadcrumb-item active">Civil Engineering Programs</li>
                         </ol>
                      </nav>
                   </div>
                </div>
                <div class="row">
                   <div class="col-lg-12 mb-5">
-                     <div class="text-right mb-3"></div>
-                     <h1>2026-2027 Academic Calendar</h1>
+                     <h1>Degrees and Programs</h1>
                      
-                     <p><em><strong>The 2026-2027 Academic Calendar was officially approved on June 15, 2026.&nbsp;</strong></em></p>
+                     <h2><span>Bachelor of Science Degree in Civil Engineering</span></h2>
                      
-                     <h2>Fall 2026</h2>
+                     <p>Bachelor of Science Degree in Civil Engineering includes the research, development,
+                        planning, design, construction, and maintenance associated with urban development,
+                        water supply, structures, energy generation and transmission, water treatment and
+                        disposal, and transportation systems. The Civil Engineering Program at Fresno State
+                        offers</p>
                      
-                     <div class="table-responsive">
-                        <table class="table table table-striped">
-                           <caption>Fall 2026 Dates</caption>
-                           
-                           <thead class="thead-dark">
-                              
-                              <tr>
-                                 
-                                 <th scope="col">Description</th>
-                                 
-                                 <th scope="col">Day(s)</th>
-                                 
-                                 <th scope="col">Date(s)</th>
-                                 </tr>
-                              </thead>
-                           
-                           <tbody>
-                              
-                              <tr>
-                                 
-                                 <td>First Day of Fall Semester</td>
-                                 
-                                 <td>Wednesday</td>
-                                 
-                                 <td>August 19</td>
-                                 </tr>
-                              
-                              <tr>
-                                 
-                                 <td>First Day of Fall Instruction</td>
-                                 
-                                 <td>Monday</td>
-                                 
-                                 <td>August 24</td>
-                                 </tr>
-                              
-                              <tr>
-                                 
-                                 <td>Holiday - Labor Day</td>
-                                 
-                                 <td>Monday</td>
-                                 
-                                 <td>September 7</td>
-                                 </tr>
-                              
-                              <tr>
-                                 
-                                 <td>Holiday - Veteran's Day</td>
-                                 
-                                 <td>Wednesday</td>
-                                 
-                                 <td>November 11</td>
-                                 </tr>
-                              
-                              <tr>
-                                 
-                                 <td>Thanksgiving Break</td>
-                                 
-                                 <td>Monday - Friday</td>
-                                 
-                                 <td>November 23 - 27</td>
-                                 </tr>
-                              
-                              <tr>
-                                 
-                                 <td>Last Day of Fall Instruction</td>
-                                 
-                                 <td>Wednesday</td>
-                                 
-                                 <td>December 9</td>
-                                 </tr>
-                              
-                              <tr>
-                                 
-                                 <td>Consultation Days</td>
-                                 
-                                 <td>Thursday - Friday</td>
-                                 
-                                 <td>December 10 - 11</td>
-                                 </tr>
-                              
-                              <tr>
-                                 
-                                 <td>Final Examination Days</td>
-                                 
-                                 <td>Monday - Thursday</td>
-                                 
-                                 <td>December 14 - 17</td>
-                                 </tr>
-                              
-                              <tr>
-                                 
-                                 <td>Last Day of Fall Semester</td>
-                                 
-                                 <td>Wednesday</td>
-                                 
-                                 <td>December 23</td>
-                                 </tr>
-                              </tbody>
-                           </table>
-                     </div>
+                     <ul>
+                        
+                        <li><span><a href="http://fresnostate.edu/catalog/subjects/civil-geomatics-engineering/c-eng.html">Bachelor of Science in Civil Engineering</a> (B.S.C.E.) – ABET accredited</span></li>
+                        </ul>
                      
-                     <h2>Spring 2027</h2>
+                     <p>The B.S.C.E. provides board based civil engineering study and also allows students
+                        to concentrate in one or more areas of concentration: Environmental and Water Resources
+                        Engineering, Geotechnical Engineering, Structural Engineering, and Transportation
+                        Engineering.</p>
                      
-                     <div class="table-responsive">
-                        <table class="table table table-striped">
-                           <caption>Spring 2027 Dates</caption>
-                           
-                           <thead class="thead-dark">
-                              
-                              <tr>
-                                 
-                                 <th scope="col">Description</th>
-                                 
-                                 <th scope="col">Day(s)</th>
-                                 
-                                 <th scope="col">Date(s)</th>
-                                 </tr>
-                              </thead>
-                           
-                           <tbody>
-                              
-                              <tr>
-                                 
-                                 <td>Holiday - Martin Luther King Jr. Day</td>
-                                 
-                                 <td>Monday</td>
-                                 
-                                 <td>January 18</td>
-                                 </tr>
-                              
-                              <tr>
-                                 
-                                 <td>First Day of Spring Semester</td>
-                                 
-                                 <td>Tuesday</td>
-                                 
-                                 <td>January 19</td>
-                                 </tr>
-                              
-                              <tr>
-                                 
-                                 <td>First Day of Spring Instruction</td>
-                                 
-                                 <td>Wednesday</td>
-                                 
-                                 <td>January 20</td>
-                                 </tr>
-                              
-                              <tr>
-                                 
-                                 <td>Holiday - President's Day</td>
-                                 
-                                 <td>Monday</td>
-                                 
-                                 <td>February 15</td>
-                                 </tr>
-                              
-                              <tr>
-                                 
-                                 <td>Spring Break</td>
-                                 
-                                 <td>Monday - Friday</td>
-                                 
-                                 <td>March 22 - 26</td>
-                                 </tr>
-                              
-                              <tr>
-                                 
-                                 <td>Holiday - Farmworkers Day</td>
-                                 
-                                 <td>Wednesday</td>
-                                 
-                                 <td>March 31</td>
-                                 </tr>
-                              
-                              <tr>
-                                 
-                                 <td>Last Day of Spring Instruction</td>
-                                 
-                                 <td>Wednesday</td>
-                                 
-                                 <td>May 12</td>
-                                 </tr>
-                              
-                              <tr>
-                                 
-                                 <td>Consultation Days</td>
-                                 
-                                 <td>Thursday - Friday</td>
-                                 
-                                 <td>May 13 - 14</td>
-                                 </tr>
-                              
-                              <tr>
-                                 
-                                 <td>Final Examination Days</td>
-                                 
-                                 <td>Monday - Thursday</td>
-                                 
-                                 <td>May 17 - 20</td>
-                                 </tr>
-                              
-                              <tr>
-                                 
-                                 <td>Commencement/Celebration Ceremonies</td>
-                                 
-                                 <td>Friday - Saturday</td>
-                                 
-                                 <td>May 21 - 22</td>
-                                 </tr>
-                              
-                              <tr>
-                                 
-                                 <td>Last Day of Spring Semester</td>
-                                 
-                                 <td>Wednesday</td>
-                                 
-                                 <td>May 26</td>
-                                 </tr>
-                              </tbody>
-                           </table>
-                     </div>
+                     <h3>Changing Your Major to Civil Engineering?&nbsp;</h3>
                      
-                     <p>To view future tentative calendar drafts, visit the <a href="/about/calendars/next.html">Next Academic Year</a> page.</p>
+                     <p>Currently enrolled Fresno State students wishing to change their major to a BS in&nbsp;Civil
+                        Engineering, please note the following:</p>
                      
-                     <p>The current academic calendar can also be found on the <a href="https://www.fresnostate.edu/catalog/calendar.html">Fresno State General Catalog</a>.&nbsp;</p>
+                     <ul>
+                        
+                        <li>Completion of MATH 75 (calculus I or equivalent), MATH 76 (calculus II or equivalent),
+                           PHYS 4A (or equivalent) with a grade of C (2.0) or better and an overall GPA of 2.50
+                           are required for approval to change major.</li>
+                        
+                        <li>Interested student must inform Civil Engineering Program before submitting the Change
+                           of Major Form.</li>
+                        
+                        <li>Please submit completed<span>&nbsp;</span><span><em>Change of Major/Minor form</em></span><span>&nbsp;</span>which can obtained from your major advisor.&nbsp;</li>
+                        </ul>
+                     
+                     <h2>Graduate Programs&nbsp;</h2>
+                     
+                     <ul>
+                        
+                        <li><a href="http://fresnostate.edu/catalog/subjects/civil-geomatics-engineering/c-eng-ms.html">Master of Science in Civil Engineering</a> (M.S.C.E.)</li>
+                        
+                        <li><a href="http://fresnostate.edu/catalog/subjects/civil-geomatics-engineering/wtrresenv.html">Master of Science in Civil Engineering</a> (M.S.C.E.) – Water Resources and Environmental Engineering Option (WREE)</li>
+                        </ul>
+                     
+                     <p>Please feel free to contact us about any of the programs and opportunities we offer.</p>
+                     
+                     <h2>Contact&nbsp;Us:&nbsp;</h2>
+                     
+                     <p><strong>Fayzul Pasha, Ph.D., PE</strong><br>Professor<br>Civil Engineering Undergraduate Coordinator<br>Phone: 559.278.2464<br>Email: <a href="mailto:mpasha@csufresno.edu">mpasha@csufresno.edu</a><br><br></p>
+                     
+                     <p><strong>William Wright, Ph.D., P.E.</strong>&nbsp;<br>Professor<br>Civil Engineering Graduate Program Coordinator&nbsp;<br>Phone:&nbsp;559.278.5591&nbsp;<br>Email: <a href="mailto:wfwright@csufresno.edu">wfwright@csufresno.edu</a><br><br></p>
+                     
+                     <p><strong>Civil Engineering Program Department</strong><br>2320 E San Ramon Ave, MS EE94<br>Fresno, CA 93740-8010<br>559.278.2566 (Office)<br>559.278.7002 (Fax)</p>
+                     
+                     <p>The department main office is located at EE178 in Engineering East building. The office
+                        is open Monday - Friday, 8AM to 5PM PDT (closed 12-1PM).&nbsp;</p>
+                     
+                     <p><a href="https://fresnostate.edu/catalog">Go to the current general catalog for course descriptions and degree requirements.</a></p>
                   </div>
                </div>
             </div>
@@ -572,12 +403,13 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
          <div class="container">
             <div class="row">
 <div class="col-lg-3">
-	<h2><a href="https://academics.fresnostate.edu" title="Division of Academic Affairs link in the footer section" aria-label="Division of Academic Affairs link in the footer section">Division of Academic Affairs</a></h2>
+    <h2><a href="/civil/index.html" title="Department of Civil and Geomatics Engineering link in the footer section" aria-label="Department of Civil and Geomatics Engineering link in the footer section">Department of Civil and Geomatics Engineering</a></h2>
 	<ul class="footer-address">
 		<li class="location">
-			<a href="https://goo.gl/maps/sgmFP4dRorGUHz5v9">5200 N. Barton Ave., UL54<br />
+			<a href="https://goo.gl/maps/Kh8TNtRpx3ZevUrq7">2320 E. San Ramon Ave.<br />
+				M/S EE94 <br/>
 				Fresno, CA 93740</a></li>
-		<li>P <a href="tel:1-559-278-2636">559.278.2636</a></li>
+		<li>P <a href="tel:1-559-278-2889">559.278.2889</a></li>
 	</ul>
 </div>
 
@@ -633,8 +465,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 			</div>
 		</div>
 	</div>
-</div>
-<div class="text-center copyright mt-0">
+</div><div class="text-center copyright mt-0">
   <span class="d-inline-block pb-1">All Fresno State programs and activities are open and available to all regardless of race, sex, color,  ethnicity or national origin.</span>
 </div></footer><button data-target="#0" class="cd-top"><span class="sr-only">Back to Top</span></button>
       
@@ -642,14 +473,14 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <!-- jQuery first, then Popper.js, then Bootstrap JS -->
 <script src="//code.jquery.com/jquery-3.3.1.min.js"></script>
 <script src="//cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js"></script>
-<script src="//omniresources.fresnostate.edu/js/bootstrap.js"></script>
-<script src="//omniresources.fresnostate.edu/js/scripts.js"></script>
-<script src="//omniresources.fresnostate.edu/js/slick.min.js"></script>
-<script src="//omniresources.fresnostate.edu/js/zoom.js"></script><div id="ou-hidden" style="display:none;"><ul><li class="space"><a id="de" href="https://a.cms.omniupdate.com/11/?skin=fresnostate&amp;account=csufresno&amp;site=aws-academics&amp;action=de&amp;path=/about/calendars/current.pcf">Last Updated Jun 30, 2026</a></li></ul></div><script>
+<script src="https://omniresources.fresnostate.edu/js/bootstrap.js"></script>
+<script src="https://omniresources.fresnostate.edu/js/scripts.js"></script>
+<script src="https://omniresources.fresnostate.edu/js/slick.min.js"></script>
+<script src="https://omniresources.fresnostate.edu/js/zoom.js"></script><div id="ou-hidden" style="display:none;"><ul><li class="space"><a id="de" href="https://a.cms.omniupdate.com/11/?skin=fresnostate&amp;account=csufresno&amp;site=aws-engineering&amp;action=de&amp;path=/civil/programs/index.pcf">Last Updated Apr 8, 2026</a></li></ul></div><script>
 			if(document.getElementById("de") != null && document.getElementById("directedit")) {
 				var link = document.getElementById("de").parentNode.innerHTML;
 				document.getElementById("de").parentNode.innerHTML = "";
 				document.getElementById("directedit").innerHTML = link.replace(/^\s+|\s+$/gm,'');
 			}
-		</script><script src="https://omniresources.fresnostate.edu/js/quicklinks-script.js"></script><!-- ouc:info uuid="5a5ef569-f4bb-4d5f-ae21-bb3d94dc0c3f"/ --></body>
+		</script><script src="https://omniresources.fresnostate.edu/js/quicklinks-script.js"></script><!-- ouc:info uuid="a1902699-eadc-4847-a0a7-f192b5cdd157"/ --></body>
 </html>

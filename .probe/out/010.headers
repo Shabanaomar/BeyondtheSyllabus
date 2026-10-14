@@ -1,24 +1,19 @@
 HTTP/2 200 
-date: Wed, 14 Oct 2026 03:22:48 GMT
+cache-control: public, max-age=21600
 content-type: text/html; charset=UTF-8
-server: cloudflare
-vary: Accept-Encoding
-vary: Accept-Encoding,Cookie
-x-frame-options: SAMEORIGIN
-access-control-allow-origin: https://www.berkeley.edu
-link: <https://www.berkeley.edu/wp-json/>; rel="https://api.w.org/"
-link: <https://www.berkeley.edu/wp-json/wp/v2/pages/728>; rel="alternate"; title="JSON"; type="application/json"
-link: <https://www.berkeley.edu/?p=728>; rel=shortlink
-x-powered-by: WP Engine
-x-cacheable: SHORT
-cache-control: max-age=600, must-revalidate
-x-cache: HIT: 1
-x-cache-group: normal
-last-modified: Wed, 14 Oct 2026 03:22:48 GMT
-cf-cache-status: EXPIRED
-set-cookie: __cf_bm=rlTeCnEjVhMeLkPPDE.hW8F__w9XL4xYHAM2ACfEZqY-1791948168.5121608-1.0.1.1-07J9iTMITJ28vTZmgG3WuhcZJdfOqm6YuL4.81JTlm7LOXro3Nv_birxQ.SOPBe2u7I_uEHY6If8WxJUner2B9q3Uc8kiPFD6RcXRMiRpInkP3vi5owp_DFTM4zEDSh4; HttpOnly; SameSite=None; Secure; Path=/; Domain=www.berkeley.edu; Expires=Wed, 14 Oct 2026 03:52:48 GMT
-referrer-policy: strict-origin-when-cross-origin
-x-permitted-cross-domain-policies: none
-cf-ray: a4a376352d2d08d3-LAX
-alt-svc: h3=":443"; ma=86400
+link: <https://career.berkeley.edu/?p=2951>; rel=shortlink
+server: nginx
+set-cookie: quform_session_cdfae234a3a56573df900becbc555e59=xtajZsEgymqSh4NKRmdg5nTqd2yDmP3W8jWuuEHD; path=/; secure; httponly; samesite=None
+strict-transport-security: max-age=300
+x-pantheon-styx-hostname: styx-us-a-58d475665b-jgfbb
+x-styx-req-id: 7c30b1ec-c780-11f1-893d-eaaa64dcfef9
+date: Wed, 14 Oct 2026 03:36:49 GMT
+x-served-by: cache-chi-kmdw8640065-CHI
+x-cache: MISS
+x-cache-hits: 0
+x-timer: S1791949008.789219,VS0,VE1550
+vary: Accept-Encoding, Cookie
+age: 0
+accept-ranges: bytes
+via: 1.1 varnish
 

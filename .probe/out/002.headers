@@ -1,8 +1,18 @@
 HTTP/2 200 
-date: Wed, 14 Oct 2026 03:18:36 GMT
-content-type: text/html; charset=UTF-8
-server: Apache/2.4.68 (Amazon Linux) OpenSSL/3.5.8
-cache-control: max-age=120
-expires: Wed, 14 Oct 2026 03:20:36 GMT
+accept-ranges: bytes
 vary: Accept-Encoding
+content-type: text/plain
+content-security-policy-report-only: require-trusted-types-for 'script'; report-uri https://csp.withgoogle.com/csp/calendar-dev
+cross-origin-resource-policy: cross-origin
+cross-origin-opener-policy: same-origin; report-to="calendar-dev"
+report-to: {"group":"calendar-dev","max_age":2592000,"endpoints":[{"url":"https://csp.withgoogle.com/csp/report-to/calendar-dev"}]}
+content-length: 36
+date: Wed, 14 Oct 2026 03:36:34 GMT
+expires: Wed, 14 Oct 2026 03:36:34 GMT
+cache-control: private, max-age=0
+last-modified: Thu, 20 Jul 2023 22:48:00 GMT
+x-content-type-options: nosniff
+server: sffe
+x-xss-protection: 0
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
 

@@ -1,7 +1,674 @@
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
-<html><head>
-<title>404 Not Found</title>
-</head><body>
-<h1>Not Found</h1>
-<p>The requested URL was not found on this server.</p>
-</body></html>
+<!DOCTYPE HTML><html lang="en">
+   <head>
+      <meta charset="UTF-8">
+      <meta http-equiv="x-ua-compatible" content="ie=edge">
+      <title>Department of Mechanical Engineering - Mechanical Engineering
+</title>
+      <link rel="canonical" href="https://engineering.fresnostate.edu/mechanical/index.html">
+      <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+      <meta name="keywords" content="engineering,faculty,graduate,degree,department,college,majors,bachelor,science,abet">
+      <meta name="description" content="Department of Mechanical Engineering">
+      <!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-PG9LGX7');</script>
+<!-- End Google Tag Manager -->
+<!-- this is the headcode include -->
+<!-- Required meta tags -->
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+<meta name="robots" content="index,follow">
+<meta name="googlebot" content="index,follow">
+<meta property="og:url" content="https://engineering.fresnostate.edu"> 
+<meta property="og:type" content="website"> 
+<meta property="og:title" content="Lyles College of Engineering"> 
+<meta property="og:description" content="We are dedicated to providing a quality engineering and construction management education to all students and to serving students from groups that historically have not participated in university education."> 
+
+<!-- Bootstrap CSS -->
+<link rel="stylesheet" href="https://omniresources.fresnostate.edu/css/bootstrap.css">
+<link rel="stylesheet" href="https://omniresources.fresnostate.edu/css/bootstrap-grid.min.css">
+<link rel="stylesheet" href="https://omniresources.fresnostate.edu/css/bootstrap-reboot.min.css">
+
+<link rel="icon" type="image/x-icon" href="https://omniresources.fresnostate.edu/images/favicon/favicon.ico" />
+
+<!-- Fresno State CSS -->
+<link rel="stylesheet" href="https://omniresources.fresnostate.edu/css/styles-fa.css">
+<link rel="stylesheet" href="https://omniresources.fresnostate.edu/css/print.css">
+<link rel="stylesheet" href="https://omniresources.fresnostate.edu/css/totopstyle.css">
+<link rel="stylesheet" href="https://omniresources.fresnostate.edu/css/slick.css"/>
+<link rel="stylesheet" href="https://omniresources.fresnostate.edu/css/slick-theme.css"/>
+<link rel="stylesheet" href="https://omniresources.fresnostate.edu/css/slick-lightbox.css">
+<!--[if lt IE 9]>
+<script src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
+<![endif]-->
+<!-- Font Awescome CDN -->
+<script src="https://kit.fontawesome.com/3ff4806c53.js" crossorigin="anonymous"></script>
+<link rel="stylesheet" href="/_resources/css/oustyles.css" />
+</head>
+   <body><!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-PG9LGX7"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->  <!-- skip-to -->
+    <a class="sr-only sr-only-focusable" href="#main-content">Skip to main content</a>
+    <a class="sr-only sr-only-focusable" href="#site-navigation">Skip to main navigation</a>
+    <a class="sr-only sr-only-focusable" href="#footer">Skip to footer content</a>
+    <!-- /skip-to --><!--Off Screen Desktop Menu-->
+<div class="modal fade off-screen-nav" id="off-screen-main-nav"
+     tabindex="-1" role="dialog" aria-modal="true"
+     aria-labelledby="offScreenTitle" aria-describedby="offScreenDesc">
+  <div class="modal-dialog" role="document">
+    <div class="modal-content">
+
+      <!-- first focusable element -->
+ <button type="button" id="ql-close"
+        class="ql-close"
+        data-dismiss="modal"
+        aria-label="Close Quick Links">
+  <!-- Inline SVG avoids font-family conflicts -->
+  <svg aria-hidden="true" width="28" height="28" viewBox="0 0 24 24" focusable="false">
+    <path d="M18.3 5.7a1 1 0 0 0-1.4-1.4L12 9.17 7.1 4.3a1 1 0 1 0-1.4 1.4L10.83 12l-5.13 5.9a1 1 0 1 0 1.5 1.3L12 14.83l4.9 4.87a1 1 0 0 0 1.5-1.33L13.17 12l5.13-5.9z"/>
+  </svg>
+  <span class="sr-only">Close</span>
+</button>
+
+
+      <h2 id="offScreenTitle" class="sr-only">Quick Links menu</h2>
+      <p id="offScreenDesc" class="sr-only">Press Escape to close. Tab/Shift+Tab move between items.</p>
+
+      <div class="modal-body">
+        <!-- Remove the extra nested role="dialog" wrapper and tabpanel chrome -->
+        <nav class="audience" aria-label="Quick Links">
+  <ul class="nav">
+    <li class="nav-item">
+      <a href="https://calendar.fresnostate.edu/" class="nav-link">
+        <span class="fas fa-calendar-alt" aria-hidden="true"></span> Calendar
+      </a>
+    </li>
+    <li class="nav-item">
+      <a href="https://www.fresnostate.edu/canvas" class="nav-link">
+        <span class="fak fa-canvas" aria-hidden="true"></span> Canvas
+      </a>
+    </li>
+    <li class="nav-item">
+      <a href="https://www.fresnostate.edu/catalog/" class="nav-link">
+        <span class="fas fa-book-open" aria-hidden="true"></span> Catalog
+      </a>
+    </li>
+    <li class="nav-item">
+      <a href="https://directory.fresnostate.edu/" class="nav-link">
+        <span class="fas fa-user" aria-hidden="true"></span> Directory
+      </a>
+    </li>
+    <li class="nav-item">
+      <a href="https://mail.fresnostate.edu/" class="nav-link">
+        <span class="fas fa-envelope" aria-hidden="true"></span> Email
+      </a>
+    </li>
+    <li class="nav-item">
+      <a href="https://www.bkstr.com/kennelstore/home" class="nav-link">
+        <span class="fas fa-shopping-bag" aria-hidden="true"></span> Kennel Bookstore
+      </a>
+    </li>
+    <li class="nav-item">
+      <a href="https://www.fresnostate.edu/library/" class="nav-link">
+        <span class="fas fa-book" aria-hidden="true"></span> Library
+      </a>
+    </li>
+    <li class="nav-item">
+      <a href="https://maps.fresnostate.edu/" class="nav-link">
+        <span class="fas fa-map-marker-alt" aria-hidden="true"></span> Map
+      </a>
+    </li>
+    <li class="nav-item">
+      <a href="https://my.fresnostate.edu/" class="nav-link">
+        <span class="fas fa-cog" aria-hidden="true"></span> My Fresno State
+      </a>
+    </li>
+    <li class="nav-item">
+      <a href="https://help.fresnostate.edu/" class="nav-link">
+        <span class="fas fa-life-ring" aria-hidden="true"></span> Technology Service Desk
+      </a>
+    </li>
+    <li class="nav-item">
+      <a href="https://fresnostate.zoom.us/" class="nav-link">
+        <span class="fas fa-video" aria-hidden="true"></span> Zoom Conferencing
+      </a>
+    </li>
+  </ul>
+</nav>
+
+      </div>
+
+    </div>
+  </div>
+</div>
+
+    <!-- Mobile Logo, Icons -->
+    <div class="container-fluid mobile-header">
+        <div class="row">
+            <div class="col-12">
+                <div class="mobile-logo"><a href="https://fresnostate.edu"><span class="sr-only">Fresno State</span></a></div>
+
+                <div class="mobile-buttons-wrapper">
+                    <button type="button" class="searchToggle" data-toggle="modal" data-target="#siteSearch"><span
+                            class="sr-only">Search</span><span class="fas fa-search"></span></button>
+
+                    <button type="button" data-toggle="modal" data-target="#site-navigation" class="menuToggle"><span
+                            class="sr-only">Menu</span><span class="fas fa-bars"></span></button>
+                </div>
+            </div>
+        </div>
+    </div>      <header class="siteHeader sticky-wrapper">
+         <div class="modal fade" id="siteSearch" tabindex="-1" role="dialog" aria-labelledby="searchModal" aria-hidden="true">
+            <div class="modal-dialog" role="document">
+               <div class="modal-content">
+                  <div class="modal-body">
+                     <div class="container-fluid">
+                        <div class="row">
+                           <div class="col-lg-1"><button type="button" class="btn closeSearch" data-dismiss="modal"><span class="far fa-times-circle"></span> Close</button></div>
+                           <div class="col-lg-11"><form method="get" action="https://fresnostate.edu/search/">
+	<label for="search" id="searchModal">Search</label>
+	<input name="q" placeholder="Search" class="form-text" type="text" id="search"/>
+	<input value="GO" class="form-submit btn btn-default btn-black" type="submit"/>
+</form></div>
+                        </div>
+                     </div>
+                  </div>
+               </div>
+            </div>
+         </div>
+         <div class="modal fade site-navigation" id="site-navigation" tabindex="-1" role="dialog">
+            <div class="modal-dialog" role="document">
+               <div class="modal-content">
+                  <div class="modal-body"><button type="button" class="btn menuClose" data-dismiss="modal"><span class="far fa-times-circle"></span><span class="sr-only">Close Menu</span></button><nav class="main-navigation" aria-label="Primary navigation"><div class="top-row">
+	<div class="container">
+		<div class="row">
+			<div class="col-xl-2">
+				<div class="logo"><a href="https://fresnostate.edu" aria-label="Link in global nav to Fresno State homepage"><span class="sr-only">Fresno State</span></a>
+				</div>
+			</div>
+			<div class="col-xl-10">
+				<nav class="audience" aria-label="Global Navigation">
+					<ul class="nav justify-content-end">
+						<li class="nav-item"><a href="https://studentaffairs.fresnostate.edu/are/index.html" class="nav-link">Future Students</a></li>
+						<li class="nav-item"><a href="https://studentaffairs.fresnostate.edu/studentresources/index.html" class="nav-link">Current Students</a></li>
+						<li class="nav-item"><a href="https://fresnostate.edu/alumni/index.html" class="nav-link">Alumni</a></li>
+						<li class="nav-item"><a href="https://fresnostate.edu/faculty-staff.html" class="nav-link">Employees</a></li>
+						<li class="nav-item"><a href="https://connect.fresnostate.edu/p/m4aA7zBLDzQNYVel7lzTAsGUD" class="nav-link">Give</a></li>
+						<li><button type="button" class="btn searchToggle" data-toggle="modal" data-target="#siteSearch"><span class="sr-only">Search</span><span class="fas fa-search"></span></button></li>
+						<li><button type="button" data-toggle="modal" data-target="#off-screen-main-nav" title="Open Quick Links menu" class="quicklinks">Quick Links <span class="fas fa-angle-right"></span></button></li>
+					</ul>
+				</nav>
+			</div>
+		</div>
+	</div>
+</div><div class="bottom-row">
+	<div class="container">
+		<div class="row">
+			<div class="col">
+				<ul class="nav justify-content-center nav-fill">
+					<li class="nav-item"><a class="nav-link" href="/mechanical/index.html"><span class="fas fa-home"></span><span class="sr-only">Home</span></a></li>
+					
+					
+					
+					<li class="nav-item dropdown">
+						<a class="nav-link dropdown-toggle" href="#" id="academic-programs"
+						   data-toggle="dropdown" aria-haspopup="true"
+						   aria-expanded="false">Academic Programs</a>
+						<ul class="dropdown-menu" aria-labelledby="academic-programs">
+							<li>
+								<div class="sub-menu">
+									<div class="container">
+										<div class="row">
+											<div class="col">
+												<ul class="list-unstyled">
+													<li class="nav-item"><a class="dropdown-item" href="/mechanical/undergraduate.html">Undergraduate</a></li>
+													<li class="nav-item"><a class="dropdown-item" href="/mechanical/aerospace-minor/index.html">Aerospace Minor</a></li>
+													<li class="nav-item"><a class="dropdown-item" href="/mechanical/graduate.html">Graduate</a></li>
+
+												</ul>
+											</div>
+										</div>
+									</div>
+								</div>
+							</li>
+						</ul>
+					</li>	
+				
+					
+					<li class="nav-item dropdown">
+						<a class="nav-link dropdown-toggle" href="#" id="fac-staff"
+						   data-toggle="dropdown" aria-haspopup="true"
+						   aria-expanded="false">Faculty and Staff</a>
+						<ul class="dropdown-menu" aria-labelledby="fac-staff">
+							<li>
+								<div class="sub-menu">
+									<div class="container">
+										<div class="row">
+											<div class="col">
+												<ul class="list-unstyled">
+													<li class="nav-item"><a class="dropdown-item" href="/about/directory/mechanical/index.html">Faculty Directory</a></li>
+													<li class="nav-item"><a class="dropdown-item" href="/mechanical/faculty-staff.html">Staff Directory</a></li>
+
+												</ul>
+											</div>
+										</div>
+									</div>
+								</div>
+							</li>
+						</ul>
+					</li>		
+					
+					<li class="nav-item">
+						<a class="nav-link" href="/mechanical/research-projects.html" id="research">Research</a>
+					</li>
+					
+				
+					<li class="nav-item dropdown">
+						<a class="nav-link dropdown-toggle" href="#" id="labs"
+						   data-toggle="dropdown" aria-haspopup="true"
+						   aria-expanded="false">Labs</a>
+						<ul class="dropdown-menu" aria-labelledby="labs">
+							<li>
+								<div class="sub-menu">
+									<div class="container">
+										<div class="row">
+											<div class="col">
+												<ul class="list-unstyled">
+													<li class="nav-item"><a class="dropdown-item" href="/mechanical/laboratories.html">Laboratories</a></li>
+													<li class="nav-item"><a class="dropdown-item" href="/mechanical/dept-lab-safety.html">Lab Safety</a></li>
+
+												</ul>
+											</div>
+										</div>
+									</div>
+								</div>
+							</li>
+						</ul>
+					</li>	
+					
+					<li class="nav-item">
+						<a class="nav-link" href="/mechanical/accreditation.html" id="accreditation">Accreditation</a>
+					</li>
+					
+					<li class="nav-item">
+						<a class="nav-link" href="/mechanical/advisory.html" id="advisory_board">Advisory Board</a>
+					</li>
+					
+					<li class="nav-item">
+						<a class="nav-link" href="/giving/index.html" id="give">Give</a>
+					</li>
+					
+					
+				</ul>
+			</div>
+		</div>
+	</div>
+</div><div role="navigation" class="off-screen-nav-mobile-audience">
+	<h2>Quick Links</h2>
+	<nav class="audience" aria-label="Quick Links on Mobile">
+		<ul class="nav">
+			<li class="nav-item"><a href="https://calendar.fresnostate.edu/" class="nav-link"><span class="fas fa-calendar-alt" aria-hidden="true"></span> Calendar</a></li>
+			<li class="nav-item"><a href="https://www.fresnostate.edu/canvas" class="nav-link"><span class="fak fa-canvas" aria-hidden="true"></span> Canvas</a></li>									
+			<li class="nav-item"><a href="https://www.fresnostate.edu/catalog/" class="nav-link"><span class="fas fa-book-open" aria-hidden="true"></span> Catalog</a></li>			 
+			<li class="nav-item"><a href="https://directory.fresnostate.edu/" class="nav-link"><span class="fas fa-user" aria-hidden="true"></span> Directory</a></li>
+			<li class="nav-item"><a href="https://mail.fresnostate.edu/" class="nav-link"><span class="fas fa-envelope" aria-hidden="true"></span> Email</a></li>
+			<li class="nav-item"><a href="https://www.bkstr.com/kennelstore/home" class="nav-link"><span class="fas fa-envelope" aria-hidden="true"></span> Kennel Bookstore</a></li>
+			<li class="nav-item"><a href="https://www.fresnostate.edu/library/" class="nav-link"><span class="fas fa-book" aria-hidden="true"></span> Library</a></li>
+			<li class="nav-item"><a href="https://maps.fresnostate.edu/" class="nav-link"><span class="fas fa-map-marker-alt" aria-hidden="true"></span> Map</a></li>
+			<li class="nav-item"><a href="https://my.fresnostate.edu/" class="nav-link" ><span class="fas fa-cog" aria-hidden="true"></span> My Fresno State</a></li>
+			<li class="nav-item"><a href="https://help.fresnostate.edu/" class="nav-link"><span class="fas fa-envelope" aria-hidden="true"></span> Technology Service Desk</a></li>
+			<li class="nav-item"><a href="https://fresnostate.zoom.us/" class="nav-link"><span class="fas fa-webcam" aria-hidden="true"></span> Zoom Conferencing</a></li>	
+		</ul>
+	</nav>
+</div></nav>
+                  </div>
+               </div>
+            </div>
+         </div>
+      </header>
+      
+<!-- Insert google analytics here -->
+      <div class="content">
+         <main id="main-content" role="main">
+            <section class="bg-white space-sm">
+               <div class="container">
+                  <div class="row">
+                     <div class="col">
+                        <p class="h1">Mechanical Engineering
+</p>
+                     </div>
+                  </div>
+               </div>
+            </section>
+            <div class="container">
+               <div class="row">
+                  <div class="col-12">
+                     <nav aria-label="breadcrumb">
+                        <ol class="breadcrumb">
+                           <li class="breadcrumb-item"><span class="fas fa-home"></span>&nbsp;
+                              					<a href="https://engineering.fresnostate.edu/">
+                                 		Lyles College of Engineering
+                                 	</a></li>
+                           <li class="breadcrumb-item"><a href="https://engineering.fresnostate.edu/mechanical/">Mechanical Engineering</a></li>
+                           <li class="breadcrumb-item active">Department of Mechanical Engineering</li>
+                        </ol>
+                     </nav>
+                  </div>
+               </div>
+               <div class="row">
+                  <div class="col-lg-12 mb-5">
+                     <h1>Department of Mechanical Engineering</h1>
+                     
+                     <div class="gallery-slider-wrapper">
+                        <div class="gallery-slider">
+                           
+                           <div class="slide">
+                              <div class="carousel-caption">
+                                 <h2><a href="" target="_blank">Bulldog Racing activities provide hands-on experiential learning while pitting CSU
+                                       Fresno students against their counterparts from across the nation in two competitions:
+                                       Formula SAE and SAE MiniBaja.&nbsp;</a></h2>
+                              </div><img src="/mechanical/images/carousel-RahulBakhta.jpg" alt=""></div>
+                           
+                           <div class="slide">
+                              <div class="carousel-caption">
+                                 <h2><a href="" target="_blank">Students and faculty, alike, have access to cutting-edge engineering facilities such
+                                       as this scale model wind tunnel.</a></h2>
+                              </div><img src="/mechanical/images/carousel-WindTunnel-orig.JPG" alt=""></div>
+                           
+                           <div class="slide">
+                              <div class="carousel-caption">
+                                 <h2><a href="" target="_blank">Measurements are taken in state-of-the-art laboratories using both digital and analog
+                                       instrumentation.</a></h2>
+                              </div><img src="/mechanical/images/carousel-FluidsLab2.jpg" alt=""></div>
+                           
+                           <div class="slide">
+                              <div class="carousel-caption">
+                                 <h2><a href="" target="_blank">Teamwork facilitates micro hardness measurements in determining the effect of heat
+                                       treatments on the resulting mechanical properties and performance of advanced materials.</a></h2>
+                              </div><img src="/mechanical/images/carousel-HardnessTest.jpg" alt=""></div>
+                           
+                           <div class="slide">
+                              <div class="carousel-caption">
+                                 <h2><a href="" target="_blank">ASME Human Powered Vehicle Competition challenges students to use modern engineering
+                                       tools, advanced materials and teamwork to solve a design problem with realistic constraints
+                                       and requirements.</a></h2>
+                              </div><img src="/mechanical/images/carousel-HPV-students.jpg" alt=""></div>
+                           
+                           <div class="slide">
+                              <div class="carousel-caption">
+                                 <h2><a href="" target="_blank">Special Independent Study Hovercraft Project allowed students, faculty and staff to
+                                       examine the advantages, disadvantages and limitations of this non conventional mode
+                                       of transportation.</a></h2>
+                              </div><img src="/mechanical/images/carousel-Hovercraft.jpg" alt=""></div>
+                           
+                           <div class="slide">
+                              <div class="carousel-caption">
+                                 <h2><a href="" target="_blank">
+                                       
+                                       
+                                       
+                                       Sr Capstone Design Projects provide culminating experiences for teams of students
+                                       who bring a variety of backgrounds and talents to bear on a common problem to produce
+                                       a consensus solution.
+                                       
+                                       
+                                       
+                                       &nbsp;
+                                       </a></h2>
+                              </div><img src="/mechanical/images/carousel-Sr-Capstone-Design.jpg" alt=""></div>
+                           </div>
+                     </div>
+                     
+                     <h2>Welcome to the&nbsp;Department of Mechanical Engineering in the&nbsp;Lyles College of Engineering&nbsp;at&nbsp;Fresno
+                        State</h2>
+                     
+                     <p>With nearly 500 combined (undergraduate and graduate) Mechanical Engineering majors
+                        in Fall&nbsp;2020, the Department is the largest in the Lyles College of Engineering, offering
+                        an undergraduate program culminating in a <strong>BSME degree</strong> and a graduate program culminating in a <strong>MSE-ME</strong>&nbsp;degree. &nbsp;</p>
+                     
+                     <p>The <a href="https://catalog.fresnostate.edu/preview_program.php?catoid=5&amp;poid=2887&amp;returnto=192" target="_blank" rel="noopener"><strong>Bachelor of Science Mechanical Engineering</strong></a> program is accredited by the Engineering Accreditation Commission of ABET, http://www.abet.org.
+                        &nbsp;The program has been continuously accredited since 1965. &nbsp;</p>
+                     
+                     <p><span>The <span>123 semester-unit BSME program</span>&nbsp;provides students with an undergraduate degree (Bachelor of Science in Mechanical
+                           Engineering or BSME)&nbsp;<span>grounded in engineering fundamentals with an emphasis on hands-on&nbsp;professional practice.
+                              &nbsp;</span></span>Students in the BSME program are encouraged to participate as interns in the Valley
+                        Industry Partnership (VIP) for Cooperative Education. &nbsp;In addition, as part of their
+                        capstone design experience, students can choose a team project either sponsored by
+                        industry or from a variety of national competitions such as Formula SAE, SAE Mini
+                        Baja, and ASME Human Powered Vehicle, or from a service activity such as Engineers
+                        without Borders. &nbsp;"Small class sizes, direct access to faculty as experienced practitioners
+                        and experiential, hands-on learning in a variety of laboratory exercises using state-of-the-art
+                        equipment/facilities are hallmarks of the program."</p>
+                     
+                     <p>The<a href="https://catalog.fresnostate.edu/preview_program.php?catoid=5&amp;poid=2700&amp;returnto=192" target="_blank" rel="noopener"><strong> Master of Science Mechanical Engineering </strong></a>program&nbsp;attracts three types of students:</p>
+                     
+                     <ul>
+                        
+                        <li>Seniors in the BSME program who participate in the accelerated (150-unit blended)
+                           Masters program;</li>
+                        
+                        <li>BSME-holders working in industry pursuing a Masters part time;</li>
+                        
+                        <li>International students who are entering a graduate program in the US for the first
+                           time. &nbsp;</li>
+                        </ul>
+                     
+                     <p>The 30 semester-unit MSME program provides students with a graduate degree (Master
+                        of Science in Engineering-Mechanical Engineering option or MSE-ME) grounded in advanced&nbsp;engineering
+                        topics with an emphasis on professional practice. &nbsp;Students have the culminating option
+                        of i) comprehensive exam (0 units), ii) research project (3 units); or iii) thesis
+                        (6 units).</p>
+                     
+                     <p><strong><a href="/about/directory/mechanical/index.html">The Department's full-time faculty</a></strong>&nbsp;have academic credentials which cover the major areas of the mechanical engineering
+                        discipline. In addition, all the faculty are active practitioners with academic, industrial
+                        and government experience and are able to assist students develop professional skills
+                        as well as advise/mentor students in career matters.</p>
+                     
+                     <p>
+                        
+                        	
+                        <div class="row">
+                           		
+                           <div class="col-lg-6">
+                              			
+                              <div class="card white">
+                                 				<img src="https://engineering.fresnostate.edu/mechanical/images/homepage/student-success.JPG" class="card-img-top" alt="Student Adjusting a Machine ">
+                                 				
+                                 <div class="card-body">
+                                    					
+                                    <h2 class="card-title">Student Success</h2>
+                                    					
+                                    <p class="card-text">Student success includes internal and external group competitions, internships, independent
+                                       study projects, service activities, and more</p>
+                                    					<a href="/mechanical/studentsuccess.html" class="btn btn-default btn-blue">Student Success</a>
+                                    				</div>
+                                 			</div>
+                              		</div>
+                           		
+                           <div class="col-lg-6">
+                              			
+                              <div class="card white">
+                                 				<img src="https://engineering.fresnostate.edu/mechanical/images/homepage/clubs.JPG" class="card-img-top" alt="Students working on a Machine">
+                                 				
+                                 <div class="card-body">
+                                    					
+                                    <h2 class="card-title">Clubs &amp; Organizations</h2>
+                                    					
+                                    <p class="card-text">Explore our mechanical engineering clubs and get involved today</p>
+                                    					<a href="/mechanical/student-clubs/index.html" class="btn btn-default">View our clubs</a>
+                                    				</div>
+                                 			</div>
+                              		</div>
+                           	</div>
+                         
+                        
+                        
+                        	
+                        <div class="row">
+                           		
+                           <div class="col-lg-6">
+                              			
+                              <div class="card white">
+                                 				<img src="https://engineering.fresnostate.edu/mechanical/images/homepage/solutions-center.JPG" class="card-img-top" alt="Machine in focus with student in background">
+                                 				
+                                 <div class="card-body">
+                                    					
+                                    <h2 class="card-title">Solutions Center</h2>
+                                    					
+                                    <p class="card-text">The Solutions Center partnership brings real-world projects to undergraduate students
+                                       in mechanical engineering</p>
+                                    					<a href="/mechanical/solutionscentre.html" class="btn btn-default btn-blue">Start a Project</a>
+                                    				</div>
+                                 			</div>
+                              		</div>
+                           		
+                           <div class="col-lg-6">
+                              			
+                              <div class="card white">
+                                 				<img src="https://engineering.fresnostate.edu/mechanical/images/homepage/prospective-students.png" class="card-img-top" alt="Students in lab coats working on a machine">
+                                 				
+                                 <div class="card-body">
+                                    					
+                                    <h2 class="card-title">Prospective Students</h2>
+                                    					
+                                    <p class="card-text">Consider a career in mechanical engineering and explore our program options</p>
+                                    					<a href="/mechanical/prospective-students.html" class="btn btn-default">Prospective Students</a>
+                                    				</div>
+                                 			</div>
+                              		</div>
+                           	</div>
+                         
+                        </p>
+                     
+                     <h2>Department Mission</h2>
+                     
+                     <p>The mission of the Department of Mechanical Engineering is to:&nbsp;</p>
+                     
+                     <p><em><span>"provide a broad-based, practice-oriented Mechanical Engineering education that enables
+                              graduates to become technically-proficient and professional leaders through innovative,
+                              entrepreneurial, multi-interdisciplinary engagement in the community and lifelong
+                              learning."</span></em></p>
+                     
+                     <hr>
+                     
+                     <p><span style="font-size: 1em;"><strong>Faculty Searches:</strong>&nbsp;</span>No Active Faculty Searches</p>
+                     
+                     <p><strong>Other Positions</strong> at http://jobs.fresnostate.edu/</p>
+                     
+                     <h2><strong>Contact</strong></h2>
+                     
+                     <p><strong> </strong></p>
+                     
+                     <p><strong>Lyles College of Engineering<br></strong>2320 E. San Ramon Ave.<br>M/S EE94<br>Fresno, CA 93740-8030</p>
+                     
+                     <p><strong>Tel </strong>(559) 278-2368<strong><br></strong><strong>Fax </strong>(559) 278-6521</p>
+                     
+                     <p>&nbsp;</p>
+                     
+                     <div class="row mb-2">
+                        <div class="col-sm-3">
+                           
+                           <p><strong><span style="font-size: 16px;">Deify Law</span></strong><br style="font-size: 16px;"><em><span style="font-size: 16px;">Department Chair</span></em><br style="font-size: 16px;"><span style="font-size: 16px;">dlaw@csufresno.edu</span><br style="font-size: 16px;"><span style="font-size: 16px;">(559) 278-2375</span></p>
+                           </div>
+                        <div class="col-sm-3">
+                           
+                           <p><strong><span style="font-size: 16px;">Michael Jenkins</span></strong><br style="font-size: 16px;"><em><span style="font-size: 16px;">Accreditation Coordinator</span></em><br style="font-size: 16px;"><span style="font-size: 16px;">jenkinsm@csufresno.edu</span><br style="font-size: 16px;"><span style="font-size: 16px;">(559) 278-8743</span></p>
+                           </div>
+                        <div class="col-sm-3">
+                           
+                           <p><strong><span style="font-size: 16px;">Sankha Banerjee</span></strong><br style="font-size: 16px;"><em><span style="font-size: 16px;">Graduate Coordinator</span></em><br style="font-size: 16px;"><span style="font-size: 16px;">sankhab@csufresno.edu</span><br style="font-size: 16px;"><span style="font-size: 16px;">(559) 278-4265</span></p>
+                           </div>
+                        <div class="col-sm-3">&nbsp;</div>
+                     </div>
+                  </div>
+               </div>
+            </div>
+         </main>
+      </div>
+      <footer id="footer">
+         <div class="container">
+            <div class="row">
+<div class="col-lg-3">
+    <h2><a href="/mechanical/index.html" title="Department of Mechanical Engineering link in the footer section" aria-label="Department of Mechanical Engineering link in the footer section">Department of Mechanical Engineering</a></h2>
+   	<ul class="footer-address">
+		<li class="location">
+			<a href="https://goo.gl/maps/Kh8TNtRpx3ZevUrq7">2320 E. San Ramon Ave. <br/>
+(Room EE154) M/S EE94<br />
+				Fresno, CA 93740</a></li>
+		<li>P <a href="tel:1-559-278-2368">559.278.2368</a></li>
+	</ul>
+</div>
+
+
+<div class="col-lg-3">
+<h2>Accessibility &amp; Support</h2>
+<ul class="list-unstyled">
+<li><a href="https://accessibility.fresnostate.edu">Accessibility</a></li>
+	<li><a href="javascript:Optanon.ToggleInfoDisplay()">Cookie Settings</a></li>
+<li><a href="https://www.fresnostate.edu/commentform.html">Comment Form</a></li>
+	<li><a href="https://fresnostate.kualibuild.com/app/69b2f4e29ccd870291e4247e/start">Report an Issue</a></li>
+
+</ul>
+</div>
+
+<div class="col-lg-3">
+<h2>Policies &amp; Compliance</h2>
+<ul class="list-unstyled">
+<li><a href="https://www.fresnostate.edu/equal-access.html">Equal Access</a></li>
+<li><a href="https://occr.fresnostate.edu/index.html">Title IX Compliance</a></li>
+<li><a href="https://www.fresnostate.edu/disclaimer.html">Disclaimer</a></li>
+<li><a href="https://academics.fresnostate.edu/wscuc/">WSCUC</a></li>
+</ul>
+</div>
+
+<div class="col-lg-3">
+<h2>Campus Information</h2>
+<ul class="list-unstyled">
+<li><a href="https://adminfinance.fresnostate.edu/police/emergency.html">Emergencies</a></li>
+<li><a href="https://covid.fresnostate.edu/">COVID-19 Updates</a></li>
+<li><a href="https://president.fresnostate.edu/opportunities-for-all.html">Opportunities for All</a></li>
+	<li><a href="https://studentaffairs.fresnostate.edu/health/wellness/studentparents.html">Student Parent Resources</a></li>
+</ul>
+</div></div>
+         </div>
+         <div class="copyright">
+	<div class="container">
+		<div class="row">
+			<div class="col-md-6">
+				<a href="https://www.fresnostate.edu/copyright.html">© Fresno State 2026</a><br/>
+				<span id="directedit"></span>
+			</div>
+			<div class="col-md-6">
+				<ul class="footer-social">
+					<li><a href="https://www.facebook.com/FresnoState" class="facebook"><span class="sr-only">Fresno State Facebook</span></a></li>
+					<li><a href="https://twitter.com/Fresno_State" class="twitter"><span class="sr-only">Fresno State Twitter</span></a></li>
+					<li><a href="https://www.instagram.com/fresno_state/" class="instagram"><span class="sr-only">Fresno State Instagram</span></a></li>
+					<li><a href="https://www.youtube.com/channel/UCbloblFKJwjmQ0uTnSjcJDA" class="youtube"><span class="sr-only">Fresno State YouTube</span></a></li>
+					<li><a href="https://www.tiktok.com/@fresno_state" class="tiktok"><span class="sr-only">Fresno State Tiktok</span></a></li>
+					<li><a href="https://www.linkedin.com/school/california-state-university-fresno/" class="linkedin"><span class="sr-only">Fresno State LinkedIn</span></a></li>
+					<li><a href="https://connect.fresnostate.edu/p/m4aA7zBLDzQNYVel7lzTAsGUD" class="hand-holding-usd"><span class="sr-only">Donation</span></a></li>
+				</ul>
+			</div>
+		</div>
+	</div>
+</div><div class="text-center copyright mt-0">
+  <span class="d-inline-block pb-1">All Fresno State programs and activities are open and available to all regardless of race, sex, color,  ethnicity or national origin.</span>
+</div></footer><button data-target="#0" class="cd-top"><span class="sr-only">Back to Top</span></button>
+      
+<!-- Optional JavaScript -->
+<!-- jQuery first, then Popper.js, then Bootstrap JS -->
+<script src="//code.jquery.com/jquery-3.3.1.min.js"></script>
+<script src="//cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js"></script>
+<script src="https://omniresources.fresnostate.edu/js/bootstrap.js"></script>
+<script src="https://omniresources.fresnostate.edu/js/scripts.js"></script>
+<script src="https://omniresources.fresnostate.edu/js/slick.min.js"></script>
+<script src="https://omniresources.fresnostate.edu/js/zoom.js"></script><div id="ou-hidden" style="display:none;"><ul><li class="space"><a id="de" href="https://a.cms.omniupdate.com/11/?skin=fresnostate&amp;account=csufresno&amp;site=aws-engineering&amp;action=de&amp;path=/mechanical/index.pcf">Last Updated Apr 8, 2026</a></li></ul></div><script>
+			if(document.getElementById("de") != null && document.getElementById("directedit")) {
+				var link = document.getElementById("de").parentNode.innerHTML;
+				document.getElementById("de").parentNode.innerHTML = "";
+				document.getElementById("directedit").innerHTML = link.replace(/^\s+|\s+$/gm,'');
+			}
+		</script><script src="https://omniresources.fresnostate.edu/js/quicklinks-script.js"></script><!-- ouc:info uuid="f63d4735-9049-4366-81c3-0e4a642b6f67"/ --></body>
+</html>
