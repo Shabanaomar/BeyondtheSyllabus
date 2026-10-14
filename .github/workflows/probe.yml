@@ -35,6 +35,11 @@ jobs:
         run: |
           git config user.name "probe-bot"
           git config user.email "probe-bot@users.noreply.github.com"
+          ls -la .probe/out | head -80 | while read -r l; do echo "::notice::$l"; done
+          for f in .probe/out/*.status; do echo "::notice::$f $(cat $f)"; done
           git add .probe/out
-          git commit -m "Probe results [skip ci]" || exit 0
-          git push
+          git commit -m "Probe results [skip ci]" > /tmp/commit.txt 2>&1 || true
+          if ! git push > /tmp/push.txt 2>&1; then
+            while read -r l; do echo "::error::push: $l"; done < /tmp/push.txt
+            exit 1
+          fi
