@@ -11,12 +11,11 @@ export default defineConfig({
     baseURL: `http://localhost:${port}`,
     trace: "retain-on-failure",
   },
-  // Every flow is tested at phone width (375px) and desktop width.
+  // Every flow is tested on real phone profiles (touch, mobile viewport and user agent) and on
+  // desktop. iPhone 13 Mini is 375px wide and runs on WebKit, the engine behind iPhone Safari.
   projects: [
-    {
-      name: "mobile",
-      use: { ...devices["Desktop Chrome"], viewport: { width: 375, height: 812 } },
-    },
+    { name: "iphone", use: { ...devices["iPhone 13 Mini"] } },
+    { name: "android", use: { ...devices["Galaxy S24"] } },
     {
       name: "desktop",
       use: { ...devices["Desktop Chrome"], viewport: { width: 1280, height: 800 } },
