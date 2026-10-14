@@ -1,18 +1,21 @@
 HTTP/2 200 
+cache-control: public, max-age=604800
+content-type: text/html; charset=UTF-8
+link: <https://registrar.berkeley.edu/wp-json/>; rel="https://api.w.org/"
+link: <https://registrar.berkeley.edu/wp-json/wp/v2/pages/5199>; rel="alternate"; title="JSON"; type="application/json"
+link: <https://registrar.berkeley.edu/?p=5199>; rel=shortlink
+server: nginx
+set-cookie: quform_session_e22e0e43ec4c978c1921a78d150f82ca=392vG6R0aQcFd5kwB80MNp7uC9oMyKskctWCbqRe; path=/; secure; httponly; samesite=None
+strict-transport-security: max-age=300
+x-pantheon-styx-hostname: styx-us-a-58d475665b-rpt59
+x-styx-req-id: eef65427-c780-11f1-a3f5-8e7477745cc5
+date: Wed, 14 Oct 2026 03:40:01 GMT
+x-served-by: cache-chi-kigq8000175-CHI, cache-iad-kiad7000107-IAD
+x-cache: MISS, MISS
+x-cache-hits: 0, 0
+x-timer: S1791949200.380911,VS0,VE867
+vary: Accept-Encoding, Cookie, Cookie
+age: 0
 accept-ranges: bytes
-vary: Accept-Encoding
-content-type: text/plain
-content-security-policy-report-only: require-trusted-types-for 'script'; report-uri https://csp.withgoogle.com/csp/calendar-dev
-cross-origin-resource-policy: cross-origin
-cross-origin-opener-policy: same-origin; report-to="calendar-dev"
-report-to: {"group":"calendar-dev","max_age":2592000,"endpoints":[{"url":"https://csp.withgoogle.com/csp/report-to/calendar-dev"}]}
-content-length: 36
-date: Wed, 14 Oct 2026 03:36:34 GMT
-expires: Wed, 14 Oct 2026 03:36:34 GMT
-cache-control: private, max-age=0
-last-modified: Thu, 20 Jul 2023 22:48:00 GMT
-x-content-type-options: nosniff
-server: sffe
-x-xss-protection: 0
-alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+via: 1.1 varnish, 1.1 varnish
 

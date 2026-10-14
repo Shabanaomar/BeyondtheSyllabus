@@ -1,11 +1,22 @@
-HTTP/2 404 
-date: Wed, 14 Oct 2026 03:36:33 GMT
-content-type: text/html
-content-length: 0
-server: nginx/1.31.1
-cache-control: public, max-age=0, must-revalidate
-strict-transport-security: max-age=15552000; includeSubDomains
-x-content-type-options: nosniff
-x-xss-protection: 0
-content-security-policy-report-only: report-uri https://app.coursedog.com/log-catalog-content-security-policy;default-src * 'unsafe-eval' 'unsafe-inline' about: blob: data: filesystem: ws: wss:;connect-src * 'self' https://app.coursedog.com app.launchdarkly.com clientstream.launchdarkly.com events.launchdarkly.com bam.nr-data.net bam-cell.nr-data.net *.ingest.us.sentry.io;font-src * blob: data: 'unsafe-inline';frame-src * blob: data:;img-src * blob: data: 'unsafe-inline';script-src * 'self' 'unsafe-inline' 'unsafe-eval' js-agent.newrelic.com bam.nr-data.net;style-src * blob: data: 'unsafe-inline';object-src 'self';worker-src 'self' blob:
+HTTP/2 200 
+date: Wed, 14 Oct 2026 03:39:49 GMT
+content-type: text/html; charset=UTF-8
+server: cloudflare
+vary: Accept-Encoding
+vary: Accept-Encoding,Cookie
+link: <https://engineering.berkeley.edu/wp-json/>; rel="https://api.w.org/"
+link: <https://engineering.berkeley.edu/wp-json/wp/v2/pages/9821>; rel="alternate"; title="JSON"; type="application/json"
+link: <https://engineering.berkeley.edu/?p=9821>; rel=shortlink
+x-powered-by: WP Engine
+x-cacheable: SHORT
+cache-control: max-age=600, must-revalidate
+x-cache: HIT: 1
+x-cache-group: normal
+last-modified: Wed, 14 Oct 2026 03:39:49 GMT
+x-frame-options: SAMEORIGIN
+cf-cache-status: EXPIRED
+set-cookie: __cf_bm=OZUYR9VxrIZeo5S57kDQoHpSS5I26ZAogxopSD_..c8-1791949189.0640228-1.0.1.1-Lwme1ZgIv3lL8sBu2CcmqMK1aY..fqr0Wv_pudgYJO.vxgJbufUIJAS3dBEJrZ3YH3vbnpQJLoEGHmYZnSTjgrDhf9E2hgYDA.iQYCbMqp01VFelx54_yUQPCz0fxoa1; HttpOnly; SameSite=None; Secure; Path=/; Domain=engineering.berkeley.edu; Expires=Wed, 14 Oct 2026 04:09:49 GMT
+content-security-policy: upgrade-insecure-requests
+cf-ray: a4a38f1facdbd692-IAD
+alt-svc: h3=":443"; ma=86400
 
