@@ -8,7 +8,7 @@ import "./globals.css";
 export const metadata: Metadata = {
   title: { default: "Beyond the Syllabus", template: "%s · Beyond the Syllabus" },
   description:
-    "Plan your engineering degree around your job: next-term courses, a path to graduation, clubs and career events, in your calendar.",
+    "Plan your degree around your goals: next-term courses, a path to graduation, clubs and career events, in your calendar.",
 };
 
 export const viewport: Viewport = {
@@ -45,8 +45,8 @@ export default function RootLayout({ children }: LayoutProps<"/">) {
           {children}
         </main>
         <footer className="text-muted mx-auto w-full max-w-3xl px-4 pb-8 text-sm sm:px-5">
-          Beyond the Syllabus is an independent student project, not affiliated with Fresno State or
-          UC Berkeley. Always confirm your plan with your academic advisor.
+          Beyond the Syllabus is an independent student project, not affiliated with any university.
+          Always confirm your plan with your academic advisor.
         </footer>
       </body>
     </html>

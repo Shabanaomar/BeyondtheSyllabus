@@ -19,21 +19,19 @@ export default function Home() {
   return (
     <div className="flex flex-col gap-8">
       <section className="flex flex-col gap-4 pt-4 sm:pt-10" aria-labelledby="hero-heading">
-        <Pill tone="accent">For engineering students who work</Pill>
+        <Pill tone="accent">For students with big plans</Pill>
         <h1 id="hero-heading" className="text-[40px] leading-[1.05] font-bold sm:text-[56px]">
-          Plan your degree around your job, not the other way round.
+          Plan your degree around your goals, not the other way round.
         </h1>
         <p className="text-muted max-w-[60ch] text-lg">
-          Beyond the Syllabus builds your next term and your path to graduation from your
-          program&apos;s real rules, fitted to your work hours. It also finds the clubs and career
-          events worth your time.
+          Tell us where you want your career to go. Beyond the Syllabus builds the courses, the path
+          to graduation, and the clubs and career events that get you there faster, from your
+          program&apos;s real rules and fitted around your work and life.
         </p>
         <div className="flex flex-wrap gap-3">
           <ButtonLink href="/demo">See a sample plan</ButtonLink>
         </div>
-        <p className="text-muted text-sm">
-          Starting with engineering at Fresno State and UC Berkeley. Sign-up opens with our pilot.
-        </p>
+        <p className="text-muted text-sm">Now in a small pilot. Sign-up opens soon.</p>
       </section>
 
       <section className="flex flex-col gap-3" aria-labelledby="how-heading">
