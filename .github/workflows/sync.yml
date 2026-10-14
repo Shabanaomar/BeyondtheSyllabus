@@ -1,0 +1,67 @@
+# Weekly data sync: collects clubs, career events and academic calendars from the university
+# pages that allow it (see docs/sources/) and writes them to the database. New items wait for
+# your review; failures and anything flagged open a GitHub issue with a plain-language report.
+#
+# Needs two repository secrets (Settings > Secrets and variables > Actions):
+#   DATABASE_URL             Supabase connection string (use the "Session pooler" one)
+#   COLLECTOR_CONTACT_EMAIL  the email the collector gives universities as its contact
+# Until DATABASE_URL is set, the job skips itself.
+name: Data sync
+
+on:
+  schedule:
+    # Mondays 06:17 Pacific (13:17 UTC). Off the hour so it isn't delayed by busy times.
+    - cron: "17 13 * * 1"
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  issues: write
+
+concurrency:
+  group: data-sync
+  cancel-in-progress: false
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    env:
+      DATABASE_URL: ${{ secrets.DATABASE_URL }}
+      COLLECTOR_CONTACT_EMAIL: ${{ secrets.COLLECTOR_CONTACT_EMAIL }}
+      RAW_DIR: raw
+      REPORT_PATH: sync-report.md
+    steps:
+      - name: Skip until the database secret is set
+        if: env.DATABASE_URL == ''
+        run: echo "::notice::DATABASE_URL secret not set yet; skipping the sync."
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+        if: env.DATABASE_URL != ''
+      - uses: astral-sh/setup-uv@1c37ad07a6a961277cf70c0d37d6f313000f5884 # v10.3.0
+        if: env.DATABASE_URL != ''
+        with:
+          python-version: "3.12"
+      - name: Install
+        if: env.DATABASE_URL != ''
+        run: uv sync --locked --no-dev
+      - name: Collect and store
+        id: sync
+        if: env.DATABASE_URL != ''
+        run: uv run --no-dev python -m bts_ingest.sync
+      - name: Keep the raw pages for 30 days
+        if: always() && env.DATABASE_URL != ''
+        uses: actions/upload-artifact@cf430e030ddbb5b0abf93d22962f4752f3646cd9 # v7.0.2
+        with:
+          name: raw-pages
+          path: raw
+          retention-days: 30
+          if-no-files-found: ignore
+      - name: Open an issue when something needs attention
+        if: failure() && env.DATABASE_URL != ''
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          title="Data sync needs attention ($(date -u +%Y-%m-%d))"
+          body_file=sync-report.md
+          [ -s "$body_file" ] || echo "The sync failed before writing a report. See the workflow run: ${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}" > "$body_file"
+          gh issue create --title "$title" --body-file "$body_file"

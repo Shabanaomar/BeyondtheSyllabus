@@ -40,8 +40,8 @@ jobs:
         run: uv run ruff format --check .
       - name: Type check
         run: uv run mypy
-      - name: Tests, including database security (engine coverage must stay at or above 90%)
-        run: uv run pytest --cov=bts_engine --cov-report=term-missing --cov-fail-under=90
+      - name: Tests, including database security (engine + collector coverage must stay at or above 90%)
+        run: uv run pytest --cov=bts_engine --cov=bts_ingest --cov-report=term-missing --cov-fail-under=90
       - name: Dependency audit
         run: uv export --frozen --no-emit-project --format requirements.txt > /tmp/requirements.txt && uv run pip-audit --strict -r /tmp/requirements.txt
 
