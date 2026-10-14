@@ -256,3 +256,5 @@ These commitments must appear on the privacy page in plain language:
 3. Chat conversations aren't saved; they disappear when you close the tab or after 24 hours.
 4. We never ask for your school password.
 5. "Delete my account" permanently removes everything we have about you.
+6. Thumbs-up/down ratings on answers aren't linked to your account, so they can't be traced to you
+   and stay after you delete your account.
