@@ -1,12 +1,67 @@
+import { ButtonLink, Card, Pill } from "@/components/ui";
+
+const steps = [
+  {
+    title: "Tell us where you are",
+    body: "Pick your school and major, then upload the degree progress report your school gives you, or tick the courses you've done.",
+  },
+  {
+    title: "Draw your week",
+    body: "Mark your work shifts, commute and anything else that's fixed. Classes are planned around them.",
+  },
+  {
+    title: "Get your plan",
+    body: "Next term's courses, your path to graduation, clubs and career events, each with the reason it was picked, ready for your calendar.",
+  },
+];
+
 export default function Home() {
   return (
-    <main className="mx-auto flex w-full max-w-2xl flex-1 flex-col justify-center gap-4 px-4 py-16">
-      <h1 className="text-3xl font-semibold">Beyond the Syllabus</h1>
-      <p className="text-base">
-        A planning companion for engineering students: next term, path to graduation, clubs and
-        career events, fitted around your work schedule.
-      </p>
-      <p className="text-sm">Coming soon. Always confirm your plan with your academic advisor.</p>
-    </main>
+    <div className="flex flex-col gap-8">
+      <section className="flex flex-col gap-4 pt-4 sm:pt-10" aria-labelledby="hero-heading">
+        <Pill tone="accent">For engineering students who work</Pill>
+        <h1 id="hero-heading" className="text-[40px] leading-[1.05] font-bold sm:text-[56px]">
+          Plan your degree around your job, not the other way round.
+        </h1>
+        <p className="text-muted max-w-[60ch] text-lg">
+          Beyond the Syllabus builds your next term and your path to graduation from your
+          program&apos;s real rules, fitted to your work hours. It also finds the clubs and career
+          events worth your time.
+        </p>
+        <div className="flex flex-wrap gap-3">
+          <ButtonLink href="/demo">See a sample plan</ButtonLink>
+        </div>
+        <p className="text-muted text-sm">
+          Starting with engineering at Fresno State and UC Berkeley. Sign-up opens with our pilot.
+        </p>
+      </section>
+
+      <section className="flex flex-col gap-3" aria-labelledby="how-heading">
+        <h2 id="how-heading" className="text-2xl font-bold">
+          How it works
+        </h2>
+        <ol className="grid gap-3 sm:grid-cols-3">
+          {steps.map((step, index) => (
+            <li
+              key={step.title}
+              className="bg-surface flex flex-col gap-2 rounded-[var(--radius-card)] p-[18px]"
+            >
+              <span className="text-accent font-display text-sm font-bold">Step {index + 1}</span>
+              <h3 className="text-lg leading-tight font-bold">{step.title}</h3>
+              <p className="text-muted text-[15px]">{step.body}</p>
+            </li>
+          ))}
+        </ol>
+      </section>
+
+      <Card title="Your data stays yours" labelledBy="privacy-heading">
+        <ul className="text-muted flex list-disc flex-col gap-1.5 pl-5 text-[15px]">
+          <li>We never ask for your school password.</li>
+          <li>Your uploaded progress report is read once to find your courses, then deleted.</li>
+          <li>Your name, student ID and GPA are removed before anything reaches our AI.</li>
+          <li>&ldquo;Delete my account&rdquo; removes everything we have about you.</li>
+        </ul>
+      </Card>
+    </div>
   );
 }
