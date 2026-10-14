@@ -5,9 +5,11 @@ import { expectNoSeriousA11yIssues } from "./a11y";
 test("landing page explains the product and links to the sample plan", async ({ page }) => {
   await page.goto("/");
   await expect(
-    page.getByRole("heading", { level: 1, name: /Plan your degree around your goals/ }),
+    page.getByRole("heading", { level: 1, name: "Plan your degree around your goals." }),
   ).toBeVisible();
   await expect(page.getByRole("heading", { name: "How it works" })).toBeVisible();
+  await expect(page.getByRole("heading", { name: "A peek at a plan" })).toBeVisible();
+  await expect(page.getByRole("img", { name: "62 of 120 units done" })).toBeVisible();
   await expect(page.getByText("We never ask for your school password.")).toBeVisible();
   await expect(page.getByText(/confirm your plan with your academic advisor/i)).toBeVisible();
   await expectNoSeriousA11yIssues(page);
