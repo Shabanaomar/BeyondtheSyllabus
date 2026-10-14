@@ -33,8 +33,11 @@ export default function RootLayout({ children }: LayoutProps<"/">) {
             <Logo />
           </Link>
           <nav aria-label="Main">
-            <Link href="/demo" className="text-accent font-bold underline-offset-2 hover:underline">
-              See a sample plan
+            <Link
+              href="/demo"
+              className="text-accent font-bold whitespace-nowrap underline-offset-2 hover:underline"
+            >
+              Sample plan
             </Link>
           </nav>
         </header>

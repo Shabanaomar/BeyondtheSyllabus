@@ -1,6 +1,8 @@
 import Link from "next/link";
 import type { ComponentProps, ReactNode } from "react";
 
+import { LogoMark } from "@/components/art";
+
 /** Shared building blocks. Colors come only from the design tokens in globals.css. */
 
 export function Card({
@@ -109,13 +111,10 @@ export function Notice({ children }: { children: ReactNode }) {
 export function Logo() {
   return (
     <span className="flex items-center gap-2">
-      <span
-        aria-hidden="true"
-        className="bg-accent text-on-accent font-display flex size-7 items-center justify-center rounded-[9px] text-[13px] font-bold"
-      >
-        BtS
+      <LogoMark className="size-8" />
+      <span className="font-display text-[17px] font-bold whitespace-nowrap">
+        Beyond the Syllabus
       </span>
-      <span className="font-display text-[17px] font-bold">Beyond the Syllabus</span>
     </span>
   );
 }
