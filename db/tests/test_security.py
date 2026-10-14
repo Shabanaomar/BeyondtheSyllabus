@@ -5,8 +5,7 @@ from __future__ import annotations
 import uuid
 
 import pytest
-
-from .conftest import Db
+from dbkit import Db
 
 STUDENT_TABLES = [
     "student_profile",

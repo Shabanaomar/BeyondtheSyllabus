@@ -44,4 +44,5 @@ packages = ["bts_engine", "bts_ingest"]
 
 [tool.pytest.ini_options]
 testpaths = ["engine/tests", "ingest/tests", "db/tests"]
-addopts = "--strict-markers"
+addopts = "--strict-markers --import-mode=importlib"
+pythonpath = ["engine/tests", "db/tests"]

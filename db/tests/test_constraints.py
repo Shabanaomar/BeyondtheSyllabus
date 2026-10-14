@@ -3,8 +3,7 @@
 from __future__ import annotations
 
 import pytest
-
-from .conftest import Db
+from dbkit import Db
 
 
 def test_profile_program_must_belong_to_profile_school(db: Db, catalog: dict[str, int]) -> None:
