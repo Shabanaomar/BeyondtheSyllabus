@@ -37,7 +37,7 @@ jobs:
           set +e
           git config user.name "probe-bot"
           git config user.email "probe-bot@users.noreply.github.com"
-          git add .probe/out; echo "add=$?" > /tmp/log.txt
+          git add -f .probe/out; echo "add=$?" > /tmp/log.txt
           git commit -m "Probe results [skip ci]" >> /tmp/log.txt 2>&1; echo "commit=$?" >> /tmp/log.txt
           git push origin HEAD:${GITHUB_REF_NAME} >> /tmp/log.txt 2>&1; rc=$?; echo "push=$rc" >> /tmp/log.txt
           msg=$(tail -c 3000 /tmp/log.txt | sed ':a;N;$!ba;s/\n/ | /g')
