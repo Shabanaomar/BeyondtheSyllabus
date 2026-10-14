@@ -26,6 +26,21 @@ through the Tailwind names below, never literal colors.
 Contrast, checked for every text/background pair: the lowest is 5.3:1 (light) and 6.6:1 (dark),
 above WCAG AA's 4.5:1.
 
+## Brand: logo and night sky
+
+- **Logo:** "Bts" in a night-blue circle, the small "s" in teal, with a path swooping up to a warm
+  star (`LogoMark` in `src/components/art.tsx`, and `src/app/icon.svg` for the browser tab). The
+  letters are vector outlines, so the mark needs no font to render.
+- **Landing hero:** a night sky. A graduate, seen from behind, reaches up; a shooting-star trail
+  rises from her hand through the plan (Academic plan, Student organizations, Networking,
+  Professional development, Career fair) to the goal star, "Your dream job"
+  (`src/components/night.tsx`). Decorative only; the page text carries the meaning. Twinkling
+  stars respect "reduce motion".
+- **Night tokens** (`--night`, `--night-deep`, `--night-line`, `--starlight`, `--trail`, `--goal`,
+  `--on-goal`, `--chip`, `--silhouette`) are the same in light and dark mode.
+- The landing page is always dark (`.theme-dark`); the sample plan and the app follow the
+  device's light or dark setting.
+
 ## Type
 
 - **Display:** Bricolage Grotesque (variable), for headings: page title 30px, card titles 18px.

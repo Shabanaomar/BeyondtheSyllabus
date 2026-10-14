@@ -9,6 +9,17 @@
  * Fonts are bundled from npm (no request to Google at runtime or build time).
  */
 :root {
+  /* Brand night sky: the same in light and dark mode (logo and landing hero). */
+  --night: #0e0b1c;
+  --night-deep: #1d1736;
+  --night-line: #3a3450;
+  --starlight: #f5f2ff;
+  --trail: #5cc8a8;
+  --goal: #f6c99a;
+  --on-goal: #2a1606;
+  --chip: #211d2e;
+  --silhouette: #06050c;
+
   --bg: #f2f1f7;
   --surface: #ffffff;
   --surface-soft: #f7f6fb;
@@ -53,7 +64,8 @@
   }
 }
 
-:root[data-theme="dark"] {
+:root[data-theme="dark"],
+.theme-dark {
   --bg: #16131f;
   --surface: #211d2e;
   --surface-soft: #2a2539;
@@ -94,6 +106,15 @@
   --color-critical: var(--critical);
   --color-critical-soft: var(--critical-soft);
   --color-focus: var(--focus);
+  --color-night: var(--night);
+  --color-night-deep: var(--night-deep);
+  --color-night-line: var(--night-line);
+  --color-starlight: var(--starlight);
+  --color-trail: var(--trail);
+  --color-goal: var(--goal);
+  --color-on-goal: var(--on-goal);
+  --color-chip: var(--chip);
+  --color-silhouette: var(--silhouette);
 
   --font-display: "Bricolage Grotesque Variable", "Segoe UI", system-ui, sans-serif;
   --font-sans: "Atkinson Hyperlegible", "Segoe UI", system-ui, sans-serif;
@@ -132,5 +153,15 @@ h3 {
   *::after {
     animation-duration: 0.01ms !important;
     transition-duration: 0.01ms !important;
+  }
+}
+
+@keyframes twinkle {
+  0%,
+  100% {
+    opacity: 0.25;
+  }
+  50% {
+    opacity: 0.9;
   }
 }

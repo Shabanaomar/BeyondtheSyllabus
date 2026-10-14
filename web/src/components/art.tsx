@@ -1,132 +1,29 @@
 /**
- * Original brand art: the logo mark and the landing illustrations. All decorative (aria-hidden),
- * drawn with theme colors so they follow light and dark mode. No university marks or colors.
+ * Original brand art: the logo mark and small illustrations. All decorative (aria-hidden). No
+ * university marks or colors.
  */
 
-import type { ReactNode } from "react";
-
-/** An open book whose path leaves the page and ends at a star: going beyond the syllabus. */
+/** The Bts mark: "Bts" with a path swooping up to a star. Brand colors, the same in both themes. */
 export function LogoMark({ className = "size-8" }: { className?: string }) {
   return (
-    <svg viewBox="0 0 32 32" className={className} aria-hidden="true" focusable="false">
-      <rect width="32" height="32" rx="9" className="fill-accent" />
+    <svg viewBox="0 0 100 100" className={className} aria-hidden="true" focusable="false">
+      <circle cx="50" cy="50" r="49" className="fill-night stroke-night-line" strokeWidth="2" />
       <path
-        d="M7 22.5c3-2 6-2 9 0 3-2 6-2 9 0"
-        className="stroke-on-accent"
-        strokeWidth="2.2"
-        fill="none"
-        strokeLinecap="round"
-        strokeLinejoin="round"
+        d="M16 61V33.3H26.8Q29.3 33.3 31.3 33.7Q33.3 34.2 34.7 35.1Q36 36 36.7 37.3Q37.5 38.7 37.5 40.4Q37.5 42.1 36.8 43.5Q36.1 44.8 34.6 45.6Q33 46.5 30.5 46.7V47.1Q34.7 47.3 36.6 49Q38.6 50.8 38.6 53.7Q38.6 56.1 37.3 57.7Q36.1 59.3 33.7 60.2Q31.4 61 27.8 61ZM22 56.1H27.6Q30 56.1 31.3 55.2Q32.6 54.4 32.6 52.7Q32.6 50.9 31.1 50Q29.6 49.1 26.6 49.1H22ZM22 44.9H26.2Q28.8 44.9 30.2 44Q31.5 43.2 31.5 41.5Q31.5 39.8 30.2 39Q29 38.2 26.4 38.2H22ZM49.5 61.5Q45.8 61.5 44 59.6Q42.2 57.7 42.2 53.7V43.7H39.7V39.8H40Q42.3 39.5 43.3 38.3Q44.3 37 44.5 34.5L44.6 34H48.2V39H53.4V43.9H48.2V53.2Q48.2 54.8 48.9 55.5Q49.7 56.2 50.9 56.2Q51.5 56.2 52.2 56Q52.9 55.8 53.4 55.5V60.9Q52.2 61.2 51.2 61.4Q50.3 61.5 49.5 61.5Z"
+        className="fill-starlight"
       />
       <path
-        d="M16 20.5c0-5 2.5-8 5.5-9.5"
-        className="stroke-on-accent"
-        strokeWidth="2.2"
-        fill="none"
-        strokeLinecap="round"
-        strokeDasharray="0.1 3.6"
+        d="M65.5 61.6Q63.3 61.6 61.4 61.1Q59.6 60.7 58.2 59.7Q56.8 58.8 56.1 57.2Q55.4 55.5 55.5 53.3L60.8 52.8Q60.9 54.3 61.5 55.3Q62 56.3 63.1 56.7Q64.2 57.2 65.7 57.2Q67.3 57.2 68.3 56.6Q69.4 56.1 69.4 55Q69.4 54.2 68.9 53.8Q68.5 53.4 67.5 53.1Q66.5 52.7 64.8 52.3Q62.7 51.8 61 51.3Q59.4 50.8 58.1 50.1Q56.9 49.3 56.3 48.2Q55.6 47.1 55.6 45.5Q55.6 43.2 56.8 41.6Q58 40.1 60.2 39.2Q62.3 38.4 65.1 38.4Q67.6 38.4 69.7 39.2Q71.9 40 73.2 41.7Q74.4 43.5 74.1 46.5L68.9 47Q69.1 45.6 68.5 44.7Q68 43.8 67 43.3Q66.1 42.8 64.7 42.8Q63.1 42.8 62.2 43.4Q61.3 44 61.3 45Q61.3 45.8 61.9 46.3Q62.4 46.8 63.5 47.1Q64.7 47.4 66.3 47.8Q67.7 48.1 69.3 48.5Q70.8 49 72.1 49.7Q73.5 50.5 74.3 51.7Q75.1 53 75.1 54.9Q75.1 56.9 74 58.4Q72.9 59.9 70.7 60.8Q68.6 61.6 65.5 61.6Z"
+        className="fill-trail"
       />
       <path
-        d="M23.5 5.5l1.1 2.6 2.6 1.1-2.6 1.1-1.1 2.6-1.1-2.6-2.6-1.1 2.6-1.1z"
-        className="fill-on-accent"
-      />
-    </svg>
-  );
-}
-
-function Chip({ x, y, w, label }: { x: number; y: number; w: number; label: string }) {
-  return (
-    <g>
-      <rect x={x} y={y} width={w} height="28" rx="14" className="fill-surface stroke-line" />
-      <text
-        x={x + w / 2}
-        y={y + 19}
-        textAnchor="middle"
-        className="fill-ink font-sans"
-        fontSize="15"
-        fontWeight="700"
-      >
-        {label}
-      </text>
-    </g>
-  );
-}
-
-function Marker({ x, y, children }: { x: number; y: number; children: ReactNode }) {
-  return (
-    <g>
-      <circle cx={x} cy={y} r="15" className="fill-surface stroke-accent" strokeWidth="3" />
-      <g
-        transform={`translate(${x - 8} ${y - 8})`}
-        className="stroke-accent"
+        d="M21 72c20 6 39 3 52-9"
+        className="stroke-trail"
+        strokeWidth="3.4"
         fill="none"
-        strokeWidth="1.8"
         strokeLinecap="round"
-        strokeLinejoin="round"
-      >
-        {children}
-      </g>
-    </g>
-  );
-}
-
-/** A path from "you, today" over the hills, past courses, clubs and a career fair, to your goal. */
-export function HeroArt({ className }: { className?: string }) {
-  return (
-    <svg viewBox="0 0 480 360" className={className} aria-hidden="true" focusable="false">
-      <defs>
-        <clipPath id="hero-art-frame">
-          <rect width="480" height="360" rx="24" />
-        </clipPath>
-      </defs>
-      <g clipPath="url(#hero-art-frame)">
-        <rect width="480" height="360" className="fill-surface" />
-        <circle cx="402" cy="86" r="46" className="fill-warm-soft" />
-        <path
-          d="M40 70l2 5 5 2-5 2-2 5-2-5-5-2 5-2zM120 40l1.5 3.5 3.5 1.5-3.5 1.5-1.5 3.5-1.5-3.5-3.5-1.5 3.5-1.5zM250 72l1.5 3.5 3.5 1.5-3.5 1.5-1.5 3.5-1.5-3.5-3.5-1.5 3.5-1.5z"
-          className="fill-accent"
-          opacity="0.7"
-        />
-        <path
-          d="M0 250C90 190 195 210 285 180c75-25 135-60 195-30v210H0z"
-          className="fill-lilac-soft"
-        />
-        <path
-          d="M0 300c105-40 225 0 330-50 70-25 120-15 150-10v120H0z"
-          className="fill-accent-soft"
-        />
-        <path
-          d="M30 340c75-20 60-70 135-70 75 0 83-30 105-48 30-24 82-42 120-72"
-          className="stroke-accent"
-          strokeWidth="4"
-          strokeLinecap="round"
-          strokeDasharray="0.1 11"
-          fill="none"
-        />
-        <circle cx="30" cy="340" r="8" className="fill-ink" />
-
-        <Marker x={165} y={270}>
-          <path d="M1 3c3-1.5 5-1.5 7 0v11c-2-1.5-4-1.5-7 0zM15 3c-3-1.5-5-1.5-7 0v11c2-1.5 4-1.5 7 0z" />
-        </Marker>
-        <Marker x={270} y={222}>
-          <circle cx="5" cy="5" r="2.5" />
-          <circle cx="11.5" cy="5" r="2.5" />
-          <path d="M0.5 14c0-3 2-5 4.5-5s4.5 2 4.5 5M7.5 14c0-3 1.7-5 4-5s4 2 4 5" />
-        </Marker>
-        <Marker x={327} y={188}>
-          <rect x="1" y="5" width="14" height="9" rx="2" />
-          <path d="M5.5 5V3h5v2" />
-        </Marker>
-
-        <path d="M390 150v-46" className="stroke-ink" strokeWidth="3" strokeLinecap="round" />
-        <path d="M391 104h30l-7 9 7 9h-30z" className="fill-accent" />
-
-        <Chip x={16} y={282} w={104} label="You, today" />
-        <Chip x={117} y={220} w={96} label="Next term" />
-        <Chip x={240} y={244} w={66} label="Clubs" />
-        <Chip x={262} y={137} w={104} label="Career fair" />
-        <Chip x={380} y={166} w={92} label="Your goal" />
-      </g>
+      />
+      <path d="M80 47.5l2 5.5 5.5 2-5.5 2-2 5.5-2-5.5-5.5-2 5.5-2z" className="fill-goal" />
     </svg>
   );
 }
