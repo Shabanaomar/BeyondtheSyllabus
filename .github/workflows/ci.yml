@@ -16,6 +16,18 @@ jobs:
   python:
     name: Python (ruff, mypy, pytest, pip-audit)
     runs-on: ubuntu-latest
+    services:
+      # Database tests apply every migration to a fresh database and check the privacy rules.
+      postgres:
+        image: postgres:16
+        env:
+          POSTGRES_HOST_AUTH_METHOD: trust
+        ports: ["5432:5432"]
+        options: >-
+          --health-cmd pg_isready --health-interval 5s --health-timeout 5s --health-retries 10
+    env:
+      DATABASE_URL: postgresql://postgres@localhost:5432/postgres
+      REQUIRE_DB_TESTS: "1"
     steps:
       - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
       - uses: astral-sh/setup-uv@1c37ad07a6a961277cf70c0d37d6f313000f5884 # v10.3.0
@@ -28,7 +40,7 @@ jobs:
         run: uv run ruff format --check .
       - name: Type check
         run: uv run mypy
-      - name: Tests (engine coverage must stay at or above 90%)
+      - name: Tests, including database security (engine coverage must stay at or above 90%)
         run: uv run pytest --cov=bts_engine --cov-report=term-missing --cov-fail-under=90
       - name: Dependency audit
         run: uv export --frozen --no-emit-project --format requirements.txt > /tmp/requirements.txt && uv run pip-audit --strict -r /tmp/requirements.txt
