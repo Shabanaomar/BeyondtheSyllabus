@@ -13,6 +13,7 @@ dev = [
   "httpx>=0.27",
   "mypy>=1.13",
   "pip-audit>=2.7",
+  "psycopg[binary]>=3.2",
   "pytest>=8.3",
   "pytest-cov>=6.0",
   "ruff>=0.8",
@@ -42,5 +43,5 @@ mypy_path = ["engine/src", "ingest/src"]
 packages = ["bts_engine", "bts_ingest"]
 
 [tool.pytest.ini_options]
-testpaths = ["engine/tests", "ingest/tests"]
+testpaths = ["engine/tests", "ingest/tests", "db/tests"]
 addopts = "--strict-markers"
