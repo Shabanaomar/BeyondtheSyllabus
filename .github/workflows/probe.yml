@@ -32,14 +32,14 @@ jobs:
             sleep 1
           done < .probe/urls.txt
       - name: Commit results
+        shell: bash
         run: |
+          set +e
           git config user.name "probe-bot"
           git config user.email "probe-bot@users.noreply.github.com"
-          ls -la .probe/out | head -80 | while read -r l; do echo "::notice::$l"; done
-          for f in .probe/out/*.status; do echo "::notice::$f $(cat $f)"; done
-          git add .probe/out
-          git commit -m "Probe results [skip ci]" > /tmp/commit.txt 2>&1 || true
-          if ! git push > /tmp/push.txt 2>&1; then
-            while read -r l; do echo "::error::push: $l"; done < /tmp/push.txt
-            exit 1
-          fi
+          git add .probe/out; echo "add=$?" > /tmp/log.txt
+          git commit -m "Probe results [skip ci]" >> /tmp/log.txt 2>&1; echo "commit=$?" >> /tmp/log.txt
+          git push origin HEAD:${GITHUB_REF_NAME} >> /tmp/log.txt 2>&1; rc=$?; echo "push=$rc" >> /tmp/log.txt
+          msg=$(tail -c 3000 /tmp/log.txt | sed ':a;N;$!ba;s/\n/ | /g')
+          echo "::warning title=commit-log::$msg"
+          exit $rc
