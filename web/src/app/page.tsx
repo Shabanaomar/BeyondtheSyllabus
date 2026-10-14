@@ -36,9 +36,11 @@ export default function Home() {
             Plan your degree around your goals.
           </h1>
           <p className="text-muted max-w-[60ch] text-lg">
-            Tell us where you want your career to go. Beyond the Syllabus builds the courses, the
-            path to graduation, and the clubs and career events that get you there faster, from your
-            program&apos;s real rules and fitted around your work and life.
+            Tell us your major and where you want your career to go. We build your courses and path
+            to graduation from your university&apos;s own course catalog and your degree
+            requirements, so every class counts. We also find the career fairs and events that match
+            your major and goals, and suggest professional and social clubs where you&apos;ll find
+            your people. All fitted around your work and life.
           </p>
           <div className="flex flex-wrap gap-3">
             <ButtonLink href="/demo">See a sample plan</ButtonLink>
