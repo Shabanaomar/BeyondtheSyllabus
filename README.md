@@ -56,4 +56,16 @@ See [.github/workflows/ci.yml](.github/workflows/ci.yml).
 ## Environments
 
 Development (your laptop), preview (a Vercel deployment per pull request), production. Each has
-its own Supabase project and keys. Hosting is set up in Phase 4.
+its own Supabase project and keys.
+
+## Hosting
+
+One Vercel project with two services, set in [vercel.json](vercel.json):
+
+| Service  | Folder | What it is                  | Reachable from the internet                     |
+| -------- | ------ | --------------------------- | ----------------------------------------------- |
+| `web`    | `web/` | The Next.js website         | Yes, every path                                 |
+| `engine` | repo   | The FastAPI planning engine | No. Only `web` calls it, over a service binding |
+
+The `web` service reads the engine's address from `ENGINE_URL`, which Vercel injects (see
+`web/src/lib/engine.ts`). Run both together locally with `vercel dev`.
