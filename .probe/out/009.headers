@@ -1,7 +1,43 @@
-HTTP/2 200 
-date: Wed, 14 Oct 2026 03:16:45 GMT
+HTTP/2 301 
+cache-control: max-age=3600
 content-type: text/html; charset=UTF-8
-server: Apache/2.4.68 (Amazon Linux) OpenSSL/3.5.8
-cache-control: max-age=120
-expires: Wed, 14 Oct 2026 03:18:45 GMT
+expires: Wed, 14 Oct 2026 04:22:46 GMT
+location: /calendars/
+server: nginx
+set-cookie: quform_session_e22e0e43ec4c978c1921a78d150f82ca=PQwfyGbwRMZi7yOOvRvQJz0qajBqnhheTT97c8wW; path=/; secure; httponly; samesite=None
+strict-transport-security: max-age=300
+x-pantheon-styx-hostname: styx-us-a-58d475665b-sh746
+x-redirect-by: redirection
+x-styx-req-id: 86bf760d-c77e-11f1-9d76-fa22385574a5
+date: Wed, 14 Oct 2026 03:22:46 GMT
+x-served-by: cache-chi-klot8100042-CHI, cache-phx1710135-PHX
+x-cache: MISS, MISS
+x-cache-hits: 0, 0
+x-timer: S1791948167.528939,VS0,VE204
+vary: Cookie, Cookie
+age: 0
+accept-ranges: bytes
+via: 1.1 varnish, 1.1 varnish
+content-length: 0
+
+HTTP/2 200 
+cache-control: public, max-age=604800
+content-type: text/html; charset=UTF-8
+link: <https://registrar.berkeley.edu/wp-json/>; rel="https://api.w.org/"
+link: <https://registrar.berkeley.edu/wp-json/wp/v2/pages/5198>; rel="alternate"; title="JSON"; type="application/json"
+link: <https://registrar.berkeley.edu/?p=5198>; rel=shortlink
+server: nginx
+set-cookie: quform_session_e22e0e43ec4c978c1921a78d150f82ca=Y029Nf1I7j7Okoe9UgMZiJh3qnXzcfZKZ2VKYJu2; path=/; secure; httponly; samesite=None
+strict-transport-security: max-age=300
+x-pantheon-styx-hostname: styx-us-a-58d475665b-2lj6r
+x-styx-req-id: 86dea4f9-c77e-11f1-b5d4-8ad590973bd5
+date: Wed, 14 Oct 2026 03:22:47 GMT
+x-served-by: cache-chi-kmdw8640045-CHI, cache-phx1710135-PHX
+x-cache: MISS, MISS
+x-cache-hits: 0, 0
+x-timer: S1791948167.734932,VS0,VE663
+vary: Accept-Encoding, Cookie, Cookie
+age: 0
+accept-ranges: bytes
+via: 1.1 varnish, 1.1 varnish
 

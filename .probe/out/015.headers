@@ -1,18 +1,15 @@
 HTTP/2 200 
-date: Wed, 14 Oct 2026 03:16:53 GMT
-content-type: text/plain; charset=utf-8
-server: cloudflare
-vary: Accept-Encoding
-link: <https://engineering.berkeley.edu/wp-json/>; rel="https://api.w.org/"
-x-powered-by: WP Engine
-x-robots-tag: noindex, follow
-x-cacheable: CacheAlways: forever
-cache-control: max-age=14400, must-revalidate
-x-cache: MISS
-last-modified: Wed, 14 Oct 2026 03:16:53 GMT
-set-cookie: __cf_bm=En4rFUXt41Tjen1CCosMJFM7QGKxxU5Ip06wqh09hJ0-1791947813.8811615-1.0.1.1-ywMDVkM3gcAOp7O0pE5B2ezzIhjG6TGDXQr4sH2xY2uB6OkRcP2tSKXI3usi0j0FTUyQRgL07BsUpQ4KQeaSV7remrsfwFz8qas_wBJY_JOxD.7_R1nghw6DH5m6OAkC; HttpOnly; SameSite=None; Secure; Path=/; Domain=engineering.berkeley.edu; Expires=Wed, 14 Oct 2026 03:46:53 GMT
-content-security-policy: upgrade-insecure-requests
-cf-cache-status: HIT
-cf-ray: a4a36d8cbb48863e-ORD
-alt-svc: h3=":443"; ma=86400
+content-type: text/html; charset=utf-8
+date: Wed, 14 Oct 2026 03:23:06 GMT
+cache-control: no-cache, no-store
+pragma: no-cache
+set-cookie: TiPMix=96.66176693912759; path=/; HttpOnly; Domain=callink.berkeley.edu; Max-Age=3600; Secure; SameSite=None
+set-cookie: x-ms-routing-name=self; path=/; HttpOnly; Domain=callink.berkeley.edu; Max-Age=3600; Secure; SameSite=None
+set-cookie: .AspNetCore.Antiforgery.Pnjfq5WAl6o=CfDJ8LhrK__Io9VMlBopx4yukRCptl-Fk_FxdKkXNff3Km5Z85VceOUg_jcHPmFhMggIq6r9mSslVoStCdpjQvF7VCBM5ByU58T1q9j3uLAERc4nDhelU1GGuUy3t3swp4j4BU-6D3DF6XterbpEElWLAiA; path=/; secure; samesite=none; httponly
+content-length: 8136
+strict-transport-security: max-age=31536000
+request-context: appId=cid-v1:85710323-a3e3-4fe7-a1f3-5db4b33ce79e
+x-frame-options: SAMEORIGIN
+x-powered-by: Engage_RP
+content-security-policy: frame-ancestors 'self';
 

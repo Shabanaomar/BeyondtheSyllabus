@@ -1,703 +1,754 @@
-<!DOCTYPE HTML><html lang="en">
-   <head>
-      <meta charset="UTF-8">
-      <meta http-equiv="x-ua-compatible" content="ie=edge">
-      <title>Degrees - Lyles College of Engineering</title>
-      <link rel="canonical" href="https://engineering.fresnostate.edu/about/degrees.html">
-      <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-      <!-- Google Tag Manager -->
+<!DOCTYPE html><html lang="en">
+<head>
+<title>Catalog List - Fresno State</title>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<link rel="shortcut icon" href="//acalog-clients.s3.amazonaws.com/production/csufresno/img/favicon/favicon.ico" />
+<link href="//acalog-clients.s3.amazonaws.com/production/csufresno/css/gateway/user-styles.css" rel="stylesheet" type="text/css">
+<link href="/css/public_custom.php" rel="stylesheet" type="text/css">
+<link href="/global_styles.css" rel="stylesheet" type="text/css">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.13.0/css/all.min.css" />
+<script src="/js/jquery.js" type="text/javascript"></script>
+<script src="/js/Tooltip.js" type="text/javascript"></script>
+<script src="/javascripts.js" type="text/javascript" language="Javascript"></script>
+<!-- Google Tag Manager -->
 <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
 new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
 j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
-})(window,document,'script','dataLayer','GTM-PG9LGX7');</script>
+})(window,document,'script','dataLayer','GTM-WQ64VZC');</script>
 <!-- End Google Tag Manager -->
-<!-- this is the headcode include -->
-<!-- Required meta tags -->
-<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-<meta name="robots" content="index,follow">
-<meta name="googlebot" content="index,follow">
-<meta property="og:url" content="https://engineering.fresnostate.edu"> 
-<meta property="og:type" content="website"> 
-<meta property="og:title" content="Lyles College of Engineering"> 
-<meta property="og:description" content="We are dedicated to providing a quality engineering and construction management education to all students and to serving students from groups that historically have not participated in university education."> 
+<script type="text/javascript">var gatewayFeatureSearchBar = true; var gatewayFeatureToolbarText = false; var gatewayFeatureBackToTopText = false;</script>
+<link type="text/css" rel="stylesheet" href="//acalog-clients.s3.amazonaws.com/global/css/gateway-styles-reset.css" />
+<link type="text/css" rel="stylesheet" href="//acalog-clients.s3.amazonaws.com/global/css/gateway-styles-nojs.css" id="gateway-styles-nojs" />
+<link type="text/css" rel="stylesheet" href="//acalog-clients.s3.amazonaws.com/production/csufresno/css/gateway/gateway-styles.css?v=2182026" />
+<script type="text/javascript">document.getElementById("gateway-styles-nojs").parentNode.removeChild(document.getElementById("gateway-styles-nojs"));</script>
+<script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.8.1/jquery.min.js"></script>
+<script type="text/javascript" src="//acalog-clients.s3.amazonaws.com/global/js/jquery.browser.js"></script>
+<script type="text/javascript" src="//acalog-clients.s3.amazonaws.com/global/js/gateway-javascript.js"></script>
+<!--[if lte IE 8]><script type="text/javascript" src="//acalog-clients.s3.amazonaws.com/global/js/select-fix.js"></script><![endif]-->
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js" integrity="sha384-1H217gwSVyLSIfaLxHbE7dRb3v4mYCKbpQvzx0cegeju1MVsGrX5xXxAvs/HgeFs" crossorigin="anonymous"></script>
+<script src="https://code.jquery.com/jquery-migrate-3.4.1.min.js" crossorigin="anonymous"></script>
+<link href="https://cdnjs.cloudflare.com/ajax/libs/select2/4.0.12/css/select2.min.css" rel="stylesheet" integrity="sha384-KZO2FRYNmIHerhfYMjCIUaJeGBRXP7CN24SiNSG+wdDzgwvxWbl16wMVtWiJTcMt" crossorigin="anonymous" />
 
-<!-- Bootstrap CSS -->
-<link rel="stylesheet" href="https://omniresources.fresnostate.edu/css/bootstrap.css">
-<link rel="stylesheet" href="https://omniresources.fresnostate.edu/css/bootstrap-grid.min.css">
-<link rel="stylesheet" href="https://omniresources.fresnostate.edu/css/bootstrap-reboot.min.css">
+<!-- Begin Responsive -->
+<meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1" />
+<script src="https://kit.fontawesome.com/e35e04f508.js" integrity="sha384-R6VdFS8kVoq95OAh0ovy8RJ/16mag2fYdzr7zVL0mCTflvoedXn1ImqSlT8Es4SM" crossorigin="anonymous"></script>
+<script src="/mobile-js.js" integrity="sha384-8c7xrierIq1kMm5dyQ8AbZgXFUK0RP5zv2b5Wal7ERFl9XL9jGOU14nsrTHaUr2Q"></script>
+<link href="/mobile-styles.css" rel="stylesheet" type="text/css" integrity="sha384-x48QjmWDEbnCCjvlJy7x37BaGkf6QNekrKYReCsO6qL8J6pFkAnxVgcPsjPHGxCu" />
+<!-- End Responsive -->
 
-<link rel="icon" type="image/x-icon" href="https://omniresources.fresnostate.edu/images/favicon/favicon.ico" />
-
-<!-- Fresno State CSS -->
-<link rel="stylesheet" href="https://omniresources.fresnostate.edu/css/styles-fa.css">
-<link rel="stylesheet" href="https://omniresources.fresnostate.edu/css/print.css">
-<link rel="stylesheet" href="https://omniresources.fresnostate.edu/css/totopstyle.css">
-<link rel="stylesheet" href="https://omniresources.fresnostate.edu/css/slick.css"/>
-<link rel="stylesheet" href="https://omniresources.fresnostate.edu/css/slick-theme.css"/>
-<link rel="stylesheet" href="https://omniresources.fresnostate.edu/css/slick-lightbox.css">
-<!--[if lt IE 9]>
-<script src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
-<![endif]-->
-<!-- Font Awescome CDN -->
-<script src="https://kit.fontawesome.com/3ff4806c53.js" crossorigin="anonymous"></script>
-<link rel="stylesheet" href="/_resources/css/oustyles.css" />
 </head>
-   <body><!-- Google Tag Manager (noscript) -->
-<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-PG9LGX7"
-height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
-<!-- End Google Tag Manager (noscript) -->  <!-- skip-to -->
-    <a class="sr-only sr-only-focusable" href="#main-content">Skip to main content</a>
-    <a class="sr-only sr-only-focusable" href="#site-navigation">Skip to main navigation</a>
-    <a class="sr-only sr-only-focusable" href="#footer">Skip to footer content</a>
-    <!-- /skip-to --><!--Off Screen Desktop Menu-->
-<div class="modal fade off-screen-nav" id="off-screen-main-nav"
-     tabindex="-1" role="dialog" aria-modal="true"
-     aria-labelledby="offScreenTitle" aria-describedby="offScreenDesc">
-  <div class="modal-dialog" role="document">
-    <div class="modal-content">
 
-      <!-- first focusable element -->
- <button type="button" id="ql-close"
-        class="ql-close"
-        data-dismiss="modal"
-        aria-label="Close Quick Links">
-  <!-- Inline SVG avoids font-family conflicts -->
-  <svg aria-hidden="true" width="28" height="28" viewBox="0 0 24 24" focusable="false">
-    <path d="M18.3 5.7a1 1 0 0 0-1.4-1.4L12 9.17 7.1 4.3a1 1 0 1 0-1.4 1.4L10.83 12l-5.13 5.9a1 1 0 1 0 1.5 1.3L12 14.83l4.9 4.87a1 1 0 0 0 1.5-1.33L13.17 12l5.13-5.9z"/>
-  </svg>
-  <span class="sr-only">Close</span>
-</button>
-
-
-      <h2 id="offScreenTitle" class="sr-only">Quick Links menu</h2>
-      <p id="offScreenDesc" class="sr-only">Press Escape to close. Tab/Shift+Tab move between items.</p>
-
-      <div class="modal-body">
-        <!-- Remove the extra nested role="dialog" wrapper and tabpanel chrome -->
-        <nav class="audience" aria-label="Quick Links">
-  <ul class="nav">
-    <li class="nav-item">
-      <a href="https://calendar.fresnostate.edu/" class="nav-link">
-        <span class="fas fa-calendar-alt" aria-hidden="true"></span> Calendar
-      </a>
-    </li>
-    <li class="nav-item">
-      <a href="https://www.fresnostate.edu/canvas" class="nav-link">
-        <span class="fak fa-canvas" aria-hidden="true"></span> Canvas
-      </a>
-    </li>
-    <li class="nav-item">
-      <a href="https://www.fresnostate.edu/catalog/" class="nav-link">
-        <span class="fas fa-book-open" aria-hidden="true"></span> Catalog
-      </a>
-    </li>
-    <li class="nav-item">
-      <a href="https://directory.fresnostate.edu/" class="nav-link">
-        <span class="fas fa-user" aria-hidden="true"></span> Directory
-      </a>
-    </li>
-    <li class="nav-item">
-      <a href="https://mail.fresnostate.edu/" class="nav-link">
-        <span class="fas fa-envelope" aria-hidden="true"></span> Email
-      </a>
-    </li>
-    <li class="nav-item">
-      <a href="https://www.bkstr.com/kennelstore/home" class="nav-link">
-        <span class="fas fa-shopping-bag" aria-hidden="true"></span> Kennel Bookstore
-      </a>
-    </li>
-    <li class="nav-item">
-      <a href="https://www.fresnostate.edu/library/" class="nav-link">
-        <span class="fas fa-book" aria-hidden="true"></span> Library
-      </a>
-    </li>
-    <li class="nav-item">
-      <a href="https://maps.fresnostate.edu/" class="nav-link">
-        <span class="fas fa-map-marker-alt" aria-hidden="true"></span> Map
-      </a>
-    </li>
-    <li class="nav-item">
-      <a href="https://my.fresnostate.edu/" class="nav-link">
-        <span class="fas fa-cog" aria-hidden="true"></span> My Fresno State
-      </a>
-    </li>
-    <li class="nav-item">
-      <a href="https://help.fresnostate.edu/" class="nav-link">
-        <span class="fas fa-life-ring" aria-hidden="true"></span> Technology Service Desk
-      </a>
-    </li>
-    <li class="nav-item">
-      <a href="https://fresnostate.zoom.us/" class="nav-link">
-        <span class="fas fa-video" aria-hidden="true"></span> Zoom Conferencing
-      </a>
-    </li>
-  </ul>
-</nav>
-
-      </div>
-
-    </div>
-  </div>
-</div>
-
-    <!-- Mobile Logo, Icons -->
-    <div class="container-fluid mobile-header">
-        <div class="row">
-            <div class="col-12">
-                <div class="mobile-logo"><a href="https://fresnostate.edu"><span class="sr-only">Fresno State</span></a></div>
-
-                <div class="mobile-buttons-wrapper">
-                    <button type="button" class="searchToggle" data-toggle="modal" data-target="#siteSearch"><span
-                            class="sr-only">Search</span><span class="fas fa-search"></span></button>
-
-                    <button type="button" data-toggle="modal" data-target="#site-navigation" class="menuToggle"><span
-                            class="sr-only">Menu</span><span class="fas fa-bars"></span></button>
+<body>
+<a href="#select_catalog" class="skip-nav">Skip to Navigation</a>
+<!--	Show a message when Javascript turned off. (Refs #4335) -->
+<noscript><p><span class="error">Javascript is currently not supported, or is disabled by this browser. Please enable Javascript for full functionality.</span></p></noscript><table class="toplevel table_default">
+  <tr>
+    <td colspan="2" class="block_n2_and_content" id="acalog-header"><header role="banner"><div id="acalog-client-header" class="acalog-custom">
+    
+<!-- Google Tag Manager (noscript) -->
+    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WQ64VZC" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript> 
+<!-- End Google Tag Manager (noscript) -->
+    <div class="modal fade off-screen-nav" id="off-screen-main-nav" tabindex="-1" role="dialog" aria-hidden="true">
+        <div aria-label="Tab panel widget container" aria-describedby="aria-description-menu" role="dialog">
+            <p id="aria-description-menu" class="hide">
+                You are in a modal window. Press the escape key to exit.
+            </p>
+            <div class="modal-dialog" role="document">
+                <div class="modal-content">
+                    <div class="modal-body">
+                        <div role="navigation">
+                            <div class="tabpanel-set">
+                                <button type="button" class="btn close" data-dismiss="modal" aria-label="Close Menu"><span class="far fa-times-circle" aria-hidden="true">​</span><span class="sr-only">Close Menu</span></button>
+                                <div id="tabpanel-menu" class="panel-menu tabpanel" role="tabpanel" aria-expanded="true">
+                                    <h2>
+                                        Quick Links
+                                    </h2>
+                                    <nav class="audience" aria-label="Quick Links">
+                                        <ul class="nav">
+                                            <li class="nav-item">
+                                                <a href="https://calendar.fresnostate.edu/" class="nav-link" aria-label="Calendar link in Quicklinks"><span class="fas fa-calendar-alt" aria-hidden="true">​</span> Calendar</a>
+                                            </li>
+                                            <li class="nav-item">
+                                                <a href="https://www.fresnostate.edu/canvas" class="nav-link" aria-label="Canvas link in Quicklinks"><span class="fak fa-canvas">​</span> Canvas</a>
+                                            </li>
+                                            <li class="nav-item">
+                                                <a href="https://www.fresnostate.edu/catalog/" class="nav-link" aria-label="Catalog link in Quicklinks"><span class="fas fa-book-open" aria-hidden="true">​</span> Catalog</a>
+                                            </li>
+                                            <li class="nav-item">
+                                                <a href="https://directory.fresnostate.edu/" class="nav-link" aria-label="Directory link in Quicklinks"><span class="fas fa-user" aria-hidden="true">​</span> Directory</a>
+                                            </li>
+                                            <li class="nav-item">
+                                                <a href="https://mail.fresnostate.edu/" class="nav-link" aria-label="Email link in Quicklinks"><span class="fas fa-envelope" aria-hidden="true">​</span> Email</a>
+                                            </li>
+                                            <li class="nav-item">
+                                                <a href="https://www.bkstr.com/kennelstore/home" class="nav-link" aria-label="Kennel Bookstore link in Quicklinks"><span class="fas fa-envelope" aria-hidden="true">​</span> Kennel Bookstore</a>
+                                            </li>
+                                            <li class="nav-item">
+                                                <a href="https://www.fresnostate.edu/library/" class="nav-link" aria-label="Library link in Quicklinks"><span class="fas fa-book" aria-hidden="true">​</span> Library</a>
+                                            </li>
+                                            <li class="nav-item">
+                                                <a href="https://maps.fresnostate.edu/" class="nav-link" aria-label="Map link in Quicklinks"><span class="fas fa-map-marker-alt" aria-hidden="true">​</span> Map</a>
+                                            </li>
+                                            <li class="nav-item">
+                                                <a href="https://my.fresnostate.edu/" class="nav-link" aria-label="My Fresno State link in Quicklinks"><span class="fas fa-cog" aria-hidden="true">​</span> My Fresno State</a>
+                                            </li>
+                                            <li class="nav-item">
+                                                <a href="https://help.fresnostate.edu/" class="nav-link" aria-label="Technology Service Desk link in Quicklinks"><span class="fas fa-envelope" aria-hidden="true">​</span> Technology Service Desk</a>
+                                            </li>
+                                            <li class="nav-item">
+                                                <a href="https://fresnostate.zoom.us/" class="nav-link" aria-label="Zoom Conferencing link in Quicklinks"><span class="fas fa-webcam" aria-hidden="true">​</span> Zoom Conferencing</a>
+                                            </li>
+                                        </ul>
+                                    </nav>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
                 </div>
             </div>
         </div>
-    </div>      <header class="siteHeader sticky-wrapper">
-         <div class="modal fade" id="siteSearch" tabindex="-1" role="dialog" aria-labelledby="searchModal" aria-hidden="true">
+    </div>
+    <div class="container-fluid mobile-header">
+        <div class="row">
+            <div class="col-12">
+                <div class="mobile-logo">
+                    <a href="https://fresnostate.edu"><span class="sr-only">Fresno State</span></a>
+                </div>
+                <div class="mobile-buttons-wrapper">
+                    <button type="button" class="searchToggle" data-toggle="modal" data-target="#siteSearch"><span class="sr-only">Search</span><span class="fas fa-search" aria-hidden="true">​</span></button> <button type="button" data-toggle="modal" data-target="#site-navigation" class="menuToggle"><span class="sr-only">Menu</span><span class="fas fa-bars" aria-hidden="true">​</span></button>
+                </div>
+            </div>
+        </div>
+    </div>
+    <header class="siteHeader sticky-wrapper sticky-header-show">
+        <div class="modal fade" id="siteSearch" tabindex="-1" role="dialog" aria-labelledby="searchModal" aria-hidden="true">
             <div class="modal-dialog" role="document">
-               <div class="modal-content">
-                  <div class="modal-body">
-                     <div class="container-fluid">
-                        <div class="row">
-                           <div class="col-lg-1"><button type="button" class="btn closeSearch" data-dismiss="modal"><span class="far fa-times-circle"></span> Close</button></div>
-                           <div class="col-lg-11"><form method="get" action="https://fresnostate.edu/search/">
-	<label for="search" id="searchModal">Search</label>
-	<input name="q" placeholder="Search" class="form-text" type="text" id="search"/>
-	<input value="GO" class="form-submit btn btn-default btn-black" type="submit"/>
-</form></div>
+                <div class="modal-content">
+                    <div class="modal-body">
+                        <div class="container-fluid">
+                            <div class="row">
+                                <div class="col-lg-1">
+                                    <button type="button" class="btn closeSearch" data-dismiss="modal"><span class="far fa-times-circle" aria-hidden="true">​</span> Close</button>
+                                </div>
+                                <div class="col-lg-11">
+                                    <form method="get" action="https://fresnostate.edu/search/">
+                                        <label for="search" id="searchModal">Search</label> <input name="q" placeholder="Search" class="form-text" type="text" id="search"> <input value="GO" class="form-submit btn btn-default btn-black" type="submit">
+                                    </form>
+                                </div>
+                            </div>
                         </div>
-                     </div>
-                  </div>
-               </div>
+                    </div>
+                </div>
             </div>
-         </div>
-         <div class="modal fade site-navigation" id="site-navigation" tabindex="-1" role="dialog">
+        </div>
+        <div class="modal fade site-navigation" id="site-navigation" tabindex="-1" role="dialog">
             <div class="modal-dialog" role="document">
-               <div class="modal-content">
-                  <div class="modal-body"><button type="button" class="btn menuClose" data-dismiss="modal"><span class="far fa-times-circle"></span><span class="sr-only">Close Menu</span></button><nav class="main-navigation" aria-label="Primary navigation"><div class="top-row">
-	<div class="container">
-		<div class="row">
-			<div class="col-xl-2">
-				<div class="logo"><a href="https://fresnostate.edu" aria-label="Link in global nav to Fresno State homepage"><span class="sr-only">Fresno State</span></a>
-				</div>
-			</div>
-			<div class="col-xl-10">
-				<nav class="audience" aria-label="Global Navigation">
-					<ul class="nav justify-content-end">
-						<li class="nav-item"><a href="https://studentaffairs.fresnostate.edu/are/index.html" class="nav-link">Future Students</a></li>
-						<li class="nav-item"><a href="https://studentaffairs.fresnostate.edu/studentresources/index.html" class="nav-link">Current Students</a></li>
-						<li class="nav-item"><a href="https://fresnostate.edu/alumni/index.html" class="nav-link">Alumni</a></li>
-						<li class="nav-item"><a href="https://fresnostate.edu/faculty-staff.html" class="nav-link">Employees</a></li>
-						<li class="nav-item"><a href="https://connect.fresnostate.edu/p/m4aA7zBLDzQNYVel7lzTAsGUD" class="nav-link">Give</a></li>
-						<li><button type="button" class="btn searchToggle" data-toggle="modal" data-target="#siteSearch"><span class="sr-only">Search</span><span class="fas fa-search"></span></button></li>
-						<li><button type="button" data-toggle="modal" data-target="#off-screen-main-nav" title="Open Quick Links menu" class="quicklinks">Quick Links <span class="fas fa-angle-right"></span></button></li>
-					</ul>
-				</nav>
-			</div>
-		</div>
-	</div>
-</div><div class="bottom-row">
-<div class="container">
-<div class="row">
-<div class="col">
-<ul class="nav justify-content-center nav-fill">
-<li class="nav-item"><a class="nav-link" href="/index.html"><span class="fas fa-home"></span><span class="sr-only">Home</span></a></li>
-<li class="nav-item dropdown"><a id="about" class="nav-link dropdown-toggle" href="#" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">About</a>
-<ul class="dropdown-menu" aria-labelledby="about">
-<li>
-<div class="sub-menu">
-<div class="container">
-<div class="row">
-<div class="col">
-<ul class="list-unstyled">
-<li class="nav-item"><a class="dropdown-item" href="/about/faculty-staff/index.html">Dean's Office</a></li>
-<li class="nav-item"><a class="dropdown-item" href="/about/directory/index.html">Faculty Directory</a></li>
-<li class="nav-item"><a class="dropdown-item" href="/about/history.html">College History</a></li>
-<li class="nav-item"><a class="dropdown-item" href="/accreditation/index.html">Accreditation</a></li>
-<li class="nav-item"><a class="dropdown-item" href="/about/board.html">Advisory Board</a></li>
-<li class="nav-item"><a class="dropdown-item" href="/about/deans-medalist.html">Dean's Medalists</a></li>
-<li class="nav-item"><a class="dropdown-item" href="/about/top-dog-honorees.html">Top Dog Honorees</a></li>
-</ul>
-</div>
-</div>
-</div>
-</div>
-</li>
-</ul>
-</li>
-<li class="nav-item dropdown"><a id="academics" class="nav-link dropdown-toggle" href="#" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Academics</a>
-<ul class="dropdown-menu" aria-labelledby="academics">
-<li>
-<div class="sub-menu">
-<div class="container">
-<div class="row">
-<div class="col">
-<ul class="list-unstyled">
-<li class="nav-item"><a class="dropdown-item" href="/academics/index.html">Departments</a></li>
-<li class="nav-item"><a class="dropdown-item" href="/about/degrees.html">Degrees</a></li>
-<li class="nav-item"><a class="dropdown-item" href="/about/programs.html">Programs</a></li>
-</ul>
-</div>
-</div>
-</div>
-</div>
-</li>
-</ul>
-</li>
-<li class="nav-item dropdown"><a id="research-institutes" class="nav-link dropdown-toggle" href="#" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Research and Institutes</a>
-<ul class="dropdown-menu" aria-labelledby="research-institutes">
-<li>
-<div class="sub-menu">
-<div class="container">
-<div class="row">
-<div class="col">
-<ul class="list-unstyled">
-<li class="nav-item"><a class="dropdown-item" href="/research/index.html">Research and Institutes</a></li>
-<li class="nav-item"><a class="dropdown-item" href="/specialprojects/index.html">Special Projects</a></li>
-</ul>
-</div>
-</div>
-</div>
-</div>
-</li>
-</ul>
-</li>
-<li class="nav-item dropdown"><a id="students" class="nav-link dropdown-toggle" href="#" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Students</a>
-<ul class="dropdown-menu" aria-labelledby="students">
-<li>
-<div class="sub-menu">
-<div class="container">
-<div class="row">
-<div class="col">
-<ul class="list-unstyled">
-<li class="nav-item"><a class="dropdown-item" href="/prospective-students/index.html">Prospective Students</a></li>
-<li class="nav-item"><a class="dropdown-item" href="/student-services/index.html">Current Students</a></li>
-<li class="nav-item"><a class="dropdown-item" href="/advising/index.html">Advising Center</a></li>
-</ul>
-</div>
-</div>
-</div>
-</div>
-</li>
-</ul>
-</li>
-<li class="nav-item dropdown"><a id="news-events" class="nav-link dropdown-toggle" href="#" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">News/Events</a>
-<ul class="dropdown-menu" aria-labelledby="news-events">
-<li>
-<div class="sub-menu">
-<div class="container">
-<div class="row">
-<div class="col">
-<ul class="list-unstyled">
-<li class="nav-item"><a class="dropdown-item" href="/news/index.html">News</a></li>
-<li class="nav-item"><a title="Events" href="/news-events/events.html">Events</a></li>
-<li class="nav-item"><a class="dropdown-item" href="/calendar.html">Calendar</a></li>
-<li class="nav-item"><a class="dropdown-item" href="/news-events/leader-in-residence.html">Leader in Residence</a></li>
-<li class="nav-item"><a class="dropdown-item" href="/research/projects-day/index.html">Projects Day</a></li>
-</ul>
-</div>
-</div>
-</div>
-</div>
-</li>
-</ul>
-</li>
-<li class="nav-item"><a id="alumni" class="nav-link" href="/alumni/index.html">Alumni</a></li>
-<li class="nav-item"><a id="give" class="nav-link" href="/giving/index.html">Give</a></li>
-</ul>
-</div>
-</div>
-</div>
-</div><div role="navigation" class="off-screen-nav-mobile-audience">
-	<h2>Quick Links</h2>
-	<nav class="audience" aria-label="Quick Links on Mobile">
-		<ul class="nav">
-			<li class="nav-item"><a href="https://calendar.fresnostate.edu/" class="nav-link"><span class="fas fa-calendar-alt" aria-hidden="true"></span> Calendar</a></li>
-			<li class="nav-item"><a href="https://www.fresnostate.edu/canvas" class="nav-link"><span class="fak fa-canvas" aria-hidden="true"></span> Canvas</a></li>									
-			<li class="nav-item"><a href="https://www.fresnostate.edu/catalog/" class="nav-link"><span class="fas fa-book-open" aria-hidden="true"></span> Catalog</a></li>			 
-			<li class="nav-item"><a href="https://directory.fresnostate.edu/" class="nav-link"><span class="fas fa-user" aria-hidden="true"></span> Directory</a></li>
-			<li class="nav-item"><a href="https://mail.fresnostate.edu/" class="nav-link"><span class="fas fa-envelope" aria-hidden="true"></span> Email</a></li>
-			<li class="nav-item"><a href="https://www.bkstr.com/kennelstore/home" class="nav-link"><span class="fas fa-envelope" aria-hidden="true"></span> Kennel Bookstore</a></li>
-			<li class="nav-item"><a href="https://www.fresnostate.edu/library/" class="nav-link"><span class="fas fa-book" aria-hidden="true"></span> Library</a></li>
-			<li class="nav-item"><a href="https://maps.fresnostate.edu/" class="nav-link"><span class="fas fa-map-marker-alt" aria-hidden="true"></span> Map</a></li>
-			<li class="nav-item"><a href="https://my.fresnostate.edu/" class="nav-link" ><span class="fas fa-cog" aria-hidden="true"></span> My Fresno State</a></li>
-			<li class="nav-item"><a href="https://help.fresnostate.edu/" class="nav-link"><span class="fas fa-envelope" aria-hidden="true"></span> Technology Service Desk</a></li>
-			<li class="nav-item"><a href="https://fresnostate.zoom.us/" class="nav-link"><span class="fas fa-webcam" aria-hidden="true"></span> Zoom Conferencing</a></li>	
-		</ul>
-	</nav>
-</div></nav>
-                  </div>
-               </div>
+                <div class="modal-content">
+                    <div class="modal-body">
+                        <button type="button" class="btn menuClose" data-dismiss="modal"><span class="far fa-times-circle" aria-hidden="true">​</span><span class="sr-only">Close Menu</span></button>
+                        <nav class="main-navigation" aria-label="Primary navigation">
+                            <div class="top-row">
+                                <div class="container">
+                                    <div class="row">
+                                        <div class="col-xl-2">
+                                            <div class="logo">
+                                                <a href="https://fresnostate.edu" aria-label="Link in global nav to Fresno State homepage"><span class="sr-only">Fresno State</span></a>
+                                            </div>
+                                        </div>
+                                        <div class="col-xl-10">
+                                            <nav class="audience" aria-label="Global Navigation">
+                                                <ul class="nav justify-content-end">
+                                                    <li class="nav-item">
+                                                        <a href="https://studentaffairs.fresnostate.edu/are/index.html" aria-label="Future student link in global nav to admissions and recruitment website" class="nav-link">Future Students</a>
+                                                    </li>
+                                                    <li class="nav-item">
+                                                        <a href="https://studentaffairs.fresnostate.edu/studentresources/index.html" aria-label="Current student link in global nav to Student Affairs and Enrollment Management website" class="nav-link">Current Students</a>
+                                                    </li>
+                                                    <li class="nav-item">
+                                                        <a href="https://fresnostate.edu/alumni/index.html" aria-label="Link in global nav to Alumni website" class="nav-link">Alumni</a>
+                                                    </li>
+                                                    <li class="nav-item">
+                                                        <a href="https://fresnostate.edu/faculty-staff.html" aria-label="Link in global nav to Faculty and staff page" class="nav-link">Employees</a>
+                                                    </li>
+                                                    <li class="nav-item">
+                                                        <a href="https://fresnostate.imodules.com/s/1692/23/home.aspx?sid=1692&amp;gid=2&amp;pgid=2541" aria-label="Link in global nav to Donation site" class="nav-link">Give</a>
+                                                    </li>
+                                                    <li>
+                                                        <button type="button" class="btn searchToggle" data-toggle="modal" data-target="#siteSearch"><span class="sr-only">Search</span><span class="fas fa-search" aria-hidden="true">​</span></button>
+                                                    </li>
+                                                    <li>
+                                                        <button type="button" data-toggle="modal" data-target="#off-screen-main-nav" title="Open Quick Links menu" class="quicklinks">Quick Links <span class="fas fa-angle-right" aria-hidden="true">​</span></button>
+                                                    </li>
+                                                </ul>
+                                            </nav>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="bottom-row">
+                                <div class="container">
+                                    <div class="row">
+                                        <div class="col">
+                                            <ul class="nav justify-content-center nav-fill">
+                                                <li class="nav-item">
+                                                    <a class="nav-link" href="https://fresnostate.edu/registrar/index.html"><span class="fas fa-home" aria-hidden="true">​</span><span class="sr-only">Home</span></a>
+                                                </li>
+                                                <li class="nav-item dropdown">
+                                                    <a class="nav-link dropdown-toggle" href="#" id="registration" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Registration</a>
+                                                    <ul class="dropdown-menu" aria-labelledby="registration">
+                                                        <li>
+                                                            <div class="sub-menu">
+                                                                <div class="container">
+                                                                    <div class="row">
+                                                                        <div class="col">
+                                                                            <ul class="list-unstyled">
+                                                                                <li>
+                                                                                    <a class="nav-link" href="https://fresnostate.edu/registrar/registration/index.html">Registration Overview</a>
+                                                                                </li>
+                                                                                <li>
+                                                                                    <a class="nav-link" href="https://fresnostate.edu/registrar/deadlines/index.html">Deadlines</a>
+                                                                                </li>
+                                                                                <li>
+                                                                                    <a class="nav-link" href="https://fresnostate.edu/registrar/forms/index.html">Forms</a>
+                                                                                </li>
+                                                                                <li>
+                                                                                    <a class="nav-link" href="https://fresnostate.edu/registrar/registration/blockschedules/ftfblockschedules.html">Block schedules</a>
+                                                                                </li>
+                                                                                <li>
+                                                                                    <a class="nav-link" href="https://fresnostate.edu/registrar/registration/planyourschedule.html">Plan your schedule</a>
+                                                                                </li>
+                                                                                <li>
+                                                                                    <a class="nav-link" href="https://fresnostate.edu/registrar/registration/registration-information.html">Registration information</a>
+                                                                                </li>
+                                                                            </ul>
+                                                                        </div>
+                                                                    </div>
+                                                                </div>
+                                                            </div>
+                                                        </li>
+                                                    </ul>
+                                                </li>
+                                                <li class="nav-item dropdown">
+                                                    <a class="nav-link dropdown-toggle" href="#" id="student_records" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Student Records</a>
+                                                    <ul class="dropdown-menu" aria-labelledby="student_records">
+                                                        <li>
+                                                            <div class="sub-menu">
+                                                                <div class="container">
+                                                                    <div class="row">
+                                                                        <div class="col">
+                                                                            <ul class="list-unstyled">
+                                                                                <li>
+                                                                                    <a class="nav-link" href="https://fresnostate.edu/registrar/student-records/index.html">Student Records Overview</a>
+                                                                                </li>
+                                                                                <li>
+                                                                                    <a class="nav-link" href="https://fresnostate.edu/registrar/student-records/ferpa.html">Family Educational Rights and Privacy Act</a>
+                                                                                </li>
+                                                                                <li>
+                                                                                    <a class="nav-link" href="https://fresnostate.edu/registrar/student-records/enrollment-degree-verification.html">Verifications</a>
+                                                                                </li>
+                                                                                <li>
+                                                                                    <a class="nav-link" href="https://fresnostate.edu/registrar/student-records/transcript-request.html">Ordering Transcripts</a>
+                                                                                </li>
+                                                                                <li>
+                                                                                    <a class="nav-link" href="https://studentaffairs.fresnostate.edu/are/admissiontranscripts/index.html">Submitting Transcripts </a>
+                                                                                </li>
+                                                                                <li>
+                                                                                    <a class="nav-link" href="https://fresnostate.edu/registrar/student-records/major-minor-change.html">Major Changes</a>
+                                                                                </li>
+                                                                            </ul>
+                                                                        </div>
+                                                                    </div>
+                                                                </div>
+                                                            </div>
+                                                        </li>
+                                                    </ul>
+                                                </li>
+                                                <li class="nav-item">
+                                                    <a class="nav-link" href="https://fresnostate.edu/veterans/index.html" id="Veterans">Veterans</a>
+                                                </li>
+                                                <li class="nav-item">
+                                                    <a class="nav-link" href="https://fresnostate.edu/registrar/undergraduate-degree-evaluations/index.html" id="graduation">Graduation</a>
+                                                </li>
+                                                <li class="nav-item">
+                                                    <a class="nav-link" href="https://fresnostate.edu/registrar/articulation/index.html" id="articulation">Articulation</a>
+                                                </li>
+                                                <li class="nav-item">
+                                                    <a class="nav-link" href="https://fresnostate.edu/registrar/facultyandstaff/index.html" id="faculty_staff">Faculty and Staff</a>
+                                                </li>
+                                            </ul>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div role="navigation" class="off-screen-nav-mobile-audience">
+                                <h2>
+                                    Quick Links
+                                </h2>
+                                <nav class="audience" aria-label="Quick Links on Mobile">
+                                    <ul class="nav">
+                                        <li class="nav-item">
+                                            <a href="https://calendar.fresnostate.edu/" class="nav-link" aria-label="Calendar link in Quicklinks"><span class="fas fa-calendar-alt" aria-hidden="true">​</span> Calendar</a>
+                                        </li>
+                                        <li class="nav-item">
+                                            <a href="https://www.fresnostate.edu/canvas" class="nav-link" aria-label="Canvas link in Quicklinks"><span class="fak fa-canvas">​</span> Canvas</a>
+                                        </li>
+                                        <li class="nav-item">
+                                            <a href="https://www.fresnostate.edu/catalog/" class="nav-link" aria-label="Catalog link in Quicklinks"><span class="fas fa-book-open" aria-hidden="true">​</span> Catalog</a>
+                                        </li>
+                                        <li class="nav-item">
+                                            <a href="https://directory.fresnostate.edu/" class="nav-link" aria-label="Directory link in Quicklinks"><span class="fas fa-user" aria-hidden="true">​</span> Directory</a>
+                                        </li>
+                                        <li class="nav-item">
+                                            <a href="https://mail.fresnostate.edu/" class="nav-link" aria-label="Email link in Quicklinks"><span class="fas fa-envelope" aria-hidden="true">​</span> Email</a>
+                                        </li>
+                                        <li class="nav-item">
+                                            <a href="https://www.bkstr.com/kennelstore/home" class="nav-link" aria-label="Kennel Bookstore link in Quicklinks"><span class="fas fa-envelope" aria-hidden="true">​</span> Kennel Bookstore</a>
+                                        </li>
+                                        <li class="nav-item">
+                                            <a href="https://www.fresnostate.edu/library/" class="nav-link" aria-label="Library link in Quicklinks"><span class="fas fa-book" aria-hidden="true">​</span> Library</a>
+                                        </li>
+                                        <li class="nav-item">
+                                            <a href="https://maps.fresnostate.edu/" class="nav-link" aria-label="Map link in Quicklinks"><span class="fas fa-map-marker-alt" aria-hidden="true">​</span> Map</a>
+                                        </li>
+                                        <li class="nav-item">
+                                            <a href="https://my.fresnostate.edu/" class="nav-link" aria-label="My Fresno State link in Quicklinks"><span class="fas fa-cog" aria-hidden="true">​</span> My Fresno State</a>
+                                        </li>
+                                        <li class="nav-item">
+                                            <a href="https://help.fresnostate.edu/" class="nav-link" aria-label="Technology Service Desk link in Quicklinks"><span class="fas fa-envelope" aria-hidden="true">​</span> Technology Service Desk</a>
+                                        </li>
+                                        <li class="nav-item">
+                                            <a href="https://fresnostate.zoom.us/" class="nav-link" aria-label="Zoom Conferencing link in Quicklinks"><span class="fas fa-webcam" aria-hidden="true">​</span> Zoom Conferencing</a>
+                                        </li>
+                                    </ul>
+                                </nav>
+                            </div>
+                        </nav>
+                    </div>
+                </div>
             </div>
-         </div>
-      </header>
-      
-<!-- Insert google analytics here -->
-      <div class="content">
-         <main id="main-content" role="main">
-            		
-            	
-            	
-            <section class="bg-white space-sm">
-               <div class="container">
-                  <div class="row">
-                     <div class="col">
-                        <p class="h1">Lyles College of Engineering</p>
-                     </div>
-                  </div>
-               </div>
-            </section>
-            <div class="container">
-               <div class="row">
-                  <div class="col-12">
-                     <nav aria-label="breadcrumb">
-                        <ol class="breadcrumb">
-                           <li class="breadcrumb-item"><span class="fas fa-home"></span>&nbsp;
-                              					<a href="https://engineering.fresnostate.edu/">
-                                 		Lyles College of Engineering
-                                 	</a></li>
-                           <li class="breadcrumb-item"><a href="https://engineering.fresnostate.edu/about/">About</a></li>
-                           <li class="breadcrumb-item active">Degrees</li>
-                        </ol>
-                     </nav>
-                  </div>
-               </div>
-               <div class="row">
-                  <div class="col-lg-12 mb-5">
-                     	
-                     <div class="row justify-content-center text-center section-intro">
-                        		
-                        <div class="col-12 col-md-9 col-lg-8">			
-                           			
-                           <h1 class="display-4">Degrees</h1>
-                           			
-                           <p class="lead pb-3 font-weight-light">Lyles College of Engineering Degrees</p>
-                           		</div>
-                        	</div>
-                     
-                     
-                     <h2>Undergraduate Degrees</h2>
-                     
-                     <div id="accordion-d24e106" class="accordion-style-1"><!-- card starts here -->
-                        
-                        <div class="card">
-                           <div class="card-header" id="accordion-headingd24e121">
-                              <h3 class="mb-0"><button class="btn btn-link accordion-trigger" data-toggle="collapse" data-target="#accordion-collapsed24e121" aria-expanded="false" aria-controls="accordion-collapsed24e121">
-                                    							Architectural Studies
-                                    							<span class="fas fa-angle-down"></span><span class="fas fa-angle-up"></span></button></h3>
-                           </div>
-                           <div id="accordion-collapsed24e121" class="collapse" aria-labelledby="accordion-headingd24e121" data-parent="#accordion-d24e106">
-                              <div class="card-body"><a href="https://catalog.fresnostate.edu/preview_program.php?catoid=5&amp;poid=2590&amp;returnto=192">B.S. in Architectural Studies</a></div>
-                           </div>
-                        </div>
-                        <!-- card ends here --> <!-- card starts here -->
-                        
-                        <div class="card">
-                           <div class="card-header" id="accordion-headingd24e148">
-                              <h3 class="mb-0"><button class="btn btn-link accordion-trigger" data-toggle="collapse" data-target="#accordion-collapsed24e148" aria-expanded="false" aria-controls="accordion-collapsed24e148">
-                                    							Civil Engineering
-                                    							<span class="fas fa-angle-down"></span><span class="fas fa-angle-up"></span></button></h3>
-                           </div>
-                           <div id="accordion-collapsed24e148" class="collapse" aria-labelledby="accordion-headingd24e148" data-parent="#accordion-d24e106">
-                              <div class="card-body">
-                                 
-                                 <p><a href="https://catalog.fresnostate.edu/preview_program.php?catoid=5&amp;poid=2631&amp;returnto=192">B.S. in Civil Engineering</a></p>
-                                 </div>
-                           </div>
-                        </div>
-                        <!-- card ends here --> <!-- card starts here -->
-                        
-                        <div class="card">
-                           <div class="card-header" id="accordion-headingd24e179">
-                              <h3 class="mb-0"><button class="btn btn-link accordion-trigger" data-toggle="collapse" data-target="#accordion-collapsed24e179" aria-expanded="false" aria-controls="accordion-collapsed24e179">
-                                    							Computer Engineering
-                                    							<span class="fas fa-angle-down"></span><span class="fas fa-angle-up"></span></button></h3>
-                           </div>
-                           <div id="accordion-collapsed24e179" class="collapse" aria-labelledby="accordion-headingd24e179" data-parent="#accordion-d24e106">
-                              <div class="card-body">
-                                 
-                                 <p><a href="https://catalog.fresnostate.edu/preview_program.php?catoid=5&amp;poid=2648&amp;returnto=192">B.S. in Computer Engineering</a></p>
-                                 
-                                 <p><a href="https://catalog.fresnostate.edu/preview_program.php?catoid=5&amp;poid=2649&amp;returnto=192">Minor in Computer Engineering</a></p>
-                                 </div>
-                           </div>
-                        </div>
-                        
-                        <div class="card">
-                           <div class="card-header" id="accordion-headingd24e209">
-                              <h3 class="mb-0"><button class="btn btn-link accordion-trigger" data-toggle="collapse" data-target="#accordion-collapsed24e209" aria-expanded="false" aria-controls="accordion-collapsed24e209">
-                                    							Construction Management
-                                    							<span class="fas fa-angle-down"></span><span class="fas fa-angle-up"></span></button></h3>
-                           </div>
-                           <div id="accordion-collapsed24e209" class="collapse" aria-labelledby="accordion-headingd24e209" data-parent="#accordion-d24e106">
-                              <div class="card-body">
-                                 
-                                 <p><a href="https://catalog.fresnostate.edu/preview_program.php?catoid=5&amp;poid=2653&amp;returnto=192">B.S. in Construction Management</a></p>
-                                 
-                                 <p><a href="https://catalog.fresnostate.edu/preview_program.php?catoid=5&amp;poid=2655&amp;returnto=192">Minor in Construction Management</a></p>
-                                 </div>
-                           </div>
-                        </div>
-                        
-                        <div class="card">
-                           <div class="card-header" id="accordion-headingd24e239">
-                              <h3 class="mb-0"><button class="btn btn-link accordion-trigger" data-toggle="collapse" data-target="#accordion-collapsed24e239" aria-expanded="false" aria-controls="accordion-collapsed24e239">
-                                    							Electrical Engineering
-                                    							<span class="fas fa-angle-down"></span><span class="fas fa-angle-up"></span></button></h3>
-                           </div>
-                           <div id="accordion-collapsed24e239" class="collapse" aria-labelledby="accordion-headingd24e239" data-parent="#accordion-d24e106">
-                              <div class="card-body">
-                                 
-                                 <p><a href="https://catalog.fresnostate.edu/preview_program.php?catoid=5&amp;poid=2696&amp;returnto=192">B.S. in Electrical Engineering</a></p>
-                                 
-                                 <p><a href="https://catalog.fresnostate.edu/preview_program.php?catoid=5&amp;poid=2697&amp;returnto=192">Minor in Electrical Engineering</a></p>
-                                 </div>
-                           </div>
-                        </div>
-                        
-                        <div class="card">
-                           <div class="card-header" id="accordion-headingd24e269">
-                              <h3 class="mb-0"><button class="btn btn-link accordion-trigger" data-toggle="collapse" data-target="#accordion-collapsed24e269" aria-expanded="false" aria-controls="accordion-collapsed24e269">
-                                    							Geomatics Engineering
-                                    							<span class="fas fa-angle-down"></span><span class="fas fa-angle-up"></span></button></h3>
-                           </div>
-                           <div id="accordion-collapsed24e269" class="collapse" aria-labelledby="accordion-headingd24e269" data-parent="#accordion-d24e106">
-                              <div class="card-body"><a href="https://catalog.fresnostate.edu/preview_program.php?catoid=5&amp;poid=2730&amp;returnto=192">B.S. in Geomatics Engineering</a></div>
-                           </div>
-                        </div>
-                        
-                        <div class="card">
-                           <div class="card-header" id="accordion-headingd24e292">
-                              <h3 class="mb-0"><button class="btn btn-link accordion-trigger" data-toggle="collapse" data-target="#accordion-collapsed24e292" aria-expanded="false" aria-controls="accordion-collapsed24e292">
-                                    							Mechanical Engineering
-                                    							<span class="fas fa-angle-down"></span><span class="fas fa-angle-up"></span></button></h3>
-                           </div>
-                           <div id="accordion-collapsed24e292" class="collapse" aria-labelledby="accordion-headingd24e292" data-parent="#accordion-d24e106">
-                              <div class="card-body"><a href="https://catalog.fresnostate.edu/preview_program.php?catoid=5&amp;poid=2887&amp;returnto=192">B.S. in Mechanical Engineering&nbsp;</a></div>
-                           </div>
-                        </div>
-                        <!-- card ends here --></div>
-                     
-                     <h2>Graduate Degrees</h2>
-                     
-                     <div id="accordion-d24e323" class="accordion-style-1"><!-- card starts here --><!-- card ends here --> <!-- card starts here -->
-                        
-                        <div class="card">
-                           <div class="card-header" id="accordion-headingd24e341">
-                              <h3 class="mb-0"><button class="btn btn-link accordion-trigger" data-toggle="collapse" data-target="#accordion-collapsed24e341" aria-expanded="false" aria-controls="accordion-collapsed24e341">
-                                    							Civil Engineering
-                                    							<span class="fas fa-angle-down"></span><span class="fas fa-angle-up"></span></button></h3>
-                           </div>
-                           <div id="accordion-collapsed24e341" class="collapse" aria-labelledby="accordion-headingd24e341" data-parent="#accordion-d24e323">
-                              <div class="card-body">
-                                 
-                                 <p><a href="https://catalog.fresnostate.edu/preview_program.php?catoid=5&amp;poid=2632&amp;returnto=192">M.S. in Civil Engineering</a></p>
-                                 
-                                 <p><a href="https://catalog.fresnostate.edu/preview_program.php?catoid=5&amp;poid=2633&amp;returnto=192">M.S. in Civil Engineering - Water Resources and Environmental Engineering Option</a></p>
-                                 </div>
-                           </div>
-                        </div>
-                        <!-- card ends here --> <!-- card starts here -->
-                        
-                        <div class="card">
-                           <div class="card-header" id="accordion-headingd24e376">
-                              <h3 class="mb-0"><button class="btn btn-link accordion-trigger" data-toggle="collapse" data-target="#accordion-collapsed24e376" aria-expanded="false" aria-controls="accordion-collapsed24e376">
-                                    							Construction Management
-                                    							<span class="fas fa-angle-down"></span><span class="fas fa-angle-up"></span></button></h3>
-                           </div>
-                           <div id="accordion-collapsed24e376" class="collapse" aria-labelledby="accordion-headingd24e376" data-parent="#accordion-d24e323">
-                              <div class="card-body"><a href="https://catalog.fresnostate.edu/preview_program.php?catoid=5&amp;poid=2654&amp;returnto=192">M.S. in Construction Management</a></div>
-                           </div>
-                        </div>
-                        
-                        <div class="card">
-                           <div class="card-header" id="accordion-headingd24e399">
-                              <h3 class="mb-0"><button class="btn btn-link accordion-trigger" data-toggle="collapse" data-target="#accordion-collapsed24e399" aria-expanded="false" aria-controls="accordion-collapsed24e399">
-                                    							Electrical and Computer Engineering
-                                    							<span class="fas fa-angle-down"></span><span class="fas fa-angle-up"></span></button></h3>
-                           </div>
-                           <div id="accordion-collapsed24e399" class="collapse" aria-labelledby="accordion-headingd24e399" data-parent="#accordion-d24e323">
-                              <div class="card-body"><a href="https://catalog.fresnostate.edu/preview_program.php?catoid=5&amp;poid=2698&amp;returnto=192">M.S. in Electrical and Computer Engineering</a></div>
-                           </div>
-                        </div>
-                        
-                        <div class="card">
-                           <div class="card-header" id="accordion-headingd24e422">
-                              <h3 class="mb-0"><button class="btn btn-link accordion-trigger" data-toggle="collapse" data-target="#accordion-collapsed24e422" aria-expanded="false" aria-controls="accordion-collapsed24e422">
-                                    							Mechanical Engineering
-                                    							<span class="fas fa-angle-down"></span><span class="fas fa-angle-up"></span></button></h3>
-                           </div>
-                           <div id="accordion-collapsed24e422" class="collapse" aria-labelledby="accordion-headingd24e422" data-parent="#accordion-d24e323">
-                              <div class="card-body"><a href="https://catalog.fresnostate.edu/preview_program.php?catoid=5&amp;poid=2700&amp;returnto=192">M.S. in Mechanical Engineering</a></div>
-                           </div>
-                        </div>
-                        <!-- card ends here --></div>
-                     
-                     <h2>Minors</h2>
-                     
-                     <div id="accordion-d24e454" class="accordion-style-1"><!-- card starts here -->
-                        
-                        <div class="card">
-                           <div class="card-header" id="accordion-headingd24e469">
-                              <h3 class="mb-0"><button class="btn btn-link accordion-trigger" data-toggle="collapse" data-target="#accordion-collapsed24e469" aria-expanded="false" aria-controls="accordion-collapsed24e469">
-                                    							Aerospace Engineering
-                                    							<span class="fas fa-angle-down"></span><span class="fas fa-angle-up"></span></button></h3>
-                           </div>
-                           <div id="accordion-collapsed24e469" class="collapse" aria-labelledby="accordion-headingd24e469" data-parent="#accordion-d24e454">
-                              <div class="card-body"><a href="https://catalog.fresnostate.edu/preview_program.php?catoid=6&amp;poid=3523&amp;returnto=230">Aerospace Engineering, Minor&nbsp;</a></div>
-                           </div>
-                        </div>
-                        
-                        <div class="card">
-                           <div class="card-header" id="accordion-headingd24e492">
-                              <h3 class="mb-0"><button class="btn btn-link accordion-trigger" data-toggle="collapse" data-target="#accordion-collapsed24e492" aria-expanded="false" aria-controls="accordion-collapsed24e492">
-                                    							Construction Management
-                                    							<span class="fas fa-angle-down"></span><span class="fas fa-angle-up"></span></button></h3>
-                           </div>
-                           <div id="accordion-collapsed24e492" class="collapse" aria-labelledby="accordion-headingd24e492" data-parent="#accordion-d24e454">
-                              <div class="card-body">
-                                 
-                                 <p><a href="https://catalog.fresnostate.edu/preview_program.php?catoid=5&amp;poid=2655&amp;returnto=192">Constrction Management, Minor&nbsp;</a></p>
-                                 </div>
-                           </div>
-                        </div>
-                        <!-- card ends here --> <!-- card starts here -->
-                        
-                        <div class="card">
-                           <div class="card-header" id="accordion-headingd24e522">
-                              <h3 class="mb-0"><button class="btn btn-link accordion-trigger" data-toggle="collapse" data-target="#accordion-collapsed24e522" aria-expanded="false" aria-controls="accordion-collapsed24e522">
-                                    							Computer Engineering&nbsp;
-                                    							<span class="fas fa-angle-down"></span><span class="fas fa-angle-up"></span></button></h3>
-                           </div>
-                           <div id="accordion-collapsed24e522" class="collapse" aria-labelledby="accordion-headingd24e522" data-parent="#accordion-d24e454">
-                              <div class="card-body"><a href="https://catalog.fresnostate.edu/preview_program.php?catoid=5&amp;poid=2649&amp;returnto=192">Computer Engineering, Minor</a></div>
-                           </div>
-                        </div>
-                        <!-- card ends here --> <!-- card starts here -->
-                        
-                        <div class="card">
-                           <div class="card-header" id="accordion-headingd24e550">
-                              <h3 class="mb-0"><button class="btn btn-link accordion-trigger" data-toggle="collapse" data-target="#accordion-collapsed24e550" aria-expanded="false" aria-controls="accordion-collapsed24e550">
-                                    							Cybersecurity
-                                    							<span class="fas fa-angle-down"></span><span class="fas fa-angle-up"></span></button></h3>
-                           </div>
-                           <div id="accordion-collapsed24e550" class="collapse" aria-labelledby="accordion-headingd24e550" data-parent="#accordion-d24e454">
-                              <div class="card-body"><a href="https://catalog.fresnostate.edu/preview_program.php?catoid=5&amp;poid=2666&amp;returnto=192">Cybersecurity, Minor&nbsp;</a></div>
-                           </div>
-                        </div>
-                        
-                        <div class="card">
-                           <div class="card-header" id="accordion-headingd24e573">
-                              <h3 class="mb-0"><button class="btn btn-link accordion-trigger" data-toggle="collapse" data-target="#accordion-collapsed24e573" aria-expanded="false" aria-controls="accordion-collapsed24e573">
-                                    							Electrical Engineering&nbsp;
-                                    							<span class="fas fa-angle-down"></span><span class="fas fa-angle-up"></span></button></h3>
-                           </div>
-                           <div id="accordion-collapsed24e573" class="collapse" aria-labelledby="accordion-headingd24e573" data-parent="#accordion-d24e454">
-                              <div class="card-body"><a href="https://catalog.fresnostate.edu/preview_program.php?catoid=5&amp;poid=2697&amp;returnto=192">Elecitrical Engineering, Minor</a></div>
-                           </div>
-                        </div>
-                        
-                        <div class="card">
-                           <div class="card-header" id="accordion-headingd24e596">
-                              <h3 class="mb-0"><button class="btn btn-link accordion-trigger" data-toggle="collapse" data-target="#accordion-collapsed24e596" aria-expanded="false" aria-controls="accordion-collapsed24e596">
-                                    							Surveying Engineering
-                                    							<span class="fas fa-angle-down"></span><span class="fas fa-angle-up"></span></button></h3>
-                           </div>
-                           <div id="accordion-collapsed24e596" class="collapse" aria-labelledby="accordion-headingd24e596" data-parent="#accordion-d24e454">
-                              <div class="card-body"><a href="https://catalog.fresnostate.edu/preview_program.php?catoid=5&amp;poid=2970&amp;returnto=192">Surveying Engineering, Minor</a></div>
-                           </div>
-                        </div>
-                        <!-- card ends here --></div>
-                  </div>
-               </div>
-            </div>
-         </main>
-      </div>
-      <footer id="footer">
-         <div class="container">
+        </div>
+    </header>
+</div>
+<!-- End Client Header -->
+
+<!-- Start Client Javascript -->
+<div id="acalog-client-javascript" class="acalog-custom">
+<script>
+    $(document).ready(function() {
+        $('table.block_n2_and_content').wrap('<div class="table_block_n2_and_content_wrapper"><\/div>');
+    });
+</script>
+<script>
+    (function ($) {
+    'use strict';
+
+    function initBackToTop() {
+    var $backToTop = $('.cd-top').first();
+
+    if (!$backToTop.length) {
+      return;
+    }
+
+    var showOffset = 300;
+    var fadeOffset = 1200;
+    var scrollDuration = 700;
+    var ticking = false;
+
+    function updateBackToTop() {
+      var scrollTop = window.scrollY || document.documentElement.scrollTop;
+      var isVisible = scrollTop > showOffset;
+      var isFaded = scrollTop > fadeOffset;
+
+      $backToTop
+        .toggleClass('cd-is-visible', isVisible)
+        .toggleClass('cd-fade-out', isVisible && isFaded)
+        .attr('aria-hidden', String(!isVisible))
+        .attr('tabindex', isVisible ? '0' : '-1');
+
+      ticking = false;
+    }
+
+    function handleScroll() {
+      if (!ticking) {
+        window.requestAnimationFrame(updateBackToTop);
+        ticking = true;
+      }
+    }
+
+    $(window).on('scroll.catalogBackToTop', handleScroll);
+
+    $backToTop.on('click.catalogBackToTop', function () {
+      var reduceMotion = window.matchMedia(
+        '(prefers-reduced-motion: reduce)'
+      ).matches;
+
+      if (reduceMotion) {
+        window.scrollTo(0, 0);
+      } else {
+        $('html, body')
+          .stop(true)
+          .animate({ scrollTop: 0 }, scrollDuration);
+      }
+    });
+
+    // Set the correct state when loading or reloading partway down the page.
+    updateBackToTop();
+    }
+
+    if (document.readyState === 'loading') {
+    document.addEventListener('DOMContentLoaded', initBackToTop, {
+      once: true
+    });
+    } else {
+    initBackToTop();
+    }
+    })(jQuery);
+</script>
+<script src="//acalog-clients.s3.amazonaws.com/production/csufresno/img/gateway/jquery-3.3.1.min.js"></script>
+<script src="//acalog-clients.s3.amazonaws.com/production/csufresno/img/gateway/popper.min.js"></script>
+<script src="//acalog-clients.s3.amazonaws.com/production/csufresno/img/gateway/bootstrap.js"></script> 
+<!--
+<script src="//acalog-clients.s3.amazonaws.com/production/csufresno/img/gateway/scripts.js"></script> -->
+<script src="//acalog-clients.s3.amazonaws.com/production/csufresno/img/gateway/slick.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-migrate/1.4.1/jquery-migrate.min.js" integrity="sha512-t0ovA8ZOiDuaNN5DaQQpMn37SqIwp6avyoFQoW49hOmEYSRf8mTCY2jZkEVizDT+IZ9x+VHTZPpcaMA5t2d2zQ==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+</div>
+<!-- End Client Javascript -->
+
+<!-- Start Client Footer -->
+<div id="acalog-client-footer" class="acalog-custom">
+    <footer id="footer">
+        <div class="container">
             <div class="row">
-<div class="col-lg-3">
-	<h2><a href="https://engineering.fresnostate.edu" title="Lyles College of Engineering link in the footer section" aria-label="Lyles College of Engineering link in the footer section">Lyles College of Engineering</a></h2>
-	<ul class="footer-address">
-		<li class="location">
-			<a href="https://goo.gl/maps/Kh8TNtRpx3ZevUrq7">2320 E. San Ramon Ave.<br />
-				Fresno, CA 93740</a></li>
-		<li>P <a href="tel:1-559-278-2500">559.278.2500</a></li>
-	</ul>
+                <div class="col-lg-5 col-xl-6">
+                    <h2>
+                        <a href="https://fresnostate.edu">California State University, Fresno</a>
+                    </h2>
+                    <ul class="footer-address">
+                        <li class="location">
+                            <a href="https://goo.gl/maps/4QkPVcVUFosBohKW7">5241 N. Maple Ave.<br>
+                            Fresno, CA 93740</a>
+                        </li>
+                        <li>P <a href="tel:1-559-278-4240">559.278.4240</a>
+                        </li>
+                        <li>Campus Police: <a href="tel:1-559-278-8400">559.278.8400</a>
+                        </li>
+                    </ul>
+                </div>
+                <div class="col-lg-6 col-xl-5 offset-xl-1">
+                    <div class="row footer-nav justify-content-end">
+                        <div class="col-md-6">
+                            <ul class="list-unstyled">
+                                <li>
+                                    <a href="https://accessibility.fresnostate.edu">Accessibility</a>
+                                </li>
+                                <li>
+                                    <a href="https://www.fresnostate.edu/commentform.html">Comment Form</a>
+                                </li>
+                                <li>
+                                    <a href="https://covid.fresnostate.edu/">COVID-19 Updates</a>
+                                </li>
+                                <li>
+                                    <a href="https://www.fresnostate.edu/disclaimer.html">Disclaimer</a>
+                                </li>
+                                <li>
+                                    <a href="https://adminfinance.fresnostate.edu/police/emergency.html">Emergencies</a>
+                                </li>
+                            </ul>
+                        </div>
+                        <div class="col-md-6">
+                            <ul class="list-unstyled">
+                                <li>
+                                    <a href="https://www.fresnostate.edu/equal-access.html">Equal Access</a>
+                                </li>
+                                <li>
+                                    <a href="https://president.fresnostate.edu/opportunities-for-all.html">Opportunities for All</a>
+                                </li>
+                                <li>
+                                    <a href="https://studentaffairs.fresnostate.edu/health/wellness/studentparents.html">Student Parent Resources</a>
+                                </li>
+                                <li>
+                                    <a href="https://occr.fresnostate.edu/index.html">Title IX Compliance</a>
+                                </li>
+                                <li>
+                                    <a href="https://academics.fresnostate.edu/wscuc/">WSCUC</a>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="copyright">
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-6">
+                        <a href="https://www.fresnostate.edu/copyright.html">© Fresno State 2026</a><br>
+                        <span id="directedit"><a id="de" href="https://a.cms.omniupdate.com/11/?skin=fresnostate&amp;account=csufresno&amp;site=aws-fresnostate&amp;action=de&amp;path=/about.pcf">Last Updated Sep 22, 2023</a></span>
+                    </div>
+                    <div class="col-md-6">
+                        <ul class="footer-social">
+                            <li>
+                                <a href="https://www.facebook.com/FresnoState" class="facebook"><span class="sr-only">Fresno State Facebook</span></a>
+                            </li>
+                            <li>
+                                <a href="https://twitter.com/Fresno_State" class="twitter"><span class="sr-only">Fresno State Twitter</span></a>
+                            </li>
+                            <li>
+                                <a href="https://www.instagram.com/fresno_state/" class="instagram"><span class="sr-only">Fresno State Instagram</span></a>
+                            </li>
+                            <li>
+                                <a href="https://www.youtube.com/channel/UCbloblFKJwjmQ0uTnSjcJDA" class="youtube"><span class="sr-only">Fresno State YouTube</span></a>
+                            </li>
+                            <li>
+                                <a href="https://www.tiktok.com/@fresno_state" class="tiktok"><span class="sr-only">Fresno State Tiktok</span></a>
+                            </li>
+                            <li>
+                                <a href="https://www.linkedin.com/school/california-state-university-fresno/" class="linkedin"><span class="sr-only">Fresno State LinkedIn</span></a>
+                            </li>
+                            <li>
+                                <a href="https://fresnostate.imodules.com/s/1692/23/home.aspx?sid=1692&amp;gid=2&amp;pgid=2541" class="hand-holding-usd"><span class="sr-only">Donation</span></a>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="text-center copyright mt-0">
+            <span class="d-inline-block pb-1">All Fresno State programs and activities are open and available to all regardless of race, sex, color, ethnicity or national origin.</span>
+        </div>
+    </footer><button type="button" class="cd-top" aria-label="Back to top" aria-hidden="true" tabindex="-1"><span class="sr-only">Back to top</span></button>
 </div>
+<!-- End Client Footer --></header></td>
+  </tr>
+  <tr>
+    <td class="block_n1_left">&#160;&#160;&#160;</td>
+    <td class="block_n1_right"><span class="n1_header">Fresno State</span></td>
+  </tr>
+  <tr>
+	<td class="block_border_left">&#160;&#160;&#160;</td>
+    <td class="block_n2_and_content">
+	<table class="block_n2_and_content table_default">
+		<tr>
+			<!-- Begin N3 -->
+					<td class="block_date_outer_left small_date_pad">&#160;</td>
+		<td class="block_date_inner medium_date_pad">
+			<span class="date">&#160;
+				Oct 13, 2026			</span>
+		</td>
+		<td class="block_date_outer_right small_date_pad">&#160;</td>
+		<td class="block_n2_and_content">
+	<table class="table_default">
+		<tr>
+			<td class="block_n3_off block_n3_left">
+				<span class="n3_header"><span id="acalog-catalog-name" class="no_display">General Catalog 2026-2027</span>&#160;</span>
+			</td>
+			<td class="block_n3_off block_n3_right float_right">
+										<form name="select_catalog" method="post" action="/index.php">
+											<table class="default_no_width">
+						<tr>
+							<td>
+																	<div id="catalog_select_parent">
+										<label for="select_catalog" class="sr-only" id="catalog_label">Select a Catalog</label>
+										<select name="catalog" aria-labelledby="catalog_label" title="Select a Catalog">														<option value="7" selected>General Catalog 2026-2027</option>
+																												<option value="6" >General Catalog 2025-2026 [ARCHIVED CATALOG]</option>
+																												<option value="5" >General Catalog 2024-2025 [ARCHIVED CATALOG]</option>
+																												<option value="3" >General Catalog 2023-2024 [ARCHIVED CATALOG]</option>
+																												<option value="2" >General Catalog 2022-2023 [ARCHIVED CATALOG]</option>
+																								</select>
+									</div>
+							</td>
+							<td>&#160;&#160;
+																		<input type="submit" title="Select a Catalog" name="sel_cat_submit" value="GO">
+																		&#160;
+															</td>
+						</tr>
+					</table>
+				</form>
+			</td>
+		</tr>
+	</table>
+</td>
+<!-- End N3. -->
+		</tr>
+        <tr>
+			<!-- N2 goes here. -->
+		  	<td class="block_n2" colspan="3" id="acalog-nav">
+  <table class="block_n2_content links_table">
+	<tr>
+		<td role="search" aria-labelledby="n2_search_header" class="block_n2_search
+			">
+		<form name="n2_search" method="get" action="/search_advanced.php" onSubmit="return validateSearchOptions()">
+		<fieldset id="global-search-fieldset">
+			<legend>Global Search</legend>
+		  <input type="hidden" title="Cur Cat OID" name="cur_cat_oid" value="7">
+		  <input type="hidden" title="Search Database" name="search_database" value="Search">
+		  <input type="hidden" title="Search" name="search_db" value="Search">
+		  <input type="hidden" title="cpage" name="cpage" value="1">
+		  <input type="hidden" title="ecpage" name="ecpage" value="1">
+		  <input type="hidden" title="ppage" name="ppage" value="1">
+		  <input type="hidden" title="spage" name="spage" value="1">
+		  <input type="hidden" title="tpage" name="tpage" value="1">
+			<span class="n2_search_header" id="n2_search_header">Catalog Search</span>			<br>
+			<span class="show">
+				<label for="location" class="no_display">Choose Search Location</label>
+				<div id="location_select_parent">
+					
+					<script>
+						function reloadLocations() {
+							var locations_in_use = 0; 
+							var chosen_locations_div = document.getElementById('chosen_locations_div');
+							var category = document.getElementById('location').value;
+							if((category === '1' || category === '3' || category === '33') && (locations_in_use !== 0)){
+								chosen_locations_div.classList.remove("disabled");
+							} else {
+								chosen_locations_div.classList.add("disabled");
+							}
+						};
+					</script>
+
+					<select name="location" id="location" title="Choose Search Location" onChange="reloadLocations();">
+						<option value="-1">Select an option</option>
+														<option value="3" selected>Courses</option>
+																<option value="1">Programs</option>
+																<option value="28">Hierarchy Items</option>
+																<option value="30">Other Content</option>
+																<option value="33">Entire Catalog</option>
+													</select>
+				</div>
+				<br>
+			</span>
 
 
-<div class="col-lg-3">
-<h2>Accessibility &amp; Support</h2>
-<ul class="list-unstyled">
-<li><a href="https://accessibility.fresnostate.edu">Accessibility</a></li>
-	<li><a href="javascript:Optanon.ToggleInfoDisplay()">Cookie Settings</a></li>
-<li><a href="https://www.fresnostate.edu/commentform.html">Comment Form</a></li>
-	<li><a href="https://fresnostate.kualibuild.com/app/69b2f4e29ccd870291e4247e/start">Report an Issue</a></li>
+			<span>
+				                <div id="chosen_locations_div" class= >
+					
+                </div>					
 
-</ul>
-</div>
+			</span>
+			<span class="show">
+				<label for="keyword" class="no_display">Search Keyword Field</label><input type="text" title="Search Keyword Field, required" name="filter[keyword]" value="Enter Keyword  " size="15" maxlength="150" id="keyword" onFocus="if (this.value == 'Enter Keyword  ') { this.value=''; }" class="n2_form_words" aria-required="true" required>
+				<input type="submit" title="GO" value="GO"><br>
+			</span>
+			<span class="show"><br />
+				<input type="checkbox" title="Exact Match" name="filter[exact_match]" value="1" checked="checked" id="exact_match_n2"> 
+				<label for="exact_match_n2" class="n2_search">Whole Word/Phrase</label>
+				<br />
+			</span>
+		  	<span class="n2_search">
+				<a href="/search_advanced.php?catoid=7" class="navbar">
+					Advanced Search				</a>
+			</span>
+			<br>
+		</fieldset>
+	</form>
+		</td>
+	</tr>
+	<tr>
+	  <td>
+		<hr class="navbar">
+	  </td>
+	</tr>
+	<tr>
+	  <td class="nowrap">
 
-<div class="col-lg-3">
-<h2>Policies &amp; Compliance</h2>
-<ul class="list-unstyled">
-<li><a href="https://www.fresnostate.edu/equal-access.html">Equal Access</a></li>
-<li><a href="https://occr.fresnostate.edu/index.html">Title IX Compliance</a></li>
-<li><a href="https://www.fresnostate.edu/disclaimer.html">Disclaimer</a></li>
-<li><a href="https://academics.fresnostate.edu/wscuc/">WSCUC</a></li>
-</ul>
-</div>
-
-<div class="col-lg-3">
-<h2>Campus Information</h2>
-<ul class="list-unstyled">
-<li><a href="https://adminfinance.fresnostate.edu/police/emergency.html">Emergencies</a></li>
-<li><a href="https://covid.fresnostate.edu/">COVID-19 Updates</a></li>
-<li><a href="https://president.fresnostate.edu/opportunities-for-all.html">Opportunities for All</a></li>
-	<li><a href="https://studentaffairs.fresnostate.edu/health/wellness/studentparents.html">Student Parent Resources</a></li>
-</ul>
-</div></div>
-         </div>
-         <div class="copyright">
-	<div class="container">
-		<div class="row">
-			<div class="col-md-6">
-				<a href="https://www.fresnostate.edu/copyright.html">© Fresno State 2026</a><br/>
-				<span id="directedit"></span>
-			</div>
-			<div class="col-md-6">
-				<ul class="footer-social">
-					<li><a href="https://www.facebook.com/FresnoState" class="facebook"><span class="sr-only">Fresno State Facebook</span></a></li>
-					<li><a href="https://twitter.com/Fresno_State" class="twitter"><span class="sr-only">Fresno State Twitter</span></a></li>
-					<li><a href="https://www.instagram.com/fresno_state/" class="instagram"><span class="sr-only">Fresno State Instagram</span></a></li>
-					<li><a href="https://www.youtube.com/channel/UCbloblFKJwjmQ0uTnSjcJDA" class="youtube"><span class="sr-only">Fresno State YouTube</span></a></li>
-					<li><a href="https://www.tiktok.com/@fresno_state" class="tiktok"><span class="sr-only">Fresno State Tiktok</span></a></li>
-					<li><a href="https://www.linkedin.com/school/california-state-university-fresno/" class="linkedin"><span class="sr-only">Fresno State LinkedIn</span></a></li>
-					<li><a href="https://connect.fresnostate.edu/p/m4aA7zBLDzQNYVel7lzTAsGUD" class="hand-holding-usd"><span class="sr-only">Donation</span></a></li>
-				</ul>
-			</div>
-		</div>
-	</div>
-</div><div class="text-center copyright mt-0">
-  <span class="d-inline-block pb-1">All Fresno State programs and activities are open and available to all regardless of race, sex, color,  ethnicity or national origin.</span>
-</div></footer><button data-target="#0" class="cd-top"><span class="sr-only">Back to Top</span></button>
-      
-<!-- Optional JavaScript -->
-<!-- jQuery first, then Popper.js, then Bootstrap JS -->
-<script src="//code.jquery.com/jquery-3.3.1.min.js"></script>
-<script src="//cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js"></script>
-<script src="https://omniresources.fresnostate.edu/js/bootstrap.js"></script>
-<script src="https://omniresources.fresnostate.edu/js/scripts.js"></script>
-<script src="https://omniresources.fresnostate.edu/js/slick.min.js"></script>
-<script src="https://omniresources.fresnostate.edu/js/zoom.js"></script><div id="ou-hidden" style="display:none;"><ul><li class="space"><a id="de" href="https://a.cms.omniupdate.com/11/?skin=fresnostate&amp;account=csufresno&amp;site=aws-engineering&amp;action=de&amp;path=/about/degrees.pcf">Last Updated Apr 8, 2026</a></li></ul></div><script>
-			if(document.getElementById("de") != null && document.getElementById("directedit")) {
-				var link = document.getElementById("de").parentNode.innerHTML;
-				document.getElementById("de").parentNode.innerHTML = "";
-				document.getElementById("directedit").innerHTML = link.replace(/^\s+|\s+$/gm,'');
-			}
-		</script><script src="https://omniresources.fresnostate.edu/js/quicklinks-script.js"></script><!-- ouc:info uuid="9f83e986-757f-48b7-9b1d-c679f1f65438"/ --></body>
+		<!-- Begin Responsive -->
+				<div class="mobile-menu-toggle" tabindex=0>Catalog Navigation</div>
+				<!-- End Responsive -->
+		
+		<table class="block_n2_links links_table">
+		  <tr>
+			<td id="acalog-navigation">
+			  <div class="n2_links">&#160;&#160;<a href="/index.php?catoid=7" class="navbar">Catalog Home</a></div>
+<br>			</div>
+							<div class="n2_links">&#160;&#160;<a href='https://academics.fresnostate.edu/about/calendars/current.html' class="navbar" target="_blank">Academic Calendar</a>			</div>
+							<div class="n2_links">&#160;&#160;<a href="/content.php?catoid=7&navoid=313" class="navbar">Archived Catalogs</a>			</div>
+							<div class="n2_links">&#160;&#160;<a href="/content.php?catoid=7&navoid=315" class="navbar">Departments</a>			</div>
+							<div class="n2_links">&#160;&#160;<a href="/content.php?catoid=7&navoid=297" class="navbar">Degrees and Programs</a>			</div>
+							<div class="n2_links">&#160;&#160;<a href="/content.php?catoid=7&navoid=321" class="navbar">Blended Programs</a>			</div>
+							<div class="n2_links">&#160;&#160;<a href="/content.php?catoid=7&navoid=299" class="navbar">Certificates</a>			</div>
+							<div class="n2_links">&#160;&#160;<a href="/content.php?catoid=7&navoid=411" class="navbar">Credentials</a>			</div>
+							<div class="n2_links">&#160;&#160;<a href="/content.php?catoid=7&navoid=298" class="navbar">Courses</a>			</div>
+							<div class="n2_links">&#160;&#160;<a href="/content.php?catoid=7&navoid=318" class="navbar">Additional University Graduation Requirements</a>			</div>
+							<div class="n2_links">&#160;&#160;<a href="/content.php?catoid=7&navoid=316" class="navbar">General Education</a>			</div>
+							<div class="n2_links">&#160;&#160;<a href="/content.php?catoid=7&navoid=293" class="navbar">Service-Learning</a>			</div>
+							<div class="n2_links">&#160;&#160;<a href='/preview_program.php?catoid=7&poid=3939' class="navbar">Upper-Division Writing</a>			</div>
+			<hr class="navbar">			</div>
+			<br>			</div>
+							<div class="n2_links">&#160;&#160;<a href="/content.php?catoid=7&navoid=284" class="navbar">Academic Regulations</a>			</div>
+							<div class="n2_links">&#160;&#160;<a href="/content.php?catoid=7&navoid=285" class="navbar">Academic Credit and Placement</a>			</div>
+							<div class="n2_links">&#160;&#160;<a href="/content.php?catoid=7&navoid=286" class="navbar">Admissions</a>			</div>
+							<div class="n2_links">&#160;&#160;<a href="/content.php?catoid=7&navoid=301" class="navbar">Degree Requirements</a>			</div>
+							<div class="n2_links">&#160;&#160;<a href="/content.php?catoid=7&navoid=287" class="navbar">Fees and Expenses</a>			</div>
+							<div class="n2_links">&#160;&#160;<a href="/content.php?catoid=7&navoid=288" class="navbar">Financial Assistance</a>			</div>
+							<div class="n2_links">&#160;&#160;<a href="/content.php?catoid=7&navoid=289" class="navbar">Graduate Studies Regulations</a>			</div>
+							<div class="n2_links">&#160;&#160;<a href="/content.php?catoid=7&navoid=290" class="navbar">Honors College</a>			</div>
+							<div class="n2_links">&#160;&#160;<a href="/content.php?catoid=7&navoid=291" class="navbar">Policies</a>			</div>
+							<div class="n2_links">&#160;&#160;<a href="/content.php?catoid=7&navoid=292" class="navbar">Registration</a>			</div>
+							<div class="n2_links">&#160;&#160;<a href="/content.php?catoid=7&navoid=295" class="navbar">The California State University</a>			</div>
+							<div class="n2_links">&#160;&#160;<a href="/content.php?catoid=7&navoid=296" class="navbar">Undeclared Majors</a>			</div>
+						</td>
+		  </tr>
+		</table>
+	  </td>
+	</tr>
+	<tr>
+	  <td>
+		<hr class="navbar">
+	  </td>
+	</tr>
+	<tr>
+	  <td class="block_n2_tools">
+		  <div class="n2_links"> &#160;&#160;<a href="/portfolio_nopop.php?catoid=7" class="navbar"><span class="acalog_term_backpack">My Portfolio</span></a></div>
+	  </td>
+	</tr>
+	<tr>
+	  <td>
+		<hr class="navbar">
+	  </td>
+	</tr>
+  </table>
+		</td>
+<!-- End of N2 -->
+          <td class="block_content_outer">
+            <table class="table_default">
+              <tr>
+                <td class="block_content" colspan="2">
+                  <table class="table_default">
+                    <tr>
+                      <td>
+                        <table class="default_no_width header_block_right">
+                          <tr>
+                            <td>&#160;&#160;</td>
+                            <td class="help_block"><a href="/help.php?catoid=7" onclick="acalogPopup('/help.php?catoid=7', 'help', 770, 530, 'yes');return false;" target="_blank" accesskey="h" class="help"><strong>HELP</strong></a></td>
+                          </tr>
+                        </table>
+                        <h1 id="acalog-page-title">All Catalogs</h1></td>
+                    </tr>
+                    <tr>
+                      <td>
+                        <hr>
+                      </td>
+                    </tr>
+                  </table>
+						
+						<p>
+					<a href='/index.php?catoid=7'>General Catalog 2026-2027</a><br/><a href='/index.php?catoid=6'>General Catalog 2025-2026</a> [ARCHIVED CATALOG]<br/><a href='/index.php?catoid=5'>General Catalog 2024-2025</a> [ARCHIVED CATALOG]<br/><a href='/index.php?catoid=3'>General Catalog 2023-2024</a> [ARCHIVED CATALOG]<br/><a href='/index.php?catoid=2'>General Catalog 2022-2023</a> [ARCHIVED CATALOG]<br/>						</p>
+						<p>All catalogs &#169; 2026 Fresno State. All rights reserved.</p>
+                </td>
+              </tr>
+            </table>
+            </td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+<tr>
+	<td class="block_footer_lb">&#160;&#160;&#160;</td>
+	<td class="block_footer_rb">
+<div class="nobr">All <a href="/misc/catalog_list.php?catoid=7" class="footer" >catalogs</a> &#169; 2026 Fresno State.</div> <div class="nobr">Powered by <a href="http://www.moderncampus.com" target="_blank" class="footer">Modern Campus Catalog™</a>.</div>
+</td>
+</table>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/select2/4.0.12/js/select2.full.min.js" integrity="sha384-dX8Lmeo3rVl33tMPuGNrcJxh8dqvxqzN4SuirunQiozfAzUJnI9u50cMy12ArXxb" crossorigin="anonymous"></script>
+</body>
 </html>

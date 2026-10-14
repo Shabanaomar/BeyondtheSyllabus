@@ -1,8 +1,22 @@
 HTTP/2 200 
-date: Wed, 14 Oct 2026 03:16:50 GMT
+date: Wed, 14 Oct 2026 03:22:51 GMT
 content-type: text/html; charset=UTF-8
-server: Apache/2.4.68 (Amazon Linux) OpenSSL/3.5.8
-cache-control: max-age=120
-expires: Wed, 14 Oct 2026 03:18:50 GMT
+server: cloudflare
 vary: Accept-Encoding
+vary: Accept-Encoding,Cookie
+link: <https://engineering.berkeley.edu/wp-json/>; rel="https://api.w.org/"
+link: <https://engineering.berkeley.edu/wp-json/wp/v2/pages/9815>; rel="alternate"; title="JSON"; type="application/json"
+link: <https://engineering.berkeley.edu/?p=9815>; rel=shortlink
+x-powered-by: WP Engine
+x-cacheable: SHORT
+cache-control: max-age=600, must-revalidate
+x-cache: HIT: 1
+x-cache-group: normal
+last-modified: Wed, 14 Oct 2026 03:22:51 GMT
+x-frame-options: SAMEORIGIN
+cf-cache-status: EXPIRED
+set-cookie: __cf_bm=sF7EQUut4NsWcCE3Ey6fFBvM1iJJUGILN_lnTaUkkSo-1791948170.904604-1.0.1.1-Y8KAIgeBvpexQJBSvNYpj6JMEOraSTN7QyykvPpgBIEUjwz3ICTkftNMZxFt0VmsqHvT8piySK3g_VPp6Vjc1xtnF4IDDrSMWwxNSNTT5vmAUfiOo5okC9OfwkIGhbqG; HttpOnly; SameSite=None; Secure; Path=/; Domain=engineering.berkeley.edu; Expires=Wed, 14 Oct 2026 03:52:51 GMT
+content-security-policy: upgrade-insecure-requests
+cf-ray: a4a376442c24284e-LAX
+alt-svc: h3=":443"; ma=86400
 

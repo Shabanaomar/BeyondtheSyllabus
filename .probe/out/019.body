@@ -1,8 +1,0 @@
-Sitemap: https://callink.berkeley.edu/sitemap.xml
-
-User-agent: *
-Disallow: /notfound
-Disallow: /forbidden
-Disallow: /error
-Disallow: /api/
-Disallow: /engage/

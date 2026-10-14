@@ -1,6 +1,24 @@
-HTTP/2 404 
-date: Wed, 14 Oct 2026 03:16:36 GMT
+HTTP/1.1 301 Moved Permanently
+Server: nginx/1.30.5
+Date: Wed, 14 Oct 2026 03:18:38 GMT
+Content-Type: text/html
+Content-Length: 169
+Connection: keep-alive
+Location: https://www.fresnostate.edu/registrar/registration/planyourschedule.html
+
+HTTP/2 301 
+date: Wed, 14 Oct 2026 03:18:38 GMT
 content-type: text/html; charset=iso-8859-1
-content-length: 236
+content-length: 342
+location: https://studentaffairs.fresnostate.edu/registrar/index.html/registration/planyourschedule.html
 server: Apache/2.4.68 (Amazon Linux) OpenSSL/3.5.8
+cache-control: max-age=120
+expires: Wed, 14 Oct 2026 03:20:38 GMT
+
+HTTP/2 200 
+date: Wed, 14 Oct 2026 03:18:38 GMT
+content-type: text/html; charset=UTF-8
+server: Apache/2.4.68 (Amazon Linux) OpenSSL/3.5.8
+cache-control: max-age=120
+expires: Wed, 14 Oct 2026 03:20:38 GMT
 

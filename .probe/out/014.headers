@@ -1,21 +1,12 @@
 HTTP/2 200 
-cache-control: max-age=31622400
-content-type: text/plain
-etag: W/"6acc9d98-84f"
-expires: Thu, 14 Oct 2027 16:33:53 GMT
-last-modified: Mon, 12 Oct 2026 08:43:04 GMT
-server: nginx
-strict-transport-security: max-age=300
-x-pantheon-styx-hostname: styx-us-a-58d475665b-lccx7
-x-styx-req-id: e0ccf74f-c723-11f1-8024-fe74c364009e
-age: 11393
-accept-ranges: bytes
-via: 1.1 varnish, 1.1 varnish, 1.1 varnish
-date: Wed, 14 Oct 2026 03:16:52 GMT
-x-served-by: cache-chi-kigq8000068-CHI, cache-chi-kmdw8640031-CHI, cache-chi-kmdw8640031-CHI
-x-cache: HIT, MISS, MISS
-x-cache-hits: 0, 0, 0
-x-timer: S1791947813.763362,VS0,VE19
-vary: Accept-Encoding
-content-length: 2127
+date: Wed, 14 Oct 2026 03:23:05 GMT
+content-type: text/html;charset=utf-8
+content-length: 1039729
+server: nginx/1.31.1
+cache-control: public, max-age=0, must-revalidate
+strict-transport-security: max-age=15552000; includeSubDomains
+x-content-type-options: nosniff
+x-xss-protection: 0
+content-security-policy-report-only: report-uri https://app.coursedog.com/log-catalog-content-security-policy;default-src * 'unsafe-eval' 'unsafe-inline' about: blob: data: filesystem: ws: wss:;connect-src * 'self' https://app.coursedog.com app.launchdarkly.com clientstream.launchdarkly.com events.launchdarkly.com bam.nr-data.net bam-cell.nr-data.net *.ingest.us.sentry.io;font-src * blob: data: 'unsafe-inline';frame-src * blob: data:;img-src * blob: data: 'unsafe-inline';script-src * 'self' 'unsafe-inline' 'unsafe-eval' js-agent.newrelic.com bam.nr-data.net;style-src * blob: data: 'unsafe-inline';object-src 'self';worker-src 'self' blob:
+x-powered-by: Nuxt
 
