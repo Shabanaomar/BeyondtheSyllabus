@@ -1,0 +1,17 @@
+HTTP/1.1 200 OK
+Date: Wed, 14 Oct 2026 03:16:33 GMT
+Content-Type: text/plain; charset=utf-8
+Content-Length: 509
+Connection: keep-alive
+Set-Cookie: AWSALB=J1DGEsooJL555HITZK+8s+kQMTNodGyQiIO57edXfKLzsUM9A9PKw7Apk80y4KrO0SH8iMx8hOxfU1Ous/DA4JiSCeK0jR0D6JU80iWjOqTID1FRyNJKUYUd/t9e; Expires=Wed, 21 Oct 2026 03:16:33 GMT; Path=/; secure
+Set-Cookie: AWSALBCORS=J1DGEsooJL555HITZK+8s+kQMTNodGyQiIO57edXfKLzsUM9A9PKw7Apk80y4KrO0SH8iMx8hOxfU1Ous/DA4JiSCeK0jR0D6JU80iWjOqTID1FRyNJKUYUd/t9e; Expires=Wed, 21 Oct 2026 03:16:33 GMT; Path=/; secure; SameSite=None
+Content-Security-Policy: default-src 'self' https: data: blob:; script-src 'self' https: 'unsafe-inline' 'unsafe-eval'; style-src 'self' https: 'unsafe-inline'; img-src 'self' https: data:; font-src 'self' https: data:; object-src 'none'; base-uri 'self'; frame-ancestors 'self';
+Last-Modified: Thu, 27 Aug 2026 15:38:36 GMT
+ETag: "1fd-65a09211c61ed"
+Accept-Ranges: bytes
+Vary: Accept-Encoding
+X-Frame-Options: SAMEORIGIN
+X-Content-Type-Options: nosniff
+Server: director
+Strict-Transport-Security: max-age=31536000; includeSubDomains
+

@@ -1,0 +1,21 @@
+HTTP/2 200 
+cache-control: public, max-age=604800
+content-type: text/html; charset=UTF-8
+link: <https://registrar.berkeley.edu/wp-json/>; rel="https://api.w.org/"
+link: <https://registrar.berkeley.edu/wp-json/wp/v2/pages/6363>; rel="alternate"; title="JSON"; type="application/json"
+link: <https://registrar.berkeley.edu/?p=6363>; rel=shortlink
+server: nginx
+set-cookie: quform_session_e22e0e43ec4c978c1921a78d150f82ca=WshsJxdYjAujI5pVn3lCmAXOwoTOVqVnWddkt19z; path=/; secure; httponly; samesite=None
+strict-transport-security: max-age=300
+x-pantheon-styx-hostname: styx-us-a-58d475665b-5p5nb
+x-styx-req-id: bac942e2-c77d-11f1-a26b-5afa4957fbe1
+date: Wed, 14 Oct 2026 03:17:05 GMT
+x-served-by: cache-chi-kmdw8640031-CHI
+x-cache: MISS
+x-cache-hits: 0
+x-timer: S1791947824.366241,VS0,VE775
+vary: Accept-Encoding, Cookie
+age: 0
+accept-ranges: bytes
+via: 1.1 varnish
+

@@ -1,0 +1,16 @@
+HTTP/2 200 
+content-type: text/plain; charset=utf-8
+date: Wed, 14 Oct 2026 03:16:40 GMT
+access-control-expose-headers: Request-Context
+cache-control: private
+set-cookie: TiPMix=55.33364296432578; path=/; HttpOnly; Domain=engage.fresnostate.edu; Max-Age=3600; Secure; SameSite=None
+set-cookie: x-ms-routing-name=self; path=/; HttpOnly; Domain=engage.fresnostate.edu; Max-Age=3600; Secure; SameSite=None
+set-cookie: TiPMix=6.738272172322269; path=/; HttpOnly; Domain=engage.fresnostate.edu; Max-Age=3600; Secure; SameSite=None
+set-cookie: x-ms-routing-name=self; path=/; HttpOnly; Domain=engage.fresnostate.edu; Max-Age=3600; Secure; SameSite=None
+content-length: 168
+strict-transport-security: max-age=31536000
+request-context: appId=cid-v1:62173779-219c-47a8-a7de-50e04641e7f6
+x-powered-by: Engage_RP
+content-security-policy: frame-ancestors 'self';
+x-frame-options: SAMEORIGIN
+

@@ -1,0 +1,19 @@
+HTTP/1.1 301 Moved Permanently
+Server: nginx/1.30.5
+Date: Wed, 14 Oct 2026 03:16:39 GMT
+Content-Type: text/html
+Content-Length: 169
+Connection: keep-alive
+Location: https://www.fresnostate.edu/robots.txt
+
+HTTP/2 200 
+date: Wed, 14 Oct 2026 03:16:39 GMT
+content-type: text/plain; charset=UTF-8
+content-length: 420
+server: Apache/2.4.68 (Amazon Linux) OpenSSL/3.5.8
+last-modified: Fri, 02 Feb 2024 19:21:30 GMT
+etag: "1a4-6106b04e8afd0"
+accept-ranges: bytes
+cache-control: max-age=120
+expires: Wed, 14 Oct 2026 03:18:39 GMT
+

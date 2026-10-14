@@ -1,0 +1,24 @@
+User-Agent: *
+Disallow: /web-test/
+Disallow: /v10test/
+Disallow: /accountingservices/bulldogimaging/
+Disallow: /magazine/author/amacdonald/
+Disallow: /magazine/author/aetchart/
+Disallow: /magazine/category/archive/fall-2015
+
+User-agent: MJ12bot
+Disallow: /
+
+User-agent: PiplBot
+Disallow: /
+
+User-agent: SemrushBot
+Disallow: /
+
+User-agent: SemrushBot-SA
+Disallow: /
+
+User-agent: AhrefsBot
+Disallow: /
+
+# Site Map Listing

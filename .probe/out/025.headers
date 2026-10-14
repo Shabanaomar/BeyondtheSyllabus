@@ -1,0 +1,25 @@
+HTTP/2 200 
+date: Wed, 14 Oct 2026 03:17:07 GMT
+content-type: text/html; charset=UTF-8
+server: cloudflare
+vary: Accept-Encoding
+vary: Accept-Encoding,Cookie
+x-frame-options: SAMEORIGIN
+access-control-allow-origin: https://www.berkeley.edu
+link: <https://www.berkeley.edu/wp-json/>; rel="https://api.w.org/"
+link: <https://www.berkeley.edu/wp-json/wp/v2/pages/6634>; rel="alternate"; title="JSON"; type="application/json"
+link: <https://www.berkeley.edu/>; rel=shortlink
+x-powered-by: WP Engine
+x-cacheable: SHORT
+cache-control: max-age=600, must-revalidate
+x-cache: HIT: 2
+x-cache-group: normal
+last-modified: Wed, 14 Oct 2026 03:12:10 GMT
+cf-cache-status: HIT
+set-cookie: __cf_bm=0NQeZmsSEiQsZvcCVY85KF3Pwg8rl4snUbMxTKXqqqU-1791947827.5399282-1.0.1.1-3ECw123.B5Df3haRmE8vNgxmWBQqh5ORHdQfGXgMhEjdB9RaBoYU5A6RLQC_wMtB4JCEHk8Hqs9pNAWyhMpqFcb1fKmG.UMG7HsbS5IJxE0DW5hsiipg.pX3Ci_QlXlp; HttpOnly; SameSite=None; Secure; Path=/; Domain=www.berkeley.edu; Expires=Wed, 14 Oct 2026 03:47:07 GMT
+referrer-policy: strict-origin-when-cross-origin
+x-permitted-cross-domain-policies: none
+age: 300
+cf-ray: a4a36de21911eaf9-ORD
+alt-svc: h3=":443"; ma=86400
+

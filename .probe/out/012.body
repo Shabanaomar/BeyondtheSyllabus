@@ -1,0 +1,824 @@
+<!DOCTYPE HTML><html lang="en">
+   <head>
+      <meta charset="UTF-8">
+      <meta http-equiv="x-ua-compatible" content="ie=edge">
+      <title>Home - Fresno State</title>
+      <link rel="canonical" href="https://www.fresnostate.edu/index.html">
+      <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+      <meta name="Description" content="Official site for California State University, Fresno. Home of the Fresno State Bulldogs.">
+      <meta name="Keywords" content="California State University Fresno, Fresno State, Fresno State Bulldogs, The Red Wave">
+      <!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-MSXS2SJ');</script>
+<!-- End Google Tag Manager -->
+<!-- this is the headcode include -->
+<!-- Required meta tags -->
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+<meta name="robots" content="index,follow">
+<meta name="googlebot" content="index,follow">
+<meta property="og:type" content="website">
+<meta property="og:title" content="Fresno State">
+<meta property="og:description" content="Official site for California State University, Fresno. Home of the Fresno State Bulldogs">
+<meta property="og:site_name" content="California State University, Fresno">
+
+<!-- Bootstrap CSS -->
+<link rel="stylesheet" href="https://omniresources.fresnostate.edu/css/bootstrap.css">
+<link rel="stylesheet" href="https://omniresources.fresnostate.edu/css/bootstrap-grid.min.css">
+<link rel="stylesheet" href="https://omniresources.fresnostate.edu/css/bootstrap-reboot.min.css">
+
+<!-- Fresno State CSS -->
+<link rel="stylesheet" href="https://omniresources.fresnostate.edu/css/styles-fa.css">
+<link rel="stylesheet" href="https://omniresources.fresnostate.edu/css/print.css">
+<link rel="stylesheet" href="https://omniresources.fresnostate.edu/css/totopstyle.css">
+<link rel="stylesheet" href="https://omniresources.fresnostate.edu/css/slick.css"/>
+<link rel="stylesheet" href="https://omniresources.fresnostate.edu/css/slick-theme.css"/>
+<link rel="stylesheet" href="https://omniresources.fresnostate.edu/css/slick-lightbox.css">
+<!--[if lt IE 9]>
+<script src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
+<![endif]-->
+<!-- Font Awescome CDN -->
+<script src="https://kit.fontawesome.com/3ff4806c53.js" crossorigin="anonymous"></script>
+<link rel="stylesheet" href="/_resources/css/oustyles.css" />
+      		
+      <link rel="stylesheet" href="/includes/youtube-styles.css">	
+      		
+      <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no, viewport-fit=cover">
+      		<!-- <style>	.emergency-alert {background-color: rgb(206, 209, 212, .95) !important; }</style> -->
+      	</head>
+   <body><!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-MSXS2SJ"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->  <!-- skip-to -->
+    <a class="sr-only sr-only-focusable" href="#main-content">Skip to main content</a>
+    <a class="sr-only sr-only-focusable" href="#site-navigation">Skip to main navigation</a>
+    <a class="sr-only sr-only-focusable" href="#footer">Skip to footer content</a>
+    <!-- /skip-to --><!--Off Screen Desktop Menu-->
+<div class="modal fade off-screen-nav" id="off-screen-main-nav"
+     tabindex="-1" role="dialog" aria-modal="true"
+     aria-labelledby="offScreenTitle" aria-describedby="offScreenDesc">
+  <div class="modal-dialog" role="document">
+    <div class="modal-content">
+
+      <!-- first focusable element -->
+ <button type="button" id="ql-close"
+        class="ql-close"
+        data-dismiss="modal"
+        aria-label="Close Quick Links">
+  <!-- Inline SVG avoids font-family conflicts -->
+  <svg aria-hidden="true" width="28" height="28" viewBox="0 0 24 24" focusable="false">
+    <path d="M18.3 5.7a1 1 0 0 0-1.4-1.4L12 9.17 7.1 4.3a1 1 0 1 0-1.4 1.4L10.83 12l-5.13 5.9a1 1 0 1 0 1.5 1.3L12 14.83l4.9 4.87a1 1 0 0 0 1.5-1.33L13.17 12l5.13-5.9z"/>
+  </svg>
+  <span class="sr-only">Close</span>
+</button>
+
+
+      <h2 id="offScreenTitle" class="sr-only">Quick Links menu</h2>
+      <p id="offScreenDesc" class="sr-only">Press Escape to close. Tab/Shift+Tab move between items.</p>
+
+      <div class="modal-body">
+        <!-- Remove the extra nested role="dialog" wrapper and tabpanel chrome -->
+        <nav class="audience" aria-label="Quick Links">
+  <ul class="nav">
+    <li class="nav-item">
+      <a href="https://calendar.fresnostate.edu/" class="nav-link">
+        <span class="fas fa-calendar-alt" aria-hidden="true"></span> Calendar
+      </a>
+    </li>
+    <li class="nav-item">
+      <a href="https://www.fresnostate.edu/canvas" class="nav-link">
+        <span class="fak fa-canvas" aria-hidden="true"></span> Canvas
+      </a>
+    </li>
+    <li class="nav-item">
+      <a href="https://www.fresnostate.edu/catalog/" class="nav-link">
+        <span class="fas fa-book-open" aria-hidden="true"></span> Catalog
+      </a>
+    </li>
+    <li class="nav-item">
+      <a href="https://directory.fresnostate.edu/" class="nav-link">
+        <span class="fas fa-user" aria-hidden="true"></span> Directory
+      </a>
+    </li>
+    <li class="nav-item">
+      <a href="https://mail.fresnostate.edu/" class="nav-link">
+        <span class="fas fa-envelope" aria-hidden="true"></span> Email
+      </a>
+    </li>
+    <li class="nav-item">
+      <a href="https://www.bkstr.com/kennelstore/home" class="nav-link">
+        <span class="fas fa-shopping-bag" aria-hidden="true"></span> Kennel Bookstore
+      </a>
+    </li>
+    <li class="nav-item">
+      <a href="https://www.fresnostate.edu/library/" class="nav-link">
+        <span class="fas fa-book" aria-hidden="true"></span> Library
+      </a>
+    </li>
+    <li class="nav-item">
+      <a href="https://maps.fresnostate.edu/" class="nav-link">
+        <span class="fas fa-map-marker-alt" aria-hidden="true"></span> Map
+      </a>
+    </li>
+    <li class="nav-item">
+      <a href="https://my.fresnostate.edu/" class="nav-link">
+        <span class="fas fa-cog" aria-hidden="true"></span> My Fresno State
+      </a>
+    </li>
+    <li class="nav-item">
+      <a href="https://help.fresnostate.edu/" class="nav-link">
+        <span class="fas fa-life-ring" aria-hidden="true"></span> Technology Service Desk
+      </a>
+    </li>
+    <li class="nav-item">
+      <a href="https://fresnostate.zoom.us/" class="nav-link">
+        <span class="fas fa-video" aria-hidden="true"></span> Zoom Conferencing
+      </a>
+    </li>
+  </ul>
+</nav>
+
+      </div>
+
+    </div>
+  </div>
+</div>
+
+    <!-- Mobile Logo, Icons -->
+    <div class="container-fluid mobile-header">
+        <div class="row">
+            <div class="col-12">
+                <div class="mobile-logo"><a href="https://fresnostate.edu"><span class="sr-only">Fresno State</span></a></div>
+
+                <div class="mobile-buttons-wrapper">
+                    <button type="button" class="searchToggle" data-toggle="modal" data-target="#siteSearch"><span
+                            class="sr-only">Search</span><span class="fas fa-search"></span></button>
+
+                    <button type="button" data-toggle="modal" data-target="#site-navigation" class="menuToggle"><span
+                            class="sr-only">Menu</span><span class="fas fa-bars"></span></button>
+                </div>
+            </div>
+        </div>
+    </div>      <header class="siteHeader sticky-wrapper">
+         <div class="modal fade" id="siteSearch" tabindex="-1" role="dialog" aria-labelledby="searchModal" aria-hidden="true">
+            <div class="modal-dialog" role="document">
+               <div class="modal-content">
+                  <div class="modal-body">
+                     <div class="container-fluid">
+                        <div class="row">
+                           <div class="col-lg-1"><button type="button" class="btn closeSearch" data-dismiss="modal"><span class="far fa-times-circle"></span> Close</button></div>
+                           <div class="col-lg-11"><form method="get" action="https://fresnostate.edu/search/">
+	<label for="search" id="searchModal">Search</label>
+	<input name="q" placeholder="Search" class="form-text" type="text" id="search"/>
+	<input value="GO" class="form-submit btn btn-default btn-black" type="submit"/>
+</form></div>
+                        </div>
+                     </div>
+                  </div>
+               </div>
+            </div>
+         </div>
+         <div class="modal fade site-navigation" id="site-navigation" tabindex="-1" role="dialog">
+            <div class="modal-dialog" role="document">
+               <div class="modal-content">
+                  <div class="modal-body"><button type="button" class="btn menuClose" data-dismiss="modal"><span class="far fa-times-circle"></span><span class="sr-only">Close Menu</span></button><nav class="main-navigation" aria-label="Primary navigation"><div class="top-row">
+	<div class="container">
+		<div class="row">
+			<div class="col-xl-2">
+				<div class="logo"><a href="https://fresnostate.edu" aria-label="Link in global nav to Fresno State homepage"><span class="sr-only">Fresno State</span></a>
+				</div>
+			</div>
+			<div class="col-xl-10">
+				<nav class="audience" aria-label="Global Navigation">
+					<ul class="nav justify-content-end">
+						<li class="nav-item"><a href="https://studentaffairs.fresnostate.edu/are/index.html" class="nav-link">Future Students</a></li>
+						<li class="nav-item"><a href="https://studentaffairs.fresnostate.edu/studentresources/index.html" class="nav-link">Current Students</a></li>
+						<li class="nav-item"><a href="https://fresnostate.edu/alumni/index.html" class="nav-link">Alumni</a></li>
+						<li class="nav-item"><a href="https://fresnostate.edu/faculty-staff.html" class="nav-link">Employees</a></li>
+						<li class="nav-item"><a href="https://connect.fresnostate.edu/p/m4aA7zBLDzQNYVel7lzTAsGUD" class="nav-link">Give</a></li>
+						<li><button type="button" class="btn searchToggle" data-toggle="modal" data-target="#siteSearch"><span class="sr-only">Search</span><span class="fas fa-search"></span></button></li>
+						<li><button type="button" data-toggle="modal" data-target="#off-screen-main-nav" title="Open Quick Links menu" class="quicklinks">Quick Links <span class="fas fa-angle-right"></span></button></li>
+					</ul>
+				</nav>
+			</div>
+		</div>
+	</div>
+</div><div class="bottom-row">
+	<div class="container">
+		<div class="row">
+			<div class="col">
+				<ul class="nav justify-content-center nav-fill">
+					<li class="nav-item"><a class="nav-link" href="/index.html"><span class="fas fa-home"></span><span class="sr-only">Home</span></a></li>
+					
+					<li class="nav-item"><a class="nav-link" href="/about.html" id="about_us">About Us</a></li>					
+					<li class="nav-item"><a class="nav-link" href="https://studentaffairs.fresnostate.edu/are/" id="admissions">Admissions <i class="fas fa-external-link-alt" aria-hidden="true"></i></a></li>
+					<li class="nav-item"><a class="nav-link" href="/academics.html" id="academics">Academics</a></li>
+					<li class="nav-item"><a class="nav-link" href="/student-life.html" id="student_life">Student Life</a></li>
+					<li class="nav-item"><a class="nav-link" href="/research.html" id="research">Research</a></li>
+					<li class="nav-item"><a class="nav-link" href="https://gobulldogs.com/" id="athletics">Athletics <i class="fas fa-external-link-alt" aria-hidden="true"></i></a></li>
+					<li class="nav-item"><a class="nav-link" href="https://covid.fresnostate.edu/" id="covid_19">COVID-19 <i class="fas fa-external-link-alt" aria-hidden="true"></i></a></li>											
+					
+				</ul>
+			</div>
+		</div>
+	</div>
+</div><div role="navigation" class="off-screen-nav-mobile-audience">
+	<h2>Quick Links</h2>
+	<nav class="audience" aria-label="Quick Links on Mobile">
+		<ul class="nav">
+			<li class="nav-item"><a href="https://calendar.fresnostate.edu/" class="nav-link"><span class="fas fa-calendar-alt" aria-hidden="true"></span> Calendar</a></li>
+			<li class="nav-item"><a href="https://www.fresnostate.edu/canvas" class="nav-link"><span class="fak fa-canvas" aria-hidden="true"></span> Canvas</a></li>									
+			<li class="nav-item"><a href="https://www.fresnostate.edu/catalog/" class="nav-link"><span class="fas fa-book-open" aria-hidden="true"></span> Catalog</a></li>			 
+			<li class="nav-item"><a href="https://directory.fresnostate.edu/" class="nav-link"><span class="fas fa-user" aria-hidden="true"></span> Directory</a></li>
+			<li class="nav-item"><a href="https://mail.fresnostate.edu/" class="nav-link"><span class="fas fa-envelope" aria-hidden="true"></span> Email</a></li>
+			<li class="nav-item"><a href="https://www.bkstr.com/kennelstore/home" class="nav-link"><span class="fas fa-envelope" aria-hidden="true"></span> Kennel Bookstore</a></li>
+			<li class="nav-item"><a href="https://www.fresnostate.edu/library/" class="nav-link"><span class="fas fa-book" aria-hidden="true"></span> Library</a></li>
+			<li class="nav-item"><a href="https://maps.fresnostate.edu/" class="nav-link"><span class="fas fa-map-marker-alt" aria-hidden="true"></span> Map</a></li>
+			<li class="nav-item"><a href="https://my.fresnostate.edu/" class="nav-link" ><span class="fas fa-cog" aria-hidden="true"></span> My Fresno State</a></li>
+			<li class="nav-item"><a href="https://help.fresnostate.edu/" class="nav-link"><span class="fas fa-envelope" aria-hidden="true"></span> Technology Service Desk</a></li>
+			<li class="nav-item"><a href="https://fresnostate.zoom.us/" class="nav-link"><span class="fas fa-webcam" aria-hidden="true"></span> Zoom Conferencing</a></li>	
+		</ul>
+	</nav>
+</div></nav>
+                  </div>
+               </div>
+            </div>
+         </div>
+      </header>
+      
+<!-- Insert google analytics here -->
+      <!-- Hero YouTube (Bootstrap 4) with zoomed crop + accessible controls -->
+      
+      <div class="yt-hero video-container" role="group" aria-label="Hero video" aria-describedby="hero-video-desc">
+         
+         <div id="hero-player" data-video="gvvZptMU-40"></div>
+         <!-- overlay captures mouse clicks; iframe stays non-interactive 
+  <div class="yt-overlay" aria-hidden="true"></div>--> <!-- Video description for screen readers -->
+         
+         <div id="hero-video-desc" class="sr-only">This short video highlights the vibrancy of Fresno Stateâ€™s campus. It features students
+            hiking nearby Yosemite National Park, conducting research, preparing for athletic
+            competitions, and participating in hands-on learning activities. It also showcases
+            regional landscapes, athletic fans, and graduates ready to cross the stage at commencement.
+            The footage is not accompanied by audio.</div>
+         
+         <div class="yt-controls"><!-- Hero Content with Overlay -->
+            
+            <div class="hero-content-wrapper">
+               
+               <div class="hero-overlay" aria-hidden="true">&nbsp;</div>
+               
+               <div class="hero-content">
+                  
+                  <h1 class="hero-title">We are the Pride of the Valley</h1>
+                  
+                  <p class="hero-description">Find the passion that fuels your purpose, and the pride that propels your success.</p>
+                  </div>
+               </div>
+            <!-- Play/Pause Button --> <button id="yt-toggle" class="btn btn-light btn-sm btn-hero mt-2" type="button" aria-controls="hero-player" aria-pressed="true"> Pause </button></div>
+         <!-- polite live region for SRs --> <span id="yt-status" class="sr-only" aria-live="polite"></span></div>
+      <div class="content">
+         <main id="main-content" role="main">
+            <div class="section">
+               
+               <div class="container">
+                  
+                  <div class="row">
+                     
+                     <div class="col-lg-4">
+                        
+                        <div class="icon-set d-flex align-items-center justify-content-center text-center">
+                           
+                           <div class="icon-text"><span class="number">300,000</span> <span class="text">Over 300,000 Bulldog alumni have graduated from Fresno State.</span></div>
+                           </div>
+                        </div>
+                     
+                     <div class="col-lg-4">
+                        
+                        <div class="icon-set d-flex align-items-center justify-content-center text-center">
+                           
+                           <div class="icon-text"><span class="number">No. 11</span> <span class="text">Ranked No. 11 among universities nationwide in Washington Monthly.</span></div>
+                           </div>
+                        </div>
+                     
+                     <div class="col-lg-4">
+                        
+                        <div class="icon-set d-flex align-items-center justify-content-center text-center">
+                           
+                           <div class="icon-text"><span class="number">80%</span> <span class="text">80% of Fresno State undergraduate students receive financial aid.</span></div>
+                           </div>
+                        </div>
+                     </div>
+                  </div>
+               </div>
+            
+            <div class="section bg-gray">
+               <div class="container">
+                  <div class="row">
+                     <div class="col">
+                        <h2 class="font-size-xl font-weight-light text-center mb-5">Discover Fresno State</h2>
+                     </div>
+                  </div>&nbsp;
+                  
+                  <div class="row">
+                     
+                     <div class="col-lg-4">
+                        <div class="card h-100">
+                           <div class="image-overlay">
+                              <div class="card-img-top" style="background-image: url('https://marcomm.fresnostate.edu/images/homepage/academics/homepage-academics.webp');"></div>
+                              <h3>Academics</h3>
+                              <div class="card-overlay"></div>
+                           </div>
+                           <div class="card-body d-flex flex-column">
+                              <p class="card-text">
+                                 Fresno State’s eight schools and colleges offer a wide range of undergraduate, post-baccalaureate
+                                 and doctoral degree programs that emphasize hands-on learning experiences designed
+                                 to prepare you for success after graduation.
+                                 </p><a href="/academics.html" class="btn btn-default mt-auto w-100">Explore our academic programs</a></div>
+                        </div>
+                     </div>
+                     
+                     
+                     <div class="col-lg-4">
+                        <div class="card h-100">
+                           <div class="image-overlay">
+                              <div class="card-img-top" style="background-image: url('https://marcomm.fresnostate.edu/images/homepage/athletics/homepage-athletics.webp');"></div>
+                              <h3>Athletics</h3>
+                              <div class="card-overlay"></div>
+                           </div>
+                           <div class="card-body d-flex flex-column">
+                              <p class="card-text">
+                                 Fresno State Athletics is the heart of our community. In the ninth most diverse city
+                                 in the nation, everyone comes together under the swell of the Red Wave. Show your
+                                 Bulldog pride and attend one of our many athletic events.
+                                 </p><a href="https://gobulldogs.com/calendar" class="btn btn-default mt-auto w-100">See the schedule</a></div>
+                        </div>
+                     </div>
+                     
+                     
+                     <div class="col-lg-4">
+                        <div class="card h-100">
+                           <div class="image-overlay">
+                              <div class="card-img-top" style="background-image: url('https://marcomm.fresnostate.edu/images/homepage/admissions/homepage-admissions.webp');"></div>
+                              <h3>Admissions</h3>
+                              <div class="card-overlay"></div>
+                           </div>
+                           <div class="card-body d-flex flex-column">
+                              <p class="card-text">
+                                 When you attend Fresno State, you join a community of nearly 24,000 students who call
+                                 our campus home. Learn more about important deadlines and the steps you can take to
+                                 become a Bulldog today.
+                                 </p><a href="https://studentaffairs.fresnostate.edu/are/" class="btn btn-default mt-auto w-100">Become a Bulldog</a></div>
+                        </div>
+                     </div>
+                     </div>
+                  </div>
+            </div>
+            
+            <div class="bg-gray pb-3">
+               
+               <div class="container">
+                  
+                  <div class="row">
+                     
+                     <div class="col-sm-12">
+                        
+                        <div class="row d-flex justify-content-center h-100">
+                           
+                           <div class="col-md-12">
+                              
+                              <div class="card h-100  bg-b1a610">
+                                 
+                                 <div class="card-body m-3  bg-b1a610">
+                                    
+                                    <div class="row">
+                                       
+                                       <div class="col-lg-4 d-flex justify-content-center align-items-center mb-4 mb-lg-0"><img class="rounded-circle mb-4 mb-lg-0 shadow-2" src="https://marcomm.fresnostate.edu/images/homepage/quotes/homepage-quote.webp" alt="Manuela Mendolicchio" width="200" height="200"></div>
+                                       
+                                       <div class="col-lg-8">
+                                          
+                                          <figure>
+                                             
+                                             <blockquote class="blockquote mb-4">
+                                                
+                                                <p><i class="fas fa-quote-left fa-lg text-danger me-2" aria-hidden="true"></i> Fresno State has always been a top choice, and I loved its emphasis on hands-on classes
+                                                   and the ability to explore a wide variety of career paths within the food industry.</p>
+                                                </blockquote>
+                                             
+                                             <figcaption class="blockquote-footer"><a title="International student finds recipe for success 8,500 miles from home" href="https://today.fresnostate.edu/international-student-finds-recipe-for-success-8500-miles-from-home/"><cite title="Source Title"> Kaylin Prayitno&nbsp;| class of 2025</cite></a></figcaption>
+                                             </figure>
+                                          </div>
+                                       </div>
+                                    </div>
+                                 </div>
+                              </div>
+                           </div>
+                        </div>
+                     </div>
+                  </div>
+               </div>
+            
+            <section class="bg-white fullwidth-split">
+               
+               <div class="container-fluid">
+                  
+                  <div class="row no-gutters">
+                     
+                     <div class="col-12 col-sm-6 fullwidth-split-image"><img class="bg-image" src="https://marcomm.fresnostate.edu/images/homepage/250517event048v2.jpg" alt="Graduate shaking hands with a faculty member as they cross the stage at commencement"></div>
+                     
+                     <div class="col-12 col-sm-6 fullwidth-split-text">
+                        
+                        <div class="col-12 col-sm-8">
+                           
+                           <h2 class="font-size-lg font-weight-light">Reaffirming our excellence</h2>
+                           <span class="lead pb-3 font-weight-light">Fresno State is proud to announce that its accreditation by the Western Association
+                              of Schools and Colleges Senior College and University Commission has been reaffirmed
+                              for 10 years—the longest reaffirmation period possible and one reserved for institutions
+                              that demonstrate the highest levels of quality, effectiveness and integrity.</span>
+                           
+                           <p><a class="btn btn-default" href="https://academics.fresnostate.edu/wscuc/index.html">Learn more about the reaccreditation process</a></p>
+                           </div>
+                        </div>
+                     </div>
+                  </div>
+               </section>
+            
+            <section class="bg-white fullwidth-split">
+               
+               <div class="container-fluid">
+                  
+                  <div class="row no-gutters">
+                     
+                     <div class="col-12 col-sm-6 fullwidth-split-text">
+                        
+                        <div class="col-12 col-sm-8">
+                           
+                           <h2 class="font-size-lg font-weight-light">Lead With Pride – The Campaign for Fresno State</h2>
+                           <span class="lead pb-3 font-weight-light">It’s Fresno State’s largest-ever philanthropic campaign — inspiring unprecedented
+                              support for the entire Bulldog community. As the university continues to elevate its
+                              academic and athletic achievements, now is the time to lead with pride and join the
+                              wave that will amplify our legacy of excellence and impact.</span>
+                           
+                           <p><a class="btn btn-default" href="https://leadwithpride.fresnostate.edu/">Join the wave</a></p>
+                           </div>
+                        </div>
+                     
+                     <div class="col-12 col-sm-6 fullwidth-split-image"><img class="bg-image" src="https://marcomm.fresnostate.edu/images/homepage/250830athletics017.jpg" alt="Fresno state view from air"></div>
+                     </div>
+                  </div>
+               </section>
+            
+            <div class="tab-option-2 pt-3">
+               <nav role="tablist" aria-label="tab list">
+                  
+                  <div id="nav-tab-a" class="nav nav-tabs justify-content-center" role="tablist"><a id="tab-2-parent" class="nav-item nav-link active" role="tab" href="#tab-2-a" data-toggle="tab" aria-controls="tab-2-a" aria-selected="true">Go Inside</a> <a id="tab-4-parent" class="nav-item nav-link" role="tab" href="#tab-4-a" data-toggle="tab" aria-controls="tab-4-a" aria-selected="false">Go Outside</a></div>
+                  </nav>
+               
+               <div id="nav-tabContent-a" class="tab-content">
+                  
+                  <div id="tab-2-a" class="tab-pane fade active show" role="tabpanel" aria-labelledby="tab-2-parent">
+                     
+                     <ul class="row feature-list feature-list-sm">
+                        
+                        <li class="col-12 col-md-6 col-lg-4">
+                           
+                           <div class="card card-lg">
+                              
+                              <figure><img class="card-img-top figure-img" src="https://advancement.fresnostate.edu/brand/images/homepage/inside/181109academics014.webp" alt="Fresno State nursing student in campus lab" data-action="zoom">
+                                 
+                                 <figcaption class="figure-caption text-center font-weight-bold">Gain clinical experience.</figcaption>
+                                 </figure>
+                              </div>
+                           </li>
+                        
+                        <li class="col-12 col-md-6 col-lg-4">
+                           
+                           <div class="card card-lg">
+                              
+                              <figure><img class="card-img-top figure-img" src="https://advancement.fresnostate.edu/brand/images/homepage/inside/190304lifestyle002.webp" alt="Fresno State student studying in the University Library" data-action="zoom">
+                                 
+                                 <figcaption class="figure-caption text-center font-weight-bold">The 365,000-square-foot library is located at the heart of campus.</figcaption>
+                                 </figure>
+                              </div>
+                           </li>
+                        
+                        <li class="col-12 col-md-6 col-lg-4">
+                           
+                           <div class="card card-lg">
+                              
+                              <figure><img class="card-img-top figure-img" src="https://advancement.fresnostate.edu/brand/images/homepage/inside/200109academics009.webp" alt="Fresno State engineering student working with a 3D printer" data-action="zoom">
+                                 
+                                 <figcaption class="figure-caption text-center font-weight-bold">Gain hands-on experience in campus labs.</figcaption>
+                                 </figure>
+                              </div>
+                           </li>
+                        
+                        <li class="col-12 col-md-6 col-lg-3">
+                           
+                           <div class="card card-lg">
+                              
+                              <figure><img class="card-img-top figure-img" src="https://advancement.fresnostate.edu/brand/images/homepage/inside/victor-e-bulldog-iv.webp" alt="Fresno State students pose with Victor E. Bulldog IV" data-action="zoom">
+                                 
+                                 <figcaption class="figure-caption text-center font-weight-bold">Meet Fresno State’s furry live mascot, Victor E. Bulldog IV.</figcaption>
+                                 </figure>
+                              </div>
+                           </li>
+                        
+                        <li class="col-12 col-md-6 col-lg-3">
+                           
+                           <div class="card card-lg">
+                              
+                              <figure><img class="card-img-top figure-img" src="https://advancement.fresnostate.edu/brand/images/homepage/inside/221004event053.webp" alt="Students walking through the Resnick Student Union main floor" data-action="zoom">
+                                 
+                                 <figcaption class="figure-caption text-center font-weight-bold">Get involved on campus at the Resnick Student Union.</figcaption>
+                                 </figure>
+                              </div>
+                           </li>
+                        
+                        <li class="col-12 col-md-6 col-lg-3">
+                           
+                           <div class="card card-lg">
+                              
+                              <figure><img class="card-img-top figure-img" src="https://advancement.fresnostate.edu/brand/images/homepage/inside/221102athletics125.webp" alt="Men's basketball student-athlete holding off competitor" data-action="zoom">
+                                 
+                                 <figcaption class="figure-caption text-center font-weight-bold">18 varsity teams compete in NCAA Division I.</figcaption>
+                                 </figure>
+                              </div>
+                           </li>
+                        
+                        <li class="col-12 col-md-6 col-lg-3">
+                           
+                           <div class="card card-lg">
+                              
+                              <figure><img class="card-img-top figure-img" src="https://advancement.fresnostate.edu/brand/images/homepage/inside/221220event054.webp" alt="Fresno State students performing at the Hmong New Year celebration" data-action="zoom">
+                                 
+                                 <figcaption class="figure-caption text-center font-weight-bold">Students participate in cultural events on campus.</figcaption>
+                                 </figure>
+                              </div>
+                           </li>
+                        </ul>
+                     </div>
+                  
+                  <div id="tab-4-a" class="tab-pane fade" role="tabpanel" aria-labelledby="tab-4-parent">
+                     
+                     <ul class="row feature-list feature-list-sm">
+                        
+                        <li class="col-12 col-md-6 col-lg-4">
+                           
+                           <div class="card card-lg">
+                              
+                              <figure><img class="card-img-top figure-img" src="https://advancement.fresnostate.edu/brand/images/homepage/outside/210614academics027.webp" alt="Fresno State biology alumna Kathryn Ramirez walking through the Panoche Hills" data-action="zoom">
+                                 
+                                 <figcaption class="figure-caption text-center font-weight-bold">Study endangered species in Panoche Hills.</figcaption>
+                                 </figure>
+                              </div>
+                           </li>
+                        
+                        <li class="col-12 col-md-6 col-lg-4">
+                           
+                           <div class="card card-lg">
+                              
+                              <figure><img class="card-img-top figure-img" src="https://advancement.fresnostate.edu/brand/images/homepage/outside/181201academics614.webp" alt="Fresno State students collecting research samples on a beach near Morro Bay" data-action="zoom">
+                                 
+                                 <figcaption class="figure-caption text-center font-weight-bold">Conduct research with faculty at Morro Bay.</figcaption>
+                                 </figure>
+                              </div>
+                           </li>
+                        
+                        <li class="col-12 col-md-6 col-lg-4">
+                           
+                           <div class="card card-lg">
+                              
+                              <figure><img class="card-img-top figure-img" src="https://advancement.fresnostate.edu/brand/images/homepage/outside/180921academics181.webp" alt="Fresno State students with snorkels walking through a creek" data-action="zoom">
+                                 
+                                 <figcaption class="figure-caption text-center font-weight-bold">Study species at Sequoia National Park.</figcaption>
+                                 </figure>
+                              </div>
+                           </li>
+                        
+                        <li class="col-12 col-md-6 col-lg-3">
+                           
+                           <div class="card card-lg">
+                              
+                              <figure><img class="card-img-top figure-img" src="https://advancement.fresnostate.edu/brand/images/homepage/outside/220927academics001.webp" alt="Group of Fresno State students with hard hats exploring a construction site" data-action="zoom">
+                                 
+                                 <figcaption class="figure-caption text-center font-weight-bold">Engage in hands-on learning at the Fresno Chaffee Zoo.</figcaption>
+                                 </figure>
+                              </div>
+                           </li>
+                        
+                        <li class="col-12 col-md-6 col-lg-3">
+                           
+                           <div class="card card-lg">
+                              
+                              <figure><img class="card-img-top figure-img" src="https://advancement.fresnostate.edu/brand/images/homepage/outside/181031academics069.webp" alt="Fresno State student tending to sheep on the campus farm" data-action="zoom">
+                                 
+                                 <figcaption class="figure-caption text-center font-weight-bold">Gain rich agricultural experience at the campus farm.</figcaption>
+                                 </figure>
+                              </div>
+                           </li>
+                        
+                        <li class="col-12 col-md-6 col-lg-3">
+                           
+                           <div class="card card-lg">
+                              
+                              <figure><img class="card-img-top figure-img" src="https://advancement.fresnostate.edu/brand/images/homepage/outside/220210academics046.webp" alt="Fresno State students collecting research samples in the San Joaquin River" data-action="zoom">
+                                 
+                                 <figcaption class="figure-caption text-center font-weight-bold">Take field trips to the San Joaquin River.</figcaption>
+                                 </figure>
+                              </div>
+                           </li>
+                        
+                        <li class="col-12 col-md-6 col-lg-3">
+                           
+                           <div class="card card-lg">
+                              
+                              <figure><img class="card-img-top figure-img" src="https://advancement.fresnostate.edu/brand/images/homepage/outside/230307event025.webp" alt="Fresno State students volunteering for Kids Day" data-action="zoom">
+                                 
+                                 <figcaption class="figure-caption text-center font-weight-bold">Participate in local service opportunities.</figcaption>
+                                 </figure>
+                              </div>
+                           </li>
+                        </ul>
+                     </div>
+                  </div>
+               </div>
+            
+            <div class="section section-with-background news-events" style="background-image: url('https://omniresources.fresnostate.edu/images/homepage/campus-arial.jpeg');">
+               
+               <div class="overlay">&nbsp;</div>
+               
+               <div class="container">
+                  
+                  <div class="row">
+                     
+                     <div class="col">
+                        
+                        <h2>News and Events</h2>
+                        </div>
+                     </div>
+                  
+                  <div class="row row-eq-height">
+                     
+                     <div class="col-lg-6 col-xl-6">
+                        
+                        <div class="events">
+                           
+                           <div class="news-events-header">
+                              <span style="color: #931023; font-size: 16px; text-transform: uppercase; font-weight: bold;">Latest News</span>
+                              <a class="more" href="https://today.fresnostate.edu/">See All News</a></div>
+                           
+                           <div class="card">
+                              
+                              <div class="image-overlay"><a href="https://today.fresnostate.edu/the-big-fresno-fair-and-fresno-state-fight-student-hunger-on-fill-the-need-day/">
+                                    
+                                    <div class="card-img-top" style="background-image: url('https://marcomm.fresnostate.edu/images/homepage/latest-news/homepage-latestnews.webp');">&nbsp;</div>
+                                    
+                                    <h3>Fight student hunger on Fill the Need Day</h3>
+                                    
+                                    <div class="card-overlay">&nbsp;</div>
+                                    </a></div>
+                              </div>
+                           The <a href="https://www.fresnofair.com/Tickets?target=_blank">Big Fresno Fair </a>and Fresno State are teaming up for the second annual Fill the Need Day on Thursday,
+                           Oct. 15, offering fair admission for just $6 while supporting Fresno State students
+                           facing food insecurity. For every Fill the Need ticket sold, $3 will directly benefit
+                           the <a href="https://studentaffairs.fresnostate.edu/foodsecurity/student-cupboard.html?target=_blank">Amendola Family Student Cupboard</a>, which provides free food, hygiene products and other essential resources to Fresno
+                           State students.&nbsp;<br><br><a href="https://today.fresnostate.edu/the-big-fresno-fair-and-fresno-state-fight-student-hunger-on-fill-the-need-day/">Learn more about the impact.</a>
+                           </div> 
+                        </div>
+                     
+                     <div class="col-lg-6 col-xl-6">
+                        	<div class="events">					<div class="news-events-header">						<span style="color: #931023; font-size: 16px; text-transform: uppercase; font-weight: bold;">Coming Up</span><a href="https://calendar.fresnostate.edu" class="more">See All Events</a></div>					<div class="card">						<div class="image-overlay"><a href="https://gobulldogs.evenue.net/list/FB">							<div class="card-img-top" style="background-image: url(https://marcomm.fresnostate.edu/images/homepage/coming-up/homepage-comingup.webp);"></div>							<h3>Fresno State Football</h3>							<div class="card-overlay"></div></a>						</div>					</div> 					<ul class="events-list"><li><div class="date">10/14</div><a href="https://calendar.fresnostate.edu/#event-details/c619652d-1133-4e26-b022-fb1d480e6638/instances/2026-10-14T18:00">Wellness Wednesday and the Fresh Fruit Break</a></li><li><div class="date">10/14</div><a href="https://calendar.fresnostate.edu/#event-details/05f79156-8152-4d5c-97d7-177d66138fd3">Admitted Students: Next Steps Webinar</a></li><li><div class="date">10/16</div><a href="https://calendar.fresnostate.edu/#event-details/11b3b3f5-f8ee-4273-b983-4b71b156b5e4">Cineculture Screening: Child of Dust (2025)</a></li><li><div class="date">10/17</div><a href="https://calendar.fresnostate.edu/#event-details/6a02aa22-3d26-4704-b157-410fee7458db">Fresno Writers Summit 2026</a></li><li><div class="date">10/19</div><a href="https://calendar.fresnostate.edu/#event-details/4c63dcc4-b57c-421c-9eda-118cc1c36684">Free Flu Shot Clinics</a></li>					</ul>				</div> 
+                        </div>
+                     </div>
+                  </div>
+               
+               <div class="news-footer">
+                  
+                  <div class="container">
+                     
+                     <div class="row">
+                        
+                        <div class="col">
+                           
+                           <h3 class="bordered-headline text-white">News/Events Sources</h3>
+                           
+                           <div class="row">
+                              <div class="col-md-6">
+                                 
+                                 <ul>
+                                    
+                                    <li><strong class="text-white">Produced by University Marketing and Communications</strong></li>
+                                    
+                                    <li><a href="https://campusnews.fresnostate.edu/">Campus Newsletter</a></li>
+                                    
+                                    <li><a href="https://today.fresnostate.edu/">Fresno State Today</a></li>
+                                    </ul>
+                                 </div>
+                              <div class="col-md-6">
+                                 
+                                 <ul>
+                                    
+                                    <li><strong class="text-white">Produced by Students</strong></li>
+                                    
+                                    <li><a href="http://www.thebulldogblog.net/">Bulldog Blog</a></li>
+                                    
+                                    <li><a href="https://collegian.csufresno.edu/">The Collegian</a></li>
+                                    </ul>
+                                 </div>
+                           </div>
+                           </div>
+                        </div>
+                     </div>
+                  </div>
+            </div>
+         </main>
+      </div>
+      <footer id="footer">
+         <div class="container">
+            <div class="row"><div class="col-lg-3">
+	<h2><a href="https://fresnostate.edu">California State University, Fresno</a></h2>
+	<ul class="footer-address">
+		<li class="location">
+			<a href="https://goo.gl/maps/4QkPVcVUFosBohKW7">5241 N. Maple Ave.<br>
+				Fresno, CA 93740</a></li>
+		<li>P <a href="tel:1-559-278-4240">559.278.4240</a></li>
+		<li>Campus Police: <a href="tel:1-559-278-8400">559.278.8400</a></li>
+	</ul>
+</div>
+
+
+<div class="col-lg-3">
+<h2>Accessibility &amp; Support</h2>
+<ul class="list-unstyled">
+<li><a href="https://accessibility.fresnostate.edu">Accessibility</a></li>
+	<li><a href="javascript:Optanon.ToggleInfoDisplay()">Cookie Settings</a></li>
+<li><a href="https://www.fresnostate.edu/commentform.html">Comment Form</a></li>
+	<li><a href="https://fresnostate.kualibuild.com/app/69b2f4e29ccd870291e4247e/start">Report an Issue</a></li>
+
+</ul>
+</div>
+
+<div class="col-lg-3">
+<h2>Policies &amp; Compliance</h2>
+<ul class="list-unstyled">
+<li><a href="https://www.fresnostate.edu/equal-access.html">Equal Access</a></li>
+<li><a href="https://occr.fresnostate.edu/index.html">Title IX Compliance</a></li>
+<li><a href="https://www.fresnostate.edu/disclaimer.html">Disclaimer</a></li>
+<li><a href="https://academics.fresnostate.edu/wscuc/">WSCUC</a></li>
+</ul>
+</div>
+
+<div class="col-lg-3">
+<h2>Campus Information</h2>
+<ul class="list-unstyled">
+<li><a href="https://adminfinance.fresnostate.edu/police/emergency.html">Emergencies</a></li>
+<li><a href="https://covid.fresnostate.edu/">COVID-19 Updates</a></li>
+<li><a href="https://president.fresnostate.edu/opportunities-for-all.html">Opportunities for All</a></li>
+	<li><a href="https://studentaffairs.fresnostate.edu/health/wellness/studentparents.html">Student Parent Resources</a></li>
+</ul>
+</div></div>
+         </div>
+         <div class="copyright">
+	<div class="container">
+		<div class="row">
+			<div class="col-md-6">
+				<a href="https://www.fresnostate.edu/copyright.html">© Fresno State 2026</a><br/>
+				<span id="directedit"></span>
+			</div>
+			<div class="col-md-6">
+				<ul class="footer-social">
+					<li><a href="https://www.facebook.com/FresnoState" class="facebook"><span class="sr-only">Fresno State Facebook</span></a></li>
+					<li><a href="https://twitter.com/Fresno_State" class="twitter"><span class="sr-only">Fresno State Twitter</span></a></li>
+					<li><a href="https://www.instagram.com/fresno_state/" class="instagram"><span class="sr-only">Fresno State Instagram</span></a></li>
+					<li><a href="https://www.youtube.com/channel/UCbloblFKJwjmQ0uTnSjcJDA" class="youtube"><span class="sr-only">Fresno State YouTube</span></a></li>
+					<li><a href="https://www.tiktok.com/@fresno_state" class="tiktok"><span class="sr-only">Fresno State Tiktok</span></a></li>
+					<li><a href="https://www.linkedin.com/school/california-state-university-fresno/" class="linkedin"><span class="sr-only">Fresno State LinkedIn</span></a></li>
+					<li><a href="https://connect.fresnostate.edu/p/m4aA7zBLDzQNYVel7lzTAsGUD" class="hand-holding-usd"><span class="sr-only">Donation</span></a></li>
+				</ul>
+			</div>
+		</div>
+	</div>
+</div>
+<div class="text-center copyright mt-0">
+  <span class="d-inline-block pb-1">All Fresno State programs and activities are open and available to all regardless of race, sex, color,  ethnicity or national origin.</span>
+</div></footer><button data-target="#0" class="cd-top"><span class="sr-only">Back to Top</span></button>
+      
+<!-- Optional JavaScript -->
+<!-- jQuery first, then Popper.js, then Bootstrap JS -->
+<script src="//code.jquery.com/jquery-3.3.1.min.js"></script>
+<script src="//cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js"></script>
+<script src="https://omniresources.fresnostate.edu/js/bootstrap.js"></script>
+<script src="https://omniresources.fresnostate.edu/js/scripts.js"></script>
+<script src="https://omniresources.fresnostate.edu/js/slick.min.js"></script>
+<script src="https://omniresources.fresnostate.edu/js/zoom.js"></script><div id="ou-hidden" style="display:none;"><ul><li class="space"><a id="de" href="https://a.cms.omniupdate.com/11/?skin=fresnostate&amp;account=csufresno&amp;site=aws-fresnostate&amp;action=de&amp;path=/index.pcf">Last Updated Oct 5, 2026</a></li></ul></div><script>
+			if(document.getElementById("de") != null && document.getElementById("directedit")) {
+				var link = document.getElementById("de").parentNode.innerHTML;
+				document.getElementById("de").parentNode.innerHTML = "";
+				document.getElementById("directedit").innerHTML = link.replace(/^\s+|\s+$/gm,'');
+			}
+		</script>
+      	<script src="https://www.fresnostate.edu/includes/cred.js" crossorigin="anonymous"></script>
+      	<script src="https://omniresources.fresnostate.edu/js/quicklinks-script.js"></script></body>
+</html>

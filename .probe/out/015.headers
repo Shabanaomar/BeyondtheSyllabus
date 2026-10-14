@@ -1,0 +1,18 @@
+HTTP/2 200 
+date: Wed, 14 Oct 2026 03:16:53 GMT
+content-type: text/plain; charset=utf-8
+server: cloudflare
+vary: Accept-Encoding
+link: <https://engineering.berkeley.edu/wp-json/>; rel="https://api.w.org/"
+x-powered-by: WP Engine
+x-robots-tag: noindex, follow
+x-cacheable: CacheAlways: forever
+cache-control: max-age=14400, must-revalidate
+x-cache: MISS
+last-modified: Wed, 14 Oct 2026 03:16:53 GMT
+set-cookie: __cf_bm=En4rFUXt41Tjen1CCosMJFM7QGKxxU5Ip06wqh09hJ0-1791947813.8811615-1.0.1.1-ywMDVkM3gcAOp7O0pE5B2ezzIhjG6TGDXQr4sH2xY2uB6OkRcP2tSKXI3usi0j0FTUyQRgL07BsUpQ4KQeaSV7remrsfwFz8qas_wBJY_JOxD.7_R1nghw6DH5m6OAkC; HttpOnly; SameSite=None; Secure; Path=/; Domain=engineering.berkeley.edu; Expires=Wed, 14 Oct 2026 03:46:53 GMT
+content-security-policy: upgrade-insecure-requests
+cf-cache-status: HIT
+cf-ray: a4a36d8cbb48863e-ORD
+alt-svc: h3=":443"; ma=86400
+

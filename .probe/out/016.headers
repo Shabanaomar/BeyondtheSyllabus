@@ -1,0 +1,21 @@
+HTTP/2 200 
+cache-control: public, max-age=7200
+content-type: text/plain; charset=utf-8
+link: <https://studentaffairs.berkeley.edu/wp-json/>; rel="https://api.w.org/"
+server: nginx
+set-cookie: quform_session_a4f543df8b0c9a659d23e96cd46ca3c7=Ms1xc2quyj1cfnmakHKvQ0GZXK1CrRisc5bceC8u; path=/; secure; httponly; samesite=None
+strict-transport-security: max-age=300
+x-pantheon-styx-hostname: styx-us-a-58d475665b-j2vtj
+x-robots-tag: noindex, follow
+x-styx-req-id: b5364bb4-c77d-11f1-8234-ca1332ed6442
+date: Wed, 14 Oct 2026 03:16:55 GMT
+x-served-by: cache-chi-kmdw8640086-CHI
+x-cache: MISS
+x-cache-hits: 0
+x-timer: S1791947815.012226,VS0,VE222
+vary: Accept-Encoding
+age: 0
+accept-ranges: bytes
+via: 1.1 varnish
+content-length: 219
+

@@ -1,0 +1,8 @@
+Sitemap: https://engage.fresnostate.edu/sitemap.xml
+
+User-agent: *
+Disallow: /notfound
+Disallow: /forbidden
+Disallow: /error
+Disallow: /api/
+Disallow: /engage/
